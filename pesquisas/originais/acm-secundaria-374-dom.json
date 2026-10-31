@@ -1,0 +1,1505 @@
+{
+  "date": "2026-10-22",
+  "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\") AND (\"systematic literature review\" OR \"systematic review\" OR \"literature review\" OR survey)",
+  "scope": "ACM Full-Text Collection; sem filtros",
+  "count": 374,
+  "method": "Registo dos títulos e URLs das oito páginas de resultados; exportação nativa oculta na vista móvel",
+  "rows": [
+    {
+      "title": "SoK: Reshaping Research on Network Intrusion Detection Systems",
+      "url": "https://dl.acm.org/doi/10.1145/3779208.3807488"
+    },
+    {
+      "title": "ROSCA: Robust and Scalable Security Alert Correlation and Prioritisation using the MITRE ATT&CK Framework",
+      "url": "https://dl.acm.org/doi/10.1145/3733826.3762680"
+    },
+    {
+      "title": "Ruling the Unruly: Designing Effective, Low-Noise Network Intrusion Detection Rules for Security Operations Centers",
+      "url": "https://dl.acm.org/doi/10.1145/3708821.3710823"
+    },
+    {
+      "title": "Identity and Access Management Metrics: A Systematic Review",
+      "url": "https://dl.acm.org/doi/10.1145/3788858"
+    },
+    {
+      "title": "Exploring the Role of Artificial Intelligence in Enhancing Security Operations: A Systematic Review",
+      "url": "https://dl.acm.org/doi/10.1145/3747587"
+    },
+    {
+      "title": "Goosewolf: An Embedded Intrusion Detection System for Advanced Programmable Logic Controllers",
+      "url": "https://dl.acm.org/doi/10.1145/3617692"
+    },
+    {
+      "title": "On Vulnerability and Security Log analysis",
+      "url": "https://dl.acm.org/doi/10.1145/3400286.3418261"
+    },
+    {
+      "title": "Poster: M2ASK: A Correlation-Based Multi-Step Attack Scenario Detection Framework Using MITRE ATT&CK Mapping",
+      "url": "https://dl.acm.org/doi/10.1145/3658644.3691392"
+    },
+    {
+      "title": "An approach to represent and transform application-specific constraints for an intrusion detection system",
+      "url": "https://dl.acm.org/doi/10.5555/3432601.3432609"
+    },
+    {
+      "title": "Host-Based Intrusion Detection System with System Calls",
+      "url": "https://dl.acm.org/doi/10.1145/3214304"
+    },
+    {
+      "title": "IPv6 Routing Protocol for Low-Power and Lossy Networks Security Vulnerabilities and Mitigation Techniques: A Survey",
+      "url": "https://dl.acm.org/doi/10.1145/3732776"
+    },
+    {
+      "title": "Digital Twins in Security Operations: State of the Art and Future Perspectives",
+      "url": "https://dl.acm.org/doi/10.1145/3746279"
+    },
+    {
+      "title": "Automatic event categorizer for SIEM",
+      "url": "https://dl.acm.org/doi/10.5555/3507788.3507803"
+    },
+    {
+      "title": "GraphWeaver: Billion-Scale Cybersecurity Incident Correlation",
+      "url": "https://dl.acm.org/doi/10.1145/3627673.3680057"
+    },
+    {
+      "title": "Machine Learning-Driven DDoS Defense: Feature Engineering, Algorithm Selection, and End-to-End System Validation",
+      "url": "https://dl.acm.org/doi/10.1145/3789418.3789445"
+    },
+    {
+      "title": "Open-Source Cyberthreat Intelligence Integration for SMEs",
+      "url": "https://dl.acm.org/doi/10.1145/3759023.3759108"
+    },
+    {
+      "title": "How to Make an Intrusion Detection SystemAware of Steganographic Transmission",
+      "url": "https://dl.acm.org/doi/10.1145/3487405.3487421"
+    },
+    {
+      "title": "Alert Alchemy: SOC Workflows and Decisions in the Management of NIDS Rules",
+      "url": "https://dl.acm.org/doi/10.1145/3576915.3616581"
+    },
+    {
+      "title": "SIEM Architecture for the Internet of Things and Smart City",
+      "url": "https://dl.acm.org/doi/10.1145/3460620.3460747"
+    },
+    {
+      "title": "Exploring Data Breach Prevention Strategies in Real-Time Systems Integration and Architecture in the Healthcare Industry",
+      "url": "https://dl.acm.org/doi/10.1145/3688268.3688291"
+    },
+    {
+      "title": "AIDA Framework",
+      "url": "https://dl.acm.org/doi/10.1145/3339252.3340513"
+    },
+    {
+      "title": "A Systematic Mapping Study on Intrusion Alert Analysis in Intrusion Detection Systems",
+      "url": "https://dl.acm.org/doi/10.1145/3184898"
+    },
+    {
+      "title": "StealthCup: Realistic, Multi-Stage, Evasion-Focused CTF for Benchmarking IDS",
+      "url": "https://dl.acm.org/doi/10.1145/3779208.3806088"
+    },
+    {
+      "title": "Citar: Cyberthreat Intelligence-driven Attack Reconstruction",
+      "url": "https://dl.acm.org/doi/10.1145/3714393.3726519"
+    },
+    {
+      "title": "ML4SOC: A Comprehensive Review on Machine Learning for Security Operations Centres",
+      "url": "https://dl.acm.org/doi/10.1145/3820494"
+    },
+    {
+      "title": "Security Barriers to Trustworthy AI-Driven Cyber Threat Intelligence in Finance: Evidence from Practitioners",
+      "url": "https://dl.acm.org/doi/10.1145/3800506.3803505"
+    },
+    {
+      "title": "A Survey on Cyber Resilience: Key Strategies, Research Challenges, and Future Directions",
+      "url": "https://dl.acm.org/doi/10.1145/3649218"
+    },
+    {
+      "title": "SteinerLog",
+      "url": "https://dl.acm.org/doi/10.1145/3488932.3523261"
+    },
+    {
+      "title": "Bridging the Semantic Gap: A Homonym-Aware Ontology Platform for Cybersecurity Interoperability",
+      "url": "https://dl.acm.org/doi/10.1145/3774905.3795606"
+    },
+    {
+      "title": "A Layered Security Modeling Framework for IoT/IIoT Environments Based on Unified Threat and Mitigation Catalogs",
+      "url": "https://dl.acm.org/doi/10.1145/3819836.3819844"
+    },
+    {
+      "title": "A Review of Large Language Models for Cybersecurity Defense: Core Capabilities, Application Practices, and Challenges",
+      "url": "https://dl.acm.org/doi/10.1145/3801438.3803160"
+    },
+    {
+      "title": "Big Data Analytics and Internet of Things Combined with Artificial Intelligence Techniques for Effective Emergency Management: A Comprehensive Survey",
+      "url": "https://dl.acm.org/doi/10.1145/3806828"
+    },
+    {
+      "title": "Dynamic Taint Analysis for the Detection of Sensitive Data Leaks",
+      "url": "https://dl.acm.org/doi/10.1145/3806007.3810959"
+    },
+    {
+      "title": "Federated Explainability for Network Anomaly Characterization",
+      "url": "https://dl.acm.org/doi/10.1145/3607199.3607234"
+    },
+    {
+      "title": "A Multi-Vocal Review of Security Orchestration",
+      "url": "https://dl.acm.org/doi/10.1145/3305268"
+    },
+    {
+      "title": "Reliable SOC LLM Agent with Workflow Generation",
+      "url": "https://dl.acm.org/doi/10.1145/3786156.3788577"
+    },
+    {
+      "title": "Incident Response Support System for Multi-Located Network by Correlation Analysis of Individual Events",
+      "url": "https://dl.acm.org/doi/10.1145/3459955.3460592"
+    },
+    {
+      "title": "Implementing Data Exfiltration Defense in Situ: A Survey of Countermeasures and Human Involvement",
+      "url": "https://dl.acm.org/doi/10.1145/3582077"
+    },
+    {
+      "title": "A big data analytics based approach to anomaly detection",
+      "url": "https://dl.acm.org/doi/10.1145/3006299.3006317"
+    },
+    {
+      "title": "Research on Attack Chain Reconstruction Technology Based on Graph Analysis, Machine Learning, and Threat Intelligence",
+      "url": "https://dl.acm.org/doi/10.1145/3778335.3778346"
+    },
+    {
+      "title": "An Extensive Survey on Intrusion Detection- Past, Present, Future",
+      "url": "https://dl.acm.org/doi/10.1145/3234698.3234743"
+    },
+    {
+      "title": "Dynamic risk management architecture based on heterogeneous data sources for enhancing the cyber situational awareness in organizations",
+      "url": "https://dl.acm.org/doi/10.1145/3407023.3409224"
+    },
+    {
+      "title": "Smart Grid Cyber-Physical Situational Awareness of Complex Operational Technology Attacks: A Review",
+      "url": "https://dl.acm.org/doi/10.1145/3565570"
+    },
+    {
+      "title": "Alert Prioritisation in Security Operations Centres: A Systematic Survey on Criteria and Methods",
+      "url": "https://dl.acm.org/doi/10.1145/3695462"
+    },
+    {
+      "title": "MalRank",
+      "url": "https://dl.acm.org/doi/10.1145/3359789.3359791"
+    },
+    {
+      "title": "Light-Weight Synthesis of Security Logs for Evaluation of Anomaly Detection and Security Related Experiments",
+      "url": "https://dl.acm.org/doi/10.1145/3578357.3589457"
+    },
+    {
+      "title": "Advanced Persistent Threat Attack Detection Systems: A Review of Approaches, Challenges, and Trends",
+      "url": "https://dl.acm.org/doi/10.1145/3696014"
+    },
+    {
+      "title": "A Survey on Cyber Situation-awareness Systems: Framework, Techniques, and Insights",
+      "url": "https://dl.acm.org/doi/10.1145/3530809"
+    },
+    {
+      "title": "Strategic Predictive Maintenance for Internet System Security and Risk Management: A Roadmap",
+      "url": "https://dl.acm.org/doi/10.1145/3726122.3726190"
+    },
+    {
+      "title": "A Survey on Game-Theoretic Approaches for Intrusion Detection and Response Optimization",
+      "url": "https://dl.acm.org/doi/10.1145/3232848"
+    },
+    {
+      "title": "A Survey of Intrusion Detection Systems Leveraging Host Data",
+      "url": "https://dl.acm.org/doi/10.1145/3344382"
+    },
+    {
+      "title": "Alert Fatigue in Security Operations Centres: Research Challenges and Opportunities",
+      "url": "https://dl.acm.org/doi/10.1145/3723158"
+    },
+    {
+      "title": "A Systematic Survey on Cloud Forensics Challenges, Solutions, and Future Directions",
+      "url": "https://dl.acm.org/doi/10.1145/3361216"
+    },
+    {
+      "title": "Combat Security Alert Fatigue with AI-Assisted Techniques",
+      "url": "https://dl.acm.org/doi/10.1145/3474718.3474723"
+    },
+    {
+      "title": "AHEAD",
+      "url": "https://dl.acm.org/doi/10.1145/2994475.2994481"
+    },
+    {
+      "title": "A Taxonomy of Supervised Learning for IDSs in SCADA Environments",
+      "url": "https://dl.acm.org/doi/10.1145/3379499"
+    },
+    {
+      "title": "The challenge of detecting sophisticated attacks",
+      "url": "https://dl.acm.org/doi/10.1145/3230833.3233280"
+    },
+    {
+      "title": "Requirements for Playbook-Assisted Cyber Incident Response, Reporting and Automation",
+      "url": "https://dl.acm.org/doi/10.1145/3688810"
+    },
+    {
+      "title": "ICBCT '25: Proceedings of the 2025 6th International Conference on Blockchain Technology",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3778335"
+    },
+    {
+      "title": "Predictive Cyber Situational Awareness and Personalized Blacklisting",
+      "url": "https://dl.acm.org/doi/10.1145/3386250"
+    },
+    {
+      "title": "Real-Time Anomaly Detection in Web Server Logs Using Machine Learning and Apache Kafka",
+      "url": "https://dl.acm.org/doi/10.1145/3786160.3788469"
+    },
+    {
+      "title": "System Attribute Measures of Network Security Analyzer",
+      "url": "https://dl.acm.org/doi/10.1145/2909067.2909099"
+    },
+    {
+      "title": "Finding Harmony in the Noise: Blending Security Alerts for Attack Detection",
+      "url": "https://dl.acm.org/doi/10.1145/3605098.3635981"
+    },
+    {
+      "title": "Prompt-Driven Cybersecurity Education: Exploring LLM-Based Simulation of Security Operations Center Activities",
+      "url": "https://dl.acm.org/doi/10.5555/3778141.3778157"
+    },
+    {
+      "title": "Architecting a Secure BYOD Network for a Corporate Campus",
+      "url": "https://dl.acm.org/doi/10.1145/3796263.3796291"
+    },
+    {
+      "title": "Data-Driven Threat Hunting Using Sysmon",
+      "url": "https://dl.acm.org/doi/10.1145/3199478.3199490"
+    },
+    {
+      "title": "A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy",
+      "url": "https://dl.acm.org/doi/10.1145/3837073"
+    },
+    {
+      "title": "Unraveling Threat Intelligence Through the Lens of Malicious URL Campaigns",
+      "url": "https://dl.acm.org/doi/10.1145/3630590.3630600"
+    },
+    {
+      "title": "CSCS '24: Proceedings of the 2024 Cyber Security in CarS Workshop",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3689936"
+    },
+    {
+      "title": "CrossGuard: A Cross-Modal Deep Learning Framework for Semantic-Structural Threat Detection utilizing Provenance Graph",
+      "url": "https://dl.acm.org/doi/10.1145/3733801.3764201"
+    },
+    {
+      "title": "A Survey on Representation Learning Efforts in Cybersecurity Domain",
+      "url": "https://dl.acm.org/doi/10.1145/3331174"
+    },
+    {
+      "title": "Integrating Security Behavior into Attack Simulations",
+      "url": "https://dl.acm.org/doi/10.1145/3465481.3470475"
+    },
+    {
+      "title": "SAIBERSOC: A Methodology and Tool for Experimenting with Security Operation Centers",
+      "url": "https://dl.acm.org/doi/10.1145/3491266"
+    },
+    {
+      "title": "Algorithms for network server anomaly behavior detection without traffic content inspection",
+      "url": "https://dl.acm.org/doi/10.1145/2947626.2947643"
+    },
+    {
+      "title": "SYNAPSE - An Integrated Cyber Security Risk & Resilience Management Platform, With Holistic Situational Awareness, Incident Response & Preparedness Capabilities: SYNAPSE",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3669924"
+    },
+    {
+      "title": "AMiner: A Modular Log Data Analysis Pipeline for Anomaly-based Intrusion Detection",
+      "url": "https://dl.acm.org/doi/10.1145/3567675"
+    },
+    {
+      "title": "AI4SOAR: A Security Intelligence Tool for Automated Incident Response",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3670450"
+    },
+    {
+      "title": "T1GER: An Instructional Re-Design of a Cyber Range Exercise in a Commercial Security Operations Center",
+      "url": "https://dl.acm.org/doi/10.1145/3772318.3791226"
+    },
+    {
+      "title": "A Multi-layer Approach through Threat Modelling and Attack Simulation for Enhanced Cyber Security Assessment",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3670458"
+    },
+    {
+      "title": "An ontology-driven approach to automating the process of integrating security software systems",
+      "url": "https://dl.acm.org/doi/10.1109/ICSSP.2019.00017"
+    },
+    {
+      "title": "AI-Enhanced Cybersecurity in Edge Computing: Threats, Solutions, and Future Directions",
+      "url": "https://dl.acm.org/doi/10.1145/3801741"
+    },
+    {
+      "title": "An Empirical Analysis of Security Graph Computational Reconstruction and Proactive Defense in Big Data Applications",
+      "url": "https://dl.acm.org/doi/10.1145/3770177.3770275"
+    },
+    {
+      "title": "MITRE ATT&CK: State of the Art and Way Forward",
+      "url": "https://dl.acm.org/doi/10.1145/3687300"
+    },
+    {
+      "title": "Doomed to Repeat with IPv6? Characterization of NAT-centric Security in SOHO Routers",
+      "url": "https://dl.acm.org/doi/10.1145/3586007"
+    },
+    {
+      "title": "Analyzing Compliance and Complications of Integrating Internationalized X.509 Certificates",
+      "url": "https://dl.acm.org/doi/10.1145/3730567.3764483"
+    },
+    {
+      "title": "Insights and Lessons Learned from a Realistic Smart Grid Testbed for Cybersecurity Research",
+      "url": "https://dl.acm.org/doi/10.1145/3679240.3734649"
+    },
+    {
+      "title": "Risky Host Detection with Bias Reduced Semi-Supervised Learning",
+      "url": "https://dl.acm.org/doi/10.1145/3349341.3349365"
+    },
+    {
+      "title": "A Novel LLM Approach of Cybersecurity Threat Analysis and Response",
+      "url": "https://dl.acm.org/doi/10.1145/3755881.3755888"
+    },
+    {
+      "title": "ITCC '24: Proceeding of the 2024 6th International Conference on Information Technology and Computer Communications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3704391"
+    },
+    {
+      "title": "Filtering Security Alerts for the Analysis of a Production SaaS Cloud",
+      "url": "https://dl.acm.org/doi/10.1109/UCC.2014.32"
+    },
+    {
+      "title": "Efficient Attack Graph Analysis through Approximate Inference",
+      "url": "https://dl.acm.org/doi/10.1145/3105760"
+    },
+    {
+      "title": "Leveraging LLMs for Memory Forensics: A Comparative Analysis of Malware Detection",
+      "url": "https://dl.acm.org/doi/10.1145/3748263"
+    },
+    {
+      "title": "Active security",
+      "url": "https://dl.acm.org/doi/10.1145/2535771.2535794"
+    },
+    {
+      "title": "A Stage-Aware Tool for Modelling and Verifying CI/CD Security Evidence",
+      "url": "https://dl.acm.org/doi/10.1145/3837062.3838889"
+    },
+    {
+      "title": "icABCD '25: Proceedings of the 2025 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3759023"
+    },
+    {
+      "title": "Survey of data intensive computing technologies application to to security log data management",
+      "url": "https://dl.acm.org/doi/10.1145/3006299.3006336"
+    },
+    {
+      "title": "Establishing Trust and Security in Decentralized Metaverse: A Web 3.0 Approach",
+      "url": "https://dl.acm.org/doi/10.1145/3696454"
+    },
+    {
+      "title": "AutonomousCyber '24: Proceedings of the Workshop on Autonomous Cybersecurity",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3689933"
+    },
+    {
+      "title": "Facilitating DoS Attack Detection using Unsupervised Anomaly Detection",
+      "url": "https://dl.acm.org/doi/10.1145/3538712.3538736"
+    },
+    {
+      "title": "SAIBERSOC: Synthetic Attack Injection to Benchmark and Evaluate the Performance of Security Operation Centers",
+      "url": "https://dl.acm.org/doi/10.1145/3427228.3427233"
+    },
+    {
+      "title": "AVDA: Autonomous Vibe Detection Authoring for Cybersecurity",
+      "url": "https://dl.acm.org/doi/10.1145/3803437.3805261"
+    },
+    {
+      "title": "Artificial Intelligence in Cybersecurity: Applications, Challenges, and Future Directions",
+      "url": "https://dl.acm.org/doi/10.5555/3778141.3778151"
+    },
+    {
+      "title": "IAIT '26: Proceedings of the 14th International Conference on Advances in Information Technology",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3816713"
+    },
+    {
+      "title": "Payload-Aware Intrusion Detection with CMAE and Large Language Models",
+      "url": "https://dl.acm.org/doi/10.1145/3769682"
+    },
+    {
+      "title": "Cloud Computing and Security: An Overview of Vulnerabilities, Cyber Attacks, and AI-Driven Solutions",
+      "url": "https://dl.acm.org/doi/10.1145/3719384.3719473"
+    },
+    {
+      "title": "A SOAR platform for standardizing, automating operational processes and a monitoring service facilitating auditing procedures among IoT trustworthy environments",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3670939"
+    },
+    {
+      "title": "ICCRD '26: Proceedings of the 2026 18th International Conference on Computer Research and Development",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3796263"
+    },
+    {
+      "title": "WATCH '25: Proceedings of the First International Workshop on Analytics, Telemetry, and Cybersecurity for HPCC",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3733826"
+    },
+    {
+      "title": "Cybersecurity Standards in the Context of Operating System",
+      "url": "https://dl.acm.org/doi/10.1145/3442480"
+    },
+    {
+      "title": "EnCyCriS '26: Proceedings of the 2026 ACM/IEEE 7th International Workshop on Engineering and Cybersecurity of Critical Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3786160"
+    },
+    {
+      "title": "Autonomic and Integrated Management for Proactive Cyber Security (AIM-PSC)",
+      "url": "https://dl.acm.org/doi/10.1145/3147234.3148137"
+    },
+    {
+      "title": "Genomics Cybersecurity Concerns, Challenges, and a Modular Test Lab",
+      "url": "https://dl.acm.org/doi/10.1145/3603287.3651215"
+    },
+    {
+      "title": "A hierarchical architectural model for network security exploring situational awareness",
+      "url": "https://dl.acm.org/doi/10.1145/3297280.3297417"
+    },
+    {
+      "title": "The Role of Machine Learning in Cybersecurity",
+      "url": "https://dl.acm.org/doi/10.1145/3545574"
+    },
+    {
+      "title": "Big Data Analytics Architecture for Security Intelligence",
+      "url": "https://dl.acm.org/doi/10.1145/3264437.3264474"
+    },
+    {
+      "title": "GOOSEIDRS: Intrusion Detection and Automated Response for IEC61850 GOOSE Masquerade Attacks",
+      "url": "https://dl.acm.org/doi/10.1145/3765611.3815139"
+    },
+    {
+      "title": "ARES '24: Proceedings of the 19th International Conference on Availability, Reliability and Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3664476"
+    },
+    {
+      "title": "BDCTA '25: Proceedings of the 2025 International Conference on Big Data, Communication Technology and Computer Applications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3727505"
+    },
+    {
+      "title": "CSCS '25: Proceedings of the 2nd Cyber Security in CarS Workshop",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3736130"
+    },
+    {
+      "title": "SimGuard: Towards Resilience of Community-based Intrusion Detection",
+      "url": "https://dl.acm.org/doi/10.1145/3748522.3779878"
+    },
+    {
+      "title": "EICC '23: Proceedings of the 2023 European Interdisciplinary Cybersecurity Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3590777"
+    },
+    {
+      "title": "SIGCITE '25: Proceedings of the 26th ACM Annual Conference on Cybersecurity & Information Technology Education",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3769694"
+    },
+    {
+      "title": "Securing Smart Cities: Unraveling Quantum as a Service",
+      "url": "https://dl.acm.org/doi/10.1145/3617570.3617865"
+    },
+    {
+      "title": "‘We Do Not Have the Capacity to Monitor All Media’: A Design Case Study on Cyber Situational Awareness in Computer Emergency Response Teams",
+      "url": "https://dl.acm.org/doi/10.1145/3613904.3642368"
+    },
+    {
+      "title": "Discovering attacker profiles using process mining and the MITRE ATT&CK taxonomy",
+      "url": "https://dl.acm.org/doi/10.1145/3615366.3615372"
+    },
+    {
+      "title": "Analysis of Digital Forensic Artifacts Data Enrichment Mechanism for Cyber Threat Intelligence",
+      "url": "https://dl.acm.org/doi/10.1145/3587828.3587857"
+    },
+    {
+      "title": "The Dos and Don'ts of Industrial Network Simulation",
+      "url": "https://dl.acm.org/doi/10.1145/3284557.3284716"
+    },
+    {
+      "title": "CSAIDE '26: Proceedings of the 2026 5th International Conference on Cyber Security, Artificial Intelligence and Digital Economy",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3819836"
+    },
+    {
+      "title": "ICSCA '25: Proceedings of the 2025 14th International Conference on Software and Computer Applications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3731806"
+    },
+    {
+      "title": "Adversarial Exploitation of Remote Desktop Protocol (RDP) for Lateral Movement",
+      "url": "https://dl.acm.org/doi/10.1145/3812734.3813403"
+    },
+    {
+      "title": "Combining real-time risk visualization and anomaly detection",
+      "url": "https://dl.acm.org/doi/10.1145/3241403.3241460"
+    },
+    {
+      "title": "TAON",
+      "url": "https://dl.acm.org/doi/10.1145/3011141.3011157"
+    },
+    {
+      "title": "Train as you Fight: Evaluating Authentic Cybersecurity Training in Cyber Ranges",
+      "url": "https://dl.acm.org/doi/10.1145/3544548.3581046"
+    },
+    {
+      "title": "APTHunter: Detecting Advanced Persistent Threats in Early Stages",
+      "url": "https://dl.acm.org/doi/10.1145/3559768"
+    },
+    {
+      "title": "EICC '24: Proceedings of the 2024 European Interdisciplinary Cybersecurity Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3655693"
+    },
+    {
+      "title": "Ontology-based Cyber Risk Monitoring Using Cyber Threat Intelligence",
+      "url": "https://dl.acm.org/doi/10.1145/3465481.3470024"
+    },
+    {
+      "title": "An Empirical Exploration of Cybersecurity Threats and Mitigation Strategies in Software Testing",
+      "url": "https://dl.acm.org/doi/10.1145/3731806.3731851"
+    },
+    {
+      "title": "Autonomous Cybersecurity: Evolving Challenges, Emerging Opportunities, and Future Research Trajectories",
+      "url": "https://dl.acm.org/doi/10.1145/3689933.3690832"
+    },
+    {
+      "title": "Towards a Cyber-Physical Range",
+      "url": "https://dl.acm.org/doi/10.1145/3327961.3329532"
+    },
+    {
+      "title": "Multi-Agent AI Framework for Threat Mitigation and Resilience in Machine Learning Systems",
+      "url": "https://dl.acm.org/doi/10.1145/3780095"
+    },
+    {
+      "title": "Framework for Security Event Management in 5G",
+      "url": "https://dl.acm.org/doi/10.1145/3230833.3233254"
+    },
+    {
+      "title": "Smoke Detector",
+      "url": "https://dl.acm.org/doi/10.1145/3134600.3134645"
+    },
+    {
+      "title": "A novel automatic discovery system of critical assets in cyberspace-oriented military missions",
+      "url": "https://dl.acm.org/doi/10.1145/3407023.3409225"
+    },
+    {
+      "title": "BDCAT '25: Proceedings of the IEEE/ACM 12th International Conference on Big Data Computing, Applications and Technologies",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3773276"
+    },
+    {
+      "title": "Mod2Dash: A Framework for Model-Driven Dashboards Generation",
+      "url": "https://dl.acm.org/doi/10.1145/3534526"
+    },
+    {
+      "title": "ACSW '23: Proceedings of the 2023 Australasian Computer Science Week",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3579375"
+    },
+    {
+      "title": "On the Security of Machine Learning in Malware C&C Detection",
+      "url": "https://dl.acm.org/doi/10.1145/3003816"
+    },
+    {
+      "title": "ICCCM '24: Proceedings of the 2024 12th International Conference on Computer and Communications Management",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3688268"
+    },
+    {
+      "title": "CSET '24: Proceedings of the 17th Cyber Security Experimentation and Test Workshop",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3675741"
+    },
+    {
+      "title": "ICICS '26: Proceedings of the 17th International Conference on Information and Communication Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3812734"
+    },
+    {
+      "title": "ADAPT it! Automating APT Campaign and Group Attribution by Leveraging and Linking Heterogeneous Files",
+      "url": "https://dl.acm.org/doi/10.1145/3678890.3678909"
+    },
+    {
+      "title": "CPSIoTSec '25: Proceedings of the 7th Joint Workshop on CPS&IoT Security and Privacy",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3733801"
+    },
+    {
+      "title": "EnCyCriS/SVM '24: Proceedings of the 2024 ACM/IEEE 4th International Workshop on Engineering and Cybersecurity of Critical Systems (EnCyCriS) and 2024 IEEE/ACM Second International Workshop on Software Vulnerability",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3643662"
+    },
+    {
+      "title": "On-premises Analysis of Advanced Threat Prevention Appliances",
+      "url": "https://dl.acm.org/doi/10.1145/3474718.3474720"
+    },
+    {
+      "title": "On Practical Realization of Evasion Attacks for Industrial Control Systems",
+      "url": "https://dl.acm.org/doi/10.1145/3689930.3695213"
+    },
+    {
+      "title": "Development of a virtualized security operations center",
+      "url": "https://dl.acm.org/doi/10.5555/3512489.3512501"
+    },
+    {
+      "title": "Automated Cyber Threat Sensing and Responding",
+      "url": "https://dl.acm.org/doi/10.1145/3339252.3340509"
+    },
+    {
+      "title": "Human Factors in AI-Driven Cybersecurity: Cognitive Biases and Trust Issues",
+      "url": "https://dl.acm.org/doi/10.1145/3759260"
+    },
+    {
+      "title": "From Zero to 100",
+      "url": "https://dl.acm.org/doi/10.1145/3573127"
+    },
+    {
+      "title": "Machine Learning Approach for Detection of nonTor Traffic",
+      "url": "https://dl.acm.org/doi/10.1145/3098954.3106068"
+    },
+    {
+      "title": "Retrieval-Augmented LLMs for Security Incident Analysis",
+      "url": "https://dl.acm.org/doi/10.1145/3786335.3813136"
+    },
+    {
+      "title": "Towards Securing Access Control in 5G and Beyond with Zero Trust",
+      "url": "https://dl.acm.org/doi/10.1145/3800506.3803516"
+    },
+    {
+      "title": "Dynamic Deduction Method for Technology Security Risks Based on Event Logic Graph",
+      "url": "https://dl.acm.org/doi/10.1145/3765325.3765401"
+    },
+    {
+      "title": "Evaluating GPT-4’s Semantic Understanding of Obstetric-based Healthcare Text through Nurse Ruth",
+      "url": "https://dl.acm.org/doi/10.1145/3735647"
+    },
+    {
+      "title": "QP4SE 2023: Proceedings of the 2nd International Workshop on Quantum Programming for Software Engineering",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3617570"
+    },
+    {
+      "title": "Threat-Based Simulation of Data Exfiltration Toward Mitigating Multiple Ransomware Extortions",
+      "url": "https://dl.acm.org/doi/10.1145/3568993"
+    },
+    {
+      "title": "Research on network security threat detection system based on large language model Optimized by GloVe technology",
+      "url": "https://dl.acm.org/doi/10.1145/3732365.3732430"
+    },
+    {
+      "title": "Cybersecurity of Industrial Cyber-Physical Systems: A Review",
+      "url": "https://dl.acm.org/doi/10.1145/3510410"
+    },
+    {
+      "title": "Towards AI-Driven Human-Machine Co-Teaming for Adaptive and Agile Cyber Security Operation Centers",
+      "url": "https://dl.acm.org/doi/10.1145/3819819"
+    },
+    {
+      "title": "Anomaly detection mechanisms for in-vehicle and V2X systems",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3671012"
+    },
+    {
+      "title": "SACMAT 2024: Proceedings of the 29th ACM Symposium on Access Control Models and Technologies",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3649158"
+    },
+    {
+      "title": "ARES '22: Proceedings of the 17th International Conference on Availability, Reliability and Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3538969"
+    },
+    {
+      "title": "Trailblazing the Artificial Intelligence for Cybersecurity Discipline",
+      "url": "https://dl.acm.org/doi/10.1145/3430360"
+    },
+    {
+      "title": "Towards Human-AI Teaming to Mitigate Alert Fatigue in Security Operations Centres",
+      "url": "https://dl.acm.org/doi/10.1145/3670009"
+    },
+    {
+      "title": "Proactively Identifying Emerging Hacker Threats from the Dark Web",
+      "url": "https://dl.acm.org/doi/10.1145/3409289"
+    },
+    {
+      "title": "SAC '24: Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3605098"
+    },
+    {
+      "title": "ARES '23: Proceedings of the 18th International Conference on Availability, Reliability and Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3600160"
+    },
+    {
+      "title": "An integrated computer-aided cognitive task analysis method for tracing cyber-attack analysis processes",
+      "url": "https://dl.acm.org/doi/10.1145/2746194.2746203"
+    },
+    {
+      "title": "ICAAI '25: Proceedings of the 2025 9th International Conference on Advances in Artificial Intelligence",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3787279"
+    },
+    {
+      "title": "CNSSE '25: Proceedings of the 2025 5th International Conference on Computer Network Security and Software Engineering",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3732365"
+    },
+    {
+      "title": "Complex event processing for reactive security monitoring in virtualized computer systems",
+      "url": "https://dl.acm.org/doi/10.1145/2675743.2771829"
+    },
+    {
+      "title": "AICCC '24: Proceedings of the 2024 7th Artificial Intelligence and Cloud Computing Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3719384"
+    },
+    {
+      "title": "RAIE '26: Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3786156"
+    },
+    {
+      "title": "EUROSEC '23: Proceedings of the 16th European Workshop on System Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3578357"
+    },
+    {
+      "title": "AISGA: Multi-objective parameters optimization for countermeasures selection through genetic algorithm",
+      "url": "https://dl.acm.org/doi/10.1145/3465481.3470074"
+    },
+    {
+      "title": "ICCSIE '24: Proceedings of the 2024 9th International Conference on Cyber Security and Information Engineering",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3689236"
+    },
+    {
+      "title": "Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments",
+      "url": "https://dl.acm.org/doi/10.1145/3442144.3442147"
+    },
+    {
+      "title": "Optimal Scheduling of Cybersecurity Analysts for Minimizing Risk",
+      "url": "https://dl.acm.org/doi/10.1145/2914795"
+    },
+    {
+      "title": "ICFNDS '24: Proceedings of the 8th International Conference on Future Networks & Distributed Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3726122"
+    },
+    {
+      "title": "ACM Sustainability Week '26: Proceedings of the 2026 ACM Sustainability Week",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3765611"
+    },
+    {
+      "title": "What do we really talk about when we talk about context in pervasive computing",
+      "url": "https://dl.acm.org/doi/10.1145/3151759.3151760"
+    },
+    {
+      "title": "Research on the Application of Internet of Things Technology in Digitalized Oilfield Construction",
+      "url": "https://dl.acm.org/doi/10.1145/3702879.3702899"
+    },
+    {
+      "title": "SOAR4IoT: Securing IoT Assets with Digital Twins",
+      "url": "https://dl.acm.org/doi/10.1145/3538969.3538975"
+    },
+    {
+      "title": "RAPID: Real-Time Alert Investigation with Context-aware Prioritization for Efficient Threat Discovery",
+      "url": "https://dl.acm.org/doi/10.1145/3564625.3567997"
+    },
+    {
+      "title": "Test-time regression",
+      "url": "https://dl.acm.org/doi/10.5555/3859638.3859807"
+    },
+    {
+      "title": "Integrating Continuous Security Assessments in Microservices and Cloud Native Applications",
+      "url": "https://dl.acm.org/doi/10.1145/3147213.3147229"
+    },
+    {
+      "title": "IoTCCT '24: Proceedings of the 2024 2nd International Conference on Internet of Things and Cloud Computing Technology",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3702879"
+    },
+    {
+      "title": "E-Energy '25: Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3679240"
+    },
+    {
+      "title": "Evaluation of Cyber Situation Awareness - Theory, Techniques and Applications",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3670921"
+    },
+    {
+      "title": "AttackLogGen: Benchmarking LLMs for Generating Attack Logs",
+      "url": "https://dl.acm.org/doi/10.1145/3820170"
+    },
+    {
+      "title": "MUM '23: Proceedings of the 22nd International Conference on Mobile and Ubiquitous Multimedia",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3626705"
+    },
+    {
+      "title": "Attacks and Defences for ML-enhanced Access Control",
+      "url": "https://dl.acm.org/doi/10.1145/3626564.3629102"
+    },
+    {
+      "title": "Towards insider threat detection using web server logs",
+      "url": "https://dl.acm.org/doi/10.1145/1558607.1558670"
+    },
+    {
+      "title": "Operation Assessment in cyberspace: Understanding the effects of Cyber Deception",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3672355"
+    },
+    {
+      "title": "ICSE '26: Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3744916"
+    },
+    {
+      "title": "Cloud Log Forensics",
+      "url": "https://dl.acm.org/doi/10.1145/2906149"
+    },
+    {
+      "title": "Using Collaborative Filtering in a new domain",
+      "url": "https://dl.acm.org/doi/10.1145/2934732.2934746"
+    },
+    {
+      "title": "MIDA 2026: Proceedings of the 3rd International Conference on Machine Intelligence and Digital Applications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3801438"
+    },
+    {
+      "title": "Response Strategies to Cyber Threats in Service Industries",
+      "url": "https://dl.acm.org/doi/10.1145/3700906.3700939"
+    },
+    {
+      "title": "Dealing with Security Alert Flooding: Using Machine Learning for Domain-independent Alert Aggregation",
+      "url": "https://dl.acm.org/doi/10.1145/3510581"
+    },
+    {
+      "title": "Generating Quality Threat Intelligence Leveraging OSINT and a Cyber Threat Unified Taxonomy",
+      "url": "https://dl.acm.org/doi/10.1145/3530977"
+    },
+    {
+      "title": "Research on Information System Management Security Architecture Based on Blockchain Technology",
+      "url": "https://dl.acm.org/doi/10.1145/3705618.3705636"
+    },
+    {
+      "title": "RAID '24: Proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3678890"
+    },
+    {
+      "title": "Automatic incident response solutions: a review of proposed solutions’ input and output",
+      "url": "https://dl.acm.org/doi/10.1145/3600160.3605066"
+    },
+    {
+      "title": "ASIA CCS '26: Proceedings of the ACM Asia Conference on Computer and Communications Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3779208"
+    },
+    {
+      "title": "Matched and Mismatched SOCs",
+      "url": "https://dl.acm.org/doi/10.1145/3319535.3354239"
+    },
+    {
+      "title": "The Cyber Safe Position: An STPA for Safety, Security, and Resilience Co-Engineering Approach",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3671011"
+    },
+    {
+      "title": "ICBTA '22: Proceedings of the 2022 5th International Conference on Blockchain Technology and Applications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3581971"
+    },
+    {
+      "title": "ICACS '25: Proceedings of the 9th International Conference on Algorithms, Computing and Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3789418"
+    },
+    {
+      "title": "Prompting LLM to Enforce and Validate CIS Critical Security Control",
+      "url": "https://dl.acm.org/doi/10.1145/3649158.3657036"
+    },
+    {
+      "title": "A Tale of Three Security Operation Centers",
+      "url": "https://dl.acm.org/doi/10.1145/2663887.2663904"
+    },
+    {
+      "title": "PETRA '24: Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3652037"
+    },
+    {
+      "title": "Rule-based security management system for data-intensive applications",
+      "url": "https://dl.acm.org/doi/10.5555/3370272.3370299"
+    },
+    {
+      "title": "RAID '23: Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3607199"
+    },
+    {
+      "title": "RICSS '24: Proceedings of the 2024 Workshop on Re-design Industrial Control Systems with Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3689930"
+    },
+    {
+      "title": "Bidirectional Association Discovery Leads to Precise Identification of Lung Cancer Biomarkers and Genome Taxa Class",
+      "url": "https://dl.acm.org/doi/10.1109/TCBB.2022.3215630"
+    },
+    {
+      "title": "EITCE '24: Proceedings of the 2024 8th International Conference on Electronic Information Technology and Computer Engineering",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3711129"
+    },
+    {
+      "title": "Introducing Zero Trust in a Cybersecurity Course",
+      "url": "https://dl.acm.org/doi/10.1145/3537674.3555779"
+    },
+    {
+      "title": "DTW-ABAC: A Dynamic Trust Weighted Attribute-Based Access Control Hybrid Security Model for Cloud Applications",
+      "url": "https://dl.acm.org/doi/10.1145/3773274.3774263"
+    },
+    {
+      "title": "An integrated computer-aided cognitive task analysis method for tracing cyber-attack analysis processes",
+      "url": "https://dl.acm.org/doi/10.1145/2746194.2746203"
+    },
+    {
+      "title": "Mobile device management (MDM) technologies, issues and challenges",
+      "url": "https://dl.acm.org/doi/10.1145/3309074.3309103"
+    },
+    {
+      "title": "CSCS '22: Proceedings of the 6th ACM Computer Science in Cars Symposium",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3568160"
+    },
+    {
+      "title": "SACMAT '21: Proceedings of the 26th ACM Symposium on Access Control Models and Technologies",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3450569"
+    },
+    {
+      "title": "ICCTA '24: Proceedings of the 2024 10th International Conference on Computer Technology Applications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3674558"
+    },
+    {
+      "title": "APIRO: A Framework for Automated Security Tools API Recommendation",
+      "url": "https://dl.acm.org/doi/10.1145/3512768"
+    },
+    {
+      "title": "RT-METER",
+      "url": "https://dl.acm.org/doi/10.1145/3470481.3472708"
+    },
+    {
+      "title": "SECURA: Unified Reference Architecture for Advanced Security and Trust in Safety Critical Infrastructures",
+      "url": "https://dl.acm.org/doi/10.1145/3664476.3664513"
+    },
+    {
+      "title": "Security Operations Center in Education: Building an Educational Environment for Attack and Defense Scenarios",
+      "url": "https://dl.acm.org/doi/10.1145/3575879.3575962"
+    },
+    {
+      "title": "SIGMIS-CPR '25: Proceedings of the 2025 Computers and People Research Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3716489"
+    },
+    {
+      "title": "MOCO '26: Proceedings of the 10th International Conference on Movement and Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3802842"
+    },
+    {
+      "title": "UCC '25: Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3773274"
+    },
+    {
+      "title": "The Insider Threat: Reasons, Effects and Mitigation Techniques",
+      "url": "https://dl.acm.org/doi/10.1145/3437120.3437336"
+    },
+    {
+      "title": "MetaSEnD: A Security Enabled Development Life Cycle Meta-Model",
+      "url": "https://dl.acm.org/doi/10.1145/3538969.3544463"
+    },
+    {
+      "title": "IPMLP '24: Proceedings of the International Conference on Image Processing, Machine Learning and Pattern Recognition",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3700906"
+    },
+    {
+      "title": "Enabling Visual Analytics via Alert-driven Attack Graphs",
+      "url": "https://dl.acm.org/doi/10.1145/3460120.3485361"
+    },
+    {
+      "title": "LLMCloudHunter: Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI",
+      "url": "https://dl.acm.org/doi/10.1145/3696410.3714798"
+    },
+    {
+      "title": "An Indicators-of-Risk Library for Industrial Network Security",
+      "url": "https://dl.acm.org/doi/10.1145/3465481.3470023"
+    },
+    {
+      "title": "LADC '23: Proceedings of the 12th Latin-American Symposium on Dependable and Secure Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3615366"
+    },
+    {
+      "title": "Understanding Indicators of Compromise against Cyber-attacks in Industrial Control Systems: A Security Perspective",
+      "url": "https://dl.acm.org/doi/10.1145/3587255"
+    },
+    {
+      "title": "ACMSE '24: Proceedings of the 2024 ACM Southeast Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3603287"
+    },
+    {
+      "title": "ASE '26: Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3832783"
+    },
+    {
+      "title": "LADC '23: Proceedings of the 12th Latin-American Symposium on Dependable and Secure Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3615366"
+    },
+    {
+      "title": "On Collaboration and Automation in the Context of Threat Detection and Response with Privacy-Preserving Features",
+      "url": "https://dl.acm.org/doi/10.1145/3707651"
+    },
+    {
+      "title": "ICNCC '23: Proceedings of the 2023 12th International Conference on Networks, Communication and Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3638837"
+    },
+    {
+      "title": "ASIA CCS '25: Proceedings of the 20th ACM Asia Conference on Computer and Communications Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3708821"
+    },
+    {
+      "title": "Safety and Security Analysis using LDA based on Case Reports: Case Study and Trust Evaluation Method",
+      "url": "https://dl.acm.org/doi/10.1145/3538969.3538993"
+    },
+    {
+      "title": "ICEMBDA '25: Proceedings of the 2025 International Conference on Economic Management and Big Data Application",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3770177"
+    },
+    {
+      "title": "CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3544548"
+    },
+    {
+      "title": "ICSIM '25: Proceedings of the 2025 8th International Conference on Software Engineering and Information Management",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3725899"
+    },
+    {
+      "title": "ZTA-IoT: A Novel Architecture for Zero-Trust in IoT Systems and an Ensuing Usage Control Model",
+      "url": "https://dl.acm.org/doi/10.1145/3671147"
+    },
+    {
+      "title": "Towards Understanding and Improving Security-Relevant Web Application Logging",
+      "url": "https://dl.acm.org/doi/10.1145/3634737.3637647"
+    },
+    {
+      "title": "Security Vulnerabilities and Encryption Technologies of Computer Information Technology Data under the Background of Big Data",
+      "url": "https://dl.acm.org/doi/10.1145/3482632.3484116"
+    },
+    {
+      "title": "SoCC '25: Proceedings of the 2025 ACM Symposium on Cloud Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3772052"
+    },
+    {
+      "title": "A Framework for Threat Detection in Communication Systems",
+      "url": "https://dl.acm.org/doi/10.1145/3003733.3003759"
+    },
+    {
+      "title": "MODELS Companion '26: Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3837062"
+    },
+    {
+      "title": "Large-scale systems security evolution",
+      "url": "https://dl.acm.org/doi/10.1145/2799979.2799993"
+    },
+    {
+      "title": "Research of Global Strategic Cyberspace Security Risk Evaluation System Based on Knowledge Service",
+      "url": "https://dl.acm.org/doi/10.1145/3397056.3397084"
+    },
+    {
+      "title": "Reproducible and Adaptable Log Data Generation for Sound Cybersecurity Experiments",
+      "url": "https://dl.acm.org/doi/10.1145/3485832.3488020"
+    },
+    {
+      "title": "ASIA CCS '24: Proceedings of the 19th ACM Asia Conference on Computer and Communications Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3634737"
+    },
+    {
+      "title": "ICSCA '23: Proceedings of the 2023 12th International Conference on Software and Computer Applications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3587828"
+    },
+    {
+      "title": "Discussing the Feasibility of Acoustic Sensors for Side Channel-aided Industrial Intrusion Detection",
+      "url": "https://dl.acm.org/doi/10.1145/3360664.3360667"
+    },
+    {
+      "title": "CISAI '25: Proceedings of the 2025 8th International Conference on Computer Information Science and Artificial Intelligence",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3773365"
+    },
+    {
+      "title": "Database forensics",
+      "url": "https://dl.acm.org/doi/10.1145/1940941.1940958"
+    },
+    {
+      "title": "PCI '22: Proceedings of the 26th Pan-Hellenic Conference on Informatics",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3575879"
+    },
+    {
+      "title": "CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3613904"
+    },
+    {
+      "title": "Secure the Cloud",
+      "url": "https://dl.acm.org/doi/10.1145/2693841"
+    },
+    {
+      "title": "CADscanner: Automating Malware Analysis for Compiled AutoCAD Scripts in Engineering Environments",
+      "url": "https://dl.acm.org/doi/10.1145/3832783.3834495"
+    },
+    {
+      "title": "SoCC '24: Proceedings of the 2024 ACM Symposium on Cloud Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3698038"
+    },
+    {
+      "title": "Delta lake",
+      "url": "https://dl.acm.org/doi/10.14778/3415478.3415560"
+    },
+    {
+      "title": "Dynamic Scheduling of Cybersecurity Analysts for Minimizing Risk Using Reinforcement Learning",
+      "url": "https://dl.acm.org/doi/10.1145/2882969"
+    },
+    {
+      "title": "Building Machine Learning-based Threat Hunting System from Scratch",
+      "url": "https://dl.acm.org/doi/10.1145/3491260"
+    },
+    {
+      "title": "AIIIP '25: Proceedings of the 4th International Conference on Artificial Intelligence and Intelligent Information Processing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3778534"
+    },
+    {
+      "title": "WWW '22: Companion Proceedings of the Web Conference 2022",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3487553"
+    },
+    {
+      "title": "CODASPY '25: Proceedings of the Fifteenth ACM Conference on Data and Application Security and Privacy",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3714393"
+    },
+    {
+      "title": "Cloud application logging for forensics",
+      "url": "https://dl.acm.org/doi/10.1145/1982185.1982226"
+    },
+    {
+      "title": "LADC '24: Proceedings of the 13th Latin-American Symposium on Dependable and Secure Computing",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3697090"
+    },
+    {
+      "title": "CIBDA '25: Proceedings of the 2025 6th International Conference on Computer Information and Big Data Applications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3746709"
+    },
+    {
+      "title": "EKI '25: Proceedings of the 2025 3rd International Conference on Educational Knowledge and Informatization",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3765325"
+    },
+    {
+      "title": "ACE '25: Proceedings of the 27th Australasian Computing Education Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3716640"
+    },
+    {
+      "title": "Adversarial Thinking as a Professional Disposition for Computing Education",
+      "url": "https://dl.acm.org/doi/10.1145/3769694.3771130"
+    },
+    {
+      "title": "WWW '25: Proceedings of the ACM on Web Conference 2025",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3696410"
+    },
+    {
+      "title": "DECS '24: Proceedings of the 2024 International Conference on Digital Economy and Computer Science",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3705618"
+    },
+    {
+      "title": "ACSAC '22: Proceedings of the 38th Annual Computer Security Applications Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3564625"
+    },
+    {
+      "title": "Emerging trends around big data analytics and security",
+      "url": "https://dl.acm.org/doi/10.1145/2295136.2295148"
+    },
+    {
+      "title": "AINTEC '23: Proceedings of the 18th Asian Internet Engineering Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3630590"
+    },
+    {
+      "title": "UMAP '23: Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3565472"
+    },
+    {
+      "title": "Sequence Learning over Behavioral Attack Patterns for Early Detection of Human-Operated Ransomware",
+      "url": "https://dl.acm.org/doi/10.1145/3786772"
+    },
+    {
+      "title": "CAIS '26: Proceedings of the ACM Conference on AI and Agentic Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3786335"
+    },
+    {
+      "title": "Mission-Centric Automated Cyber Red Teaming",
+      "url": "https://dl.acm.org/doi/10.1145/3230833.3234688"
+    },
+    {
+      "title": "Research on Enterprise Security Operation Based on Large Model Technology",
+      "url": "https://dl.acm.org/doi/10.1145/3773365.3773614"
+    },
+    {
+      "title": "CHORS",
+      "url": "https://dl.acm.org/doi/10.1145/3477314.3506961"
+    },
+    {
+      "title": "Cloud-based security services for the smart grid",
+      "url": "https://dl.acm.org/doi/10.5555/2555523.2555584"
+    },
+    {
+      "title": "Improving cybersecurity hygiene through JIT patching",
+      "url": "https://dl.acm.org/doi/10.1145/3368089.3417056"
+    },
+    {
+      "title": "How Should Enterprises Quantify and Analyze (Multi-Party) APT Cyber-Risk Exposure in their Industrial IoT Network?",
+      "url": "https://dl.acm.org/doi/10.1145/3605949"
+    },
+    {
+      "title": "POSTER: Automating ICS Malware Analysis with MITRE ATT&CK",
+      "url": "https://dl.acm.org/doi/10.1145/3708821.3735345"
+    },
+    {
+      "title": "ACTRA",
+      "url": "https://dl.acm.org/doi/10.1145/2808128.2808135"
+    },
+    {
+      "title": "Computationally Intensive Functions in Designing and Operating Distributed Cyber Secure and Resilient Systems",
+      "url": "https://dl.acm.org/doi/10.1145/3345252.3345255"
+    },
+    {
+      "title": "SIGITE '23: Proceedings of the 24th Annual Conference on Information Technology Education",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3585059"
+    },
+    {
+      "title": "Internetware '25: Proceedings of the 16th International Conference on Internetware",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3755881"
+    },
+    {
+      "title": "Threat Intelligence Computing",
+      "url": "https://dl.acm.org/doi/10.1145/3243734.3243829"
+    },
+    {
+      "title": "Big data and its technical challenges",
+      "url": "https://dl.acm.org/doi/10.1145/2611567"
+    },
+    {
+      "title": "ICETC '22: Proceedings of the 14th International Conference on Education Technology and Computers",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3572549"
+    },
+    {
+      "title": "WWW '25: Companion Proceedings of the ACM on Web Conference 2025",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3701716"
+    },
+    {
+      "title": "SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning",
+      "url": "https://dl.acm.org/doi/10.1145/3564625.3567980"
+    },
+    {
+      "title": "Zero Trust Architecture for Ransomware Defense in Virtualized Environment",
+      "url": "https://dl.acm.org/doi/10.1145/3773276.3774876"
+    },
+    {
+      "title": "Toward Enumeration of Common Operational Processes: The Water Sector",
+      "url": "https://dl.acm.org/doi/10.1145/3748522.3779731"
+    },
+    {
+      "title": "Multi-SpacePhish: Extending the Evasion-space of Adversarial Attacks against Phishing Website Detectors Using Machine Learning",
+      "url": "https://dl.acm.org/doi/10.1145/3638253"
+    },
+    {
+      "title": "Discovering Patterns for Fact Checking in Knowledge Graphs",
+      "url": "https://dl.acm.org/doi/10.1145/3286488"
+    },
+    {
+      "title": "Data Analysis of Cloud Security Alliance's Security, Trust & Assurance Registry",
+      "url": "https://dl.acm.org/doi/10.1145/3154273.3154343"
+    },
+    {
+      "title": "IOT '25: Proceedings of the 15th International Conference on the Internet of Things",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3770501"
+    },
+    {
+      "title": "ICIEAI '24: Proceedings of the 2024 2nd International Conference on Information Education and Artificial Intelligence",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3724504"
+    },
+    {
+      "title": "Middleware '23: Proceedings of the 24th International Middleware Conference: Demos, Posters and Doctoral Symposium",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3626564"
+    },
+    {
+      "title": "CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3658644"
+    },
+    {
+      "title": "SSDBM '22: Proceedings of the 34th International Conference on Scientific and Statistical Database Management",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3538712"
+    },
+    {
+      "title": "SC-W '24: Proceedings of the SC '24 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis",
+      "url": "https://dl.acm.org/doi/proceedings/10.5555/3715674"
+    },
+    {
+      "title": "SPBPU IDE '21: Proceedings of the 3rd International Scientific Conference on Innovations in Digital Economy",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3527049"
+    },
+    {
+      "title": "Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation",
+      "url": "https://dl.acm.org/doi/10.1145/3696410.3714860"
+    },
+    {
+      "title": "ADEM: An Authentic Digital EMblem",
+      "url": "https://dl.acm.org/doi/10.1145/3576915.3616578"
+    },
+    {
+      "title": "Big Data Information Security Maintenance",
+      "url": "https://dl.acm.org/doi/10.1145/2659651.2659655"
+    },
+    {
+      "title": "On Choosing Server- or Client-Side Solutions for BFT",
+      "url": "https://dl.acm.org/doi/10.1145/2886780"
+    },
+    {
+      "title": "Research on Network Security Model Based on FAIR and OCTAVE Algorithms",
+      "url": "https://dl.acm.org/doi/10.1145/3727505.3727521"
+    },
+    {
+      "title": "SIGITE '22: Proceedings of the 23rd Annual Conference on Information Technology Education",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3537674"
+    },
+    {
+      "title": "ICBAR '25: Proceedings of the 2025 5th International Conference on Big Data, Artificial Intelligence and Risk Management",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3800227"
+    },
+    {
+      "title": "EnCyCriS '22: Proceedings of the 3rd International Workshop on Engineering and Cybersecurity of Critical Systems",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3524489"
+    },
+    {
+      "title": "CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3719027"
+    },
+    {
+      "title": "MQTT-VET: Exploring MQTT Protocol Vulnerabilities",
+      "url": "https://dl.acm.org/doi/10.1145/3697090.3699800"
+    },
+    {
+      "title": "Alert or Noise? Reducing False Positives with ActiveBehavioral Analysis for Cloud Security",
+      "url": "https://dl.acm.org/doi/10.1145/3797823.3797850"
+    },
+    {
+      "title": "Intelligent closed-loop implementation method for the entire log life cycle",
+      "url": "https://dl.acm.org/doi/10.1145/3778534.3778608"
+    },
+    {
+      "title": "Chapter 4: Content of the cybersecurity curricular framework",
+      "url": "https://dl.acm.org/doi/10.5555/3184594.C5570244"
+    },
+    {
+      "title": "Log2vec",
+      "url": "https://dl.acm.org/doi/10.1145/3319535.3363224"
+    },
+    {
+      "title": "Experience",
+      "url": "https://dl.acm.org/doi/10.1145/3297721"
+    },
+    {
+      "title": "AMLB",
+      "url": "https://dl.acm.org/doi/10.5555/3722577.3722678"
+    },
+    {
+      "title": "Overview of Mobile Security Detection Technologies in Internet Traffic",
+      "url": "https://dl.acm.org/doi/10.1145/3689236.3691493"
+    },
+    {
+      "title": "Modelling Indicators of Behaviour for Cyber Threat Hunting via Sysmon",
+      "url": "https://dl.acm.org/doi/10.1145/3655693.3655722"
+    },
+    {
+      "title": "Cybersecurity Curricula 2017",
+      "url": "https://dl.acm.org/doi/book/10.1145/3184594"
+    },
+    {
+      "title": "Research on the Teaching System of Electrical “1+X” Certificate Based on Blockchain",
+      "url": "https://dl.acm.org/doi/10.1145/3724504.3724609"
+    },
+    {
+      "title": "BloTISRT",
+      "url": "https://dl.acm.org/doi/10.1145/3444370.3444623"
+    },
+    {
+      "title": "Network Forensic Analysis for Lawful Enforcement on Steroids, Distributed and Scalable",
+      "url": "https://dl.acm.org/doi/10.1145/3352700.3352720"
+    },
+    {
+      "title": "SIGUCCS '23: Proceedings of the 2023 ACM SIGUCCS Annual Conference",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3539811"
+    },
+    {
+      "title": "Improving patient care in transport medicine through an ontological approach",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558006"
+    },
+    {
+      "title": "Aggregation of security metrics for decision making",
+      "url": "https://dl.acm.org/doi/10.1145/3241403.3241458"
+    },
+    {
+      "title": "Exploit Prediction Scoring System (EPSS)",
+      "url": "https://dl.acm.org/doi/10.1145/3436242"
+    },
+    {
+      "title": "UX Aspects of Threat Information Sharing Platforms",
+      "url": "https://dl.acm.org/doi/10.1145/2808128.2808136"
+    },
+    {
+      "title": "A smart e-voting system using RFID authentication method for a campus electoral",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2557985"
+    },
+    {
+      "title": "SNS-based issue detection and related news summarization scheme",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558089"
+    },
+    {
+      "title": "A method for personalized ranking of items based on similarity between Twitter users",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558031"
+    },
+    {
+      "title": "Requirements engineering approach for real-time and embedded systems",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558012"
+    },
+    {
+      "title": "Password-based single-file encryption and secure data deletion for solid-state drive",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558072"
+    },
+    {
+      "title": "Performance evaluation of routing protocols based on realistic traces from driving simulator",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558033"
+    },
+    {
+      "title": "Building a hardware-in-the-loop (HiL) digital energy station infrastructure for cyber operation resiliency testing",
+      "url": "https://dl.acm.org/doi/10.1145/3524489.3527299"
+    },
+    {
+      "title": "QoS-aware adaptive data collection in wireless sensor networks",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558066"
+    },
+    {
+      "title": "Linkage of compound objects for supporting maintenance of large-scale web sites",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558071"
+    },
+    {
+      "title": "MIDA '24: Proceedings of the 2024 International Conference on Machine Intelligence and Digital Applications",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3662739"
+    },
+    {
+      "title": "Predicting relevant documents for enterprise communication contexts",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2558069"
+    },
+    {
+      "title": "Development of the customer centric data visibility framework for the enhancement of the trust of SME customers in cloud services",
+      "url": "https://dl.acm.org/doi/10.1145/3178158.3178201"
+    },
+    {
+      "title": "SecureSMS",
+      "url": "https://dl.acm.org/doi/10.1145/2557977.2557979"
+    },
+    {
+      "title": "A Unified Method for Hybrid Network Security Situation Assessment Using HPPAL Approach",
+      "url": "https://dl.acm.org/doi/10.1145/2909067.2909102"
+    },
+    {
+      "title": "Multi-objective neural architecture search by learning search space partitions",
+      "url": "https://dl.acm.org/doi/10.5555/3722577.3722754"
+    },
+    {
+      "title": "Three Tier Network Architecture to Mitigate DDoS Attacks on Hybrid Cloud Environments",
+      "url": "https://dl.acm.org/doi/10.1145/2905055.2905169"
+    },
+    {
+      "title": "From Cyber Security Information Sharing to Threat Management",
+      "url": "https://dl.acm.org/doi/10.1145/2808128.2808133"
+    },
+    {
+      "title": "Best practices for scientific research on neural architecture search",
+      "url": "https://dl.acm.org/doi/10.5555/3455716.3455959"
+    },
+    {
+      "title": "NSPW '24: Proceedings of the New Security Paradigms Workshop",
+      "url": "https://dl.acm.org/doi/proceedings/10.1145/3703465"
+    },
+    {
+      "title": "Connectivity Reestablishment in Self-Organizing Sensor Networks with Dumb Nodes",
+      "url": "https://dl.acm.org/doi/10.1145/2816820"
+    },
+    {
+      "title": "Multi-relational data mining",
+      "url": "https://dl.acm.org/doi/10.1145/959242.959245"
+    }
+  ]
+}

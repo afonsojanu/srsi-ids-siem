@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-30",
+  "purpose": "Validação documental, não atualização do corpus",
+  "source": "IEEE Xplore",
+  "field": "All Metadata",
+  "query": "(\"All Metadata\":\"intrusion detection system\" OR \"All Metadata\":\"network intrusion detection\" OR \"All Metadata\":IDS OR \"All Metadata\":NIDS) AND (\"All Metadata\":\"security information and event management\" OR \"All Metadata\":SIEM) AND (\"All Metadata\":integration OR \"All Metadata\":correlation OR \"All Metadata\":\"event correlation\" OR \"All Metadata\":\"alert correlation\" OR \"All Metadata\":\"log correlation\")",
+  "url": "https://ieeexplore.ieee.org/search/searchresult.jsp?action=search&newsearch=true&matchBoolean=true&queryText=(%22All%20Metadata%22:%22intrusion%20detection%20system%22%20OR%20%22All%20Metadata%22:%22network%20intrusion%20detection%22%20OR%20%22All%20Metadata%22:IDS%20OR%20%22All%20Metadata%22:NIDS)%20AND%20(%22All%20Metadata%22:%22security%20information%20and%20event%20management%22%20OR%20%22All%20Metadata%22:SIEM)%20AND%20(%22All%20Metadata%22:integration%20OR%20%22All%20Metadata%22:correlation%20OR%20%22All%20Metadata%22:%22event%20correlation%22%20OR%20%22All%20Metadata%22:%22alert%20correlation%22%20OR%20%22All%20Metadata%22:%22log%20correlation%22)",
+  "filters": "Sem filtros adicionais; sem intervalo temporal aplicado na consulta de validação",
+  "results": 105,
+  "exported_records": 30,
+  "export_scope": "Primeira página de 25 e última página de cinco; exportação parcial, não total",
+  "historical_results": 102,
+  "historical_field": "Não confirmado",
+  "included_unchanged": 18,
+  "acm_reconciliation": {
+    "historical_occurrences": 374,
+    "unique_urls": 372,
+    "matched_native_primary_citations": 372,
+    "new_search": false
+  }
+}

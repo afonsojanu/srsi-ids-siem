@@ -1,0 +1,71 @@
+[
+  {
+    "source": "IEEE",
+    "date": "2026-10-21",
+    "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\")",
+    "scope": "Campo efetivo não identificável nos registos preservados; URL histórico usa queryText sem qualificador de campo.",
+    "count": 102,
+    "export": "ieee-principal-102.csv",
+    "sha256": "f93f6c3ce4bee0ed286ac51bd8ec769d7aa369f6809fb9fa6273dfee07afbbf8",
+    "filters": "Sem ano inferior; seleção de idioma na triagem; ver limitações de reprodução",
+    "historical_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=(%22intrusion%20detection%20system%22%20OR%20%22network%20intrusion%20detection%22%20OR%20IDS%20OR%20NIDS)%20AND%20(%22security%20information%20and%20event%20management%22%20OR%20SIEM)%20AND%20(integration%20OR%20correlation%20OR%20%22event%20correlation%22%20OR%20%22alert%20correlation%22%20OR%20%22log%20correlation%22)",
+    "historical_visit_utc": "2026-10-21T14:13:12.798Z"
+  },
+  {
+    "source": "ACM",
+    "date": "2026-10-21",
+    "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\")",
+    "scope": "Texto completo; coleção ACM, não Guide",
+    "count": 423,
+    "export": "acm-principal-423.bib",
+    "sha256": "5b75e5fd7708a95769d24fca358a75a151876e32ab714fdc2d993e8fc5a50848",
+    "filters": "Sem ano inferior; seleção de idioma na triagem; ver limitações de reprodução"
+  },
+  {
+    "source": "Scopus",
+    "date": "2026-10-21",
+    "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\")",
+    "scope": "TITLE-ABS-KEY",
+    "count": 93,
+    "export": "scopus-principal-93.bib",
+    "sha256": "b436c47e63de048529da5669b231ec484305dd7eaf73aeca555154fa97a58320",
+    "filters": "Sem ano inferior; seleção de idioma na triagem; ver limitações de reprodução"
+  },
+  {
+    "source": "IEEE",
+    "kind": "secondary",
+    "date": "2026-10-21",
+    "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\") AND (\"systematic literature review\" OR \"systematic review\" OR \"literature review\" OR survey)",
+    "count": 9,
+    "export": "ieee-secundaria-9.csv",
+    "subset_of_primary": true,
+    "sha256": "d3cdea3a4afbba0ff3214a0087600680e9771c105f2b1c3d06957b17f7ff8555",
+    "scope": "Campo efetivo não identificável nos registos preservados; URL histórico usa queryText sem qualificador de campo.",
+    "historical_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=(%22intrusion%20detection%20system%22%20OR%20%22network%20intrusion%20detection%22%20OR%20IDS%20OR%20NIDS)%20AND%20(%22security%20information%20and%20event%20management%22%20OR%20SIEM)%20AND%20(integration%20OR%20correlation%20OR%20%22event%20correlation%22%20OR%20%22alert%20correlation%22%20OR%20%22log%20correlation%22)%20AND%20(%22systematic%20literature%20review%22%20OR%20%22systematic%20review%22%20OR%20%22literature%20review%22%20OR%20survey)",
+    "historical_visit_utc": "2026-10-21T14:16:05.765Z"
+  },
+  {
+    "source": "ACM",
+    "kind": "secondary",
+    "date": "2026-10-22",
+    "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\") AND (\"systematic literature review\" OR \"systematic review\" OR \"literature review\" OR survey)",
+    "scope": "Texto completo; oito páginas, 372 URLs únicos e dois repetidos entre páginas; captura DOM, não exportação BibTeX",
+    "count": 374,
+    "export": "acm-secundaria-374-dom.json",
+    "subset_of_primary": true,
+    "sha256": "6cd682b466ec7dafb9fe87796ebd06a029894122e426686e57c191d3738ce17d",
+    "new_records": 0
+  },
+  {
+    "source": "Scopus",
+    "kind": "secondary",
+    "date": "2026-10-22",
+    "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\") AND (\"systematic literature review\" OR \"systematic review\" OR \"literature review\" OR survey)",
+    "scope": "TITLE-ABS-KEY; exportação bibliográfica nativa",
+    "count": 5,
+    "export": "scopus-secundaria-5.bib",
+    "subset_of_primary": true,
+    "sha256": "7b1dfc83fe5f3be421f5bcb82d5835060acc44b084a4cadad7852e98dbfd534b",
+    "new_records": 0
+  }
+]

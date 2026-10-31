@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-22",
+  "source": "Histórico do navegador da aplicação, consulta limitada a URLs IEEE/search entre 21 e 22 de outubro de 2026.",
+  "entries": [
+    {
+      "url": "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=(%22intrusion%20detection%20system%22%20OR%20%22network%20intrusion%20detection%22%20OR%20IDS%20OR%20NIDS)%20AND%20(%22security%20information%20and%20event%20management%22%20OR%20SIEM)%20AND%20(integration%20OR%20correlation%20OR%20%22event%20correlation%22%20OR%20%22alert%20correlation%22%20OR%20%22log%20correlation%22)",
+      "dateVisited": "2026-10-21T14:13:12.798Z",
+      "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\")"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=(%22intrusion%20detection%20system%22%20OR%20%22network%20intrusion%20detection%22%20OR%20IDS%20OR%20NIDS)%20AND%20(%22security%20information%20and%20event%20management%22%20OR%20SIEM)%20AND%20(integration%20OR%20correlation%20OR%20%22event%20correlation%22%20OR%20%22alert%20correlation%22%20OR%20%22log%20correlation%22)%20AND%20(%22systematic%20literature%20review%22%20OR%20%22systematic%20review%22%20OR%20%22literature%20review%22%20OR%20survey)",
+      "dateVisited": "2026-10-21T14:16:05.765Z",
+      "query": "(\"intrusion detection system\" OR \"network intrusion detection\" OR IDS OR NIDS) AND (\"security information and event management\" OR SIEM) AND (integration OR correlation OR \"event correlation\" OR \"alert correlation\" OR \"log correlation\") AND (\"systematic literature review\" OR \"systematic review\" OR \"literature review\" OR survey)"
+    }
+  ],
+  "conclusion": "Expressões e momentos de visita recuperados. Não existe qualificador de campo nos URLs; o campo efetivo histórico não pode ser confirmado. Não se substituiu a pesquisa histórica por uma pesquisa atual."
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "P01",
+    "key": "suarez2015",
+    "title": "Providing SIEM systems with self-adaptation",
+    "quality": 3.0,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "P02",
+    "key": "sheeraz2024",
+    "title": "Revolutionizing SIEM Security: An Innovative Correlation Engine Design for Multi-Layered Attack Detection",
+    "quality": 4.0,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "P03",
+    "key": "suryayusra2026",
+    "title": "Analysis of SIEM and NIDS Integration for Network Monitoring",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "P05",
+    "key": "maliki2024",
+    "title": "Integration of Heterogeneous IDS with SIEM for DDoS Attack Detection in Computer Networked Multi-Organizational Environments",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "P12",
+    "key": "splunk2021",
+    "title": "Integration of Splunk Enterprise SIEM for DDoS Attack Detection in IoT",
+    "quality": 2.0,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "A012",
+    "key": "ctismes2025",
+    "title": "Open-Source Cyberthreat Intelligence Integration for SMEs",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "A052",
+    "key": "roelofs2024",
+    "title": "Finding Harmony in the Noise: Blending Security Alerts for Attack Detection",
+    "quality": 4.0,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "A058",
+    "key": "saibersoc2022",
+    "title": "SAIBERSOC: A Methodology and Tool for Experimenting with Security Operation Centers",
+    "quality": 4.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "A146",
+    "key": "ragincident2026",
+    "title": "Retrieval-Augmented LLMs for Security Incident Analysis",
+    "quality": 5.0,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "A257",
+    "key": "uetz2021",
+    "title": "Reproducible and Adaptable Log Data Generation for Sound Cybersecurity Experiments",
+    "quality": 4.0,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "S032",
+    "key": "wazuhtelegram2026",
+    "title": "Development of an integrated network threat detection system based on Wazuh, Suricata and Telegram Bot",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "S041",
+    "key": "negi2021",
+    "title": "An Approach for Alert Correlation Using ArcSight SIEM and Open Source NIDS",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "S055",
+    "key": "abuneama2024",
+    "title": "Enhancing Cybersecurity with IDS and SIEM Integration Detection",
+    "quality": 1.5,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "S069",
+    "key": "botnetcloud2022",
+    "title": "Botnet intrusion detection: A modern architecture to defend a virtual private cloud",
+    "quality": 2.5,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "S076",
+    "key": "bryant2020",
+    "title": "Improving SIEM alert metadata aggregation with a novel kill-chain based classification model",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I001",
+    "key": "muges2025",
+    "title": "An Integrated Approach to AI-Enhanced Security Information and Event Management",
+    "quality": 3.0,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I003",
+    "key": "vasilakis2025",
+    "title": "Integrated Threat Intelligence and Event Correlation with Wazuh, Suricata, and MISP",
+    "quality": 2.0,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I005",
+    "key": "granadillo2016",
+    "title": "New Types of Alert Correlation for Security Information and Event Management Systems",
+    "quality": 1.5,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I008",
+    "key": "bakraouy2025",
+    "title": "Hybrid NIDS Architecture Leveraging Suricata, Zeek and the ELK Stack",
+    "quality": 3.0,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I009",
+    "key": "toyin2024",
+    "title": "Intelligent Network Intrusion Detection and Prevention System (NIDPS): A Machine Learning and Network Security",
+    "quality": 1.5,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I010",
+    "key": "chandran2026",
+    "title": "Real-Time Port Scan Detection and Automated Response Framework Using Log-Based Analysis and SIEM Integration",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I014",
+    "key": "pattinama2026",
+    "title": "Intrusion Detection System Using Stratosphere Linux IPS (SLIPS) and Honeypot with SIEM Visualization",
+    "quality": 4.0,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I020",
+    "key": "sdn2023",
+    "title": "Real-Time Anomaly Detection in SDN Architecture Using Integrated SIEM and Machine Learning for Enhancing Network Security",
+    "quality": 1.5,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I024",
+    "key": "predictive2026",
+    "title": "Predictive Intrusion Detection System: A Distributed Machine Learning Framework Integrated with Wazuh for Real-Time Network Threat Prediction",
+    "quality": 4.0,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I026",
+    "key": "simu2015",
+    "title": "SIEM approach for a higher level of IT security in enterprise networks",
+    "quality": 2.5,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I032",
+    "key": "ahmad2024",
+    "title": "Anomaly Detection in HTTP Logs: Leveraging Machine Learning for Uncovering Anomalous Traffic Patterns with SIEM Integration",
+    "quality": 2.5,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I036",
+    "key": "otrobustness2026",
+    "title": "Adversarial Robustness Evaluation of a Multi-Layer OT Intrusion Detection System Via Automated C2 Red Teaming",
+    "quality": 4.0,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I043",
+    "key": "dmz2026",
+    "title": "Protection Against Cyber Threats by Integrating SIEM Solutions in a Demilitarized Zone: A University Network Environment as a Case Study",
+    "quality": 2.0,
+    "included": false,
+    "code": "R1",
+    "reason": "Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I057",
+    "key": "normalisation2014",
+    "title": "Pushing the Limits in Event Normalisation to Improve Attack Detection in IDS/SIEM Systems",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I062",
+    "key": "snortlinerate2024",
+    "title": "Advancing Snort IPS to Achieve Line Rate Traffic Processing for Effective Network Security Monitoring",
+    "quality": 4.0,
+    "included": false,
+    "code": "R2",
+    "reason": "Ensaio centrado na captura/processamento do Snort; não avalia o contributo da cadeia SIEM.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I063",
+    "key": "hybridalarms2019",
+    "title": "A hybrid alarm management strategy in signature-based intrusion detection systems",
+    "quality": 4.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "I088",
+    "key": "ossimaudit2015",
+    "title": "Open Source Security Information Management system supporting IT security audit",
+    "quality": 3.5,
+    "included": true,
+    "code": "",
+    "reason": "Qualidade e pertinência para a síntese focalizada.",
+    "date": "2026-10-24"
+  }
+]

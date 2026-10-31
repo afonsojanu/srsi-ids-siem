@@ -1,0 +1,33 @@
+﻿id;key;title;quality;included;code;reason;date
+P01;suarez2015;Providing SIEM systems with self-adaptation;3.0;False;R1;Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+P02;sheeraz2024;Revolutionizing SIEM Security: An Innovative Correlation Engine Design for Multi-Layered Attack Detection;4.0;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+P03;suryayusra2026;Analysis of SIEM and NIDS Integration for Network Monitoring;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+P05;maliki2024;Integration of Heterogeneous IDS with SIEM for DDoS Attack Detection in Computer Networked Multi-Organizational Environments;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+P12;splunk2021;Integration of Splunk Enterprise SIEM for DDoS Attack Detection in IoT;2.0;False;R1;Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+A012;ctismes2025;Open-Source Cyberthreat Intelligence Integration for SMEs;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+A052;roelofs2024;Finding Harmony in the Noise: Blending Security Alerts for Attack Detection;4.0;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+A058;saibersoc2022;SAIBERSOC: A Methodology and Tool for Experimenting with Security Operation Centers;4.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+A146;ragincident2026;Retrieval-Augmented LLMs for Security Incident Analysis;5.0;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+A257;uetz2021;Reproducible and Adaptable Log Data Generation for Sound Cybersecurity Experiments;4.0;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+S032;wazuhtelegram2026;Development of an integrated network threat detection system based on Wazuh, Suricata and Telegram Bot;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+S041;negi2021;An Approach for Alert Correlation Using ArcSight SIEM and Open Source NIDS;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+S055;abuneama2024;Enhancing Cybersecurity with IDS and SIEM Integration Detection;1.5;False;R1;Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+S069;botnetcloud2022;Botnet intrusion detection: A modern architecture to defend a virtual private cloud;2.5;False;R1;Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+S076;bryant2020;Improving SIEM alert metadata aggregation with a novel kill-chain based classification model;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+I001;muges2025;An Integrated Approach to AI-Enhanced Security Information and Event Management;3.0;False;R1;Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I003;vasilakis2025;Integrated Threat Intelligence and Event Correlation with Wazuh, Suricata, and MISP;2.0;False;R1;Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I005;granadillo2016;New Types of Alert Correlation for Security Information and Event Management Systems;1.5;False;R1;Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I008;bakraouy2025;Hybrid NIDS Architecture Leveraging Suricata, Zeek and the ELK Stack;3.0;False;R1;Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I009;toyin2024;Intelligent Network Intrusion Detection and Prevention System (NIDPS): A Machine Learning and Network Security;1.5;False;R1;Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I010;chandran2026;Real-Time Port Scan Detection and Automated Response Framework Using Log-Based Analysis and SIEM Integration;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+I014;pattinama2026;Intrusion Detection System Using Stratosphere Linux IPS (SLIPS) and Honeypot with SIEM Visualization;4.0;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+I020;sdn2023;Real-Time Anomaly Detection in SDN Architecture Using Integrated SIEM and Machine Learning for Enhancing Network Security;1.5;False;R1;Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I024;predictive2026;Predictive Intrusion Detection System: A Distributed Machine Learning Framework Integrated with Wazuh for Real-Time Network Threat Prediction;4.0;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+I026;simu2015;SIEM approach for a higher level of IT security in enterprise networks;2.5;False;R1;Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I032;ahmad2024;Anomaly Detection in HTTP Logs: Leveraging Machine Learning for Uncovering Anomalous Traffic Patterns with SIEM Integration;2.5;False;R1;Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I036;otrobustness2026;Adversarial Robustness Evaluation of a Multi-Layer OT Intrusion Detection System Via Automated C2 Red Teaming;4.0;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+I043;dmz2026;Protection Against Cyber Threats by Integrating SIEM Solutions in a Demilitarized Zone: A University Network Environment as a Case Study;2.0;False;R1;Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6.;2026-10-24
+I057;normalisation2014;Pushing the Limits in Event Normalisation to Improve Attack Detection in IDS/SIEM Systems;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+I062;snortlinerate2024;Advancing Snort IPS to Achieve Line Rate Traffic Processing for Effective Network Security Monitoring;4.0;False;R2;"Ensaio centrado na captura/processamento do Snort; não avalia o contributo da cadeia SIEM.";2026-10-24
+I063;hybridalarms2019;A hybrid alarm management strategy in signature-based intrusion detection systems;4.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24
+I088;ossimaudit2015;Open Source Security Information Management system supporting IT security audit;3.5;True;;Qualidade e pertinência para a síntese focalizada.;2026-10-24

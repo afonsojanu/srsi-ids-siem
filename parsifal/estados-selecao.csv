@@ -1,0 +1,633 @@
+﻿bibtex_key;title;year;source;note;status
+muges2025;An Integrated Approach to AI-Enhanced Security Information and Event Management;2025;IEEE Digital Library;"I001 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+splunk2021;{Integration of Splunk Enterprise SIEM for DDoS Attack Detection in IoT};2021;Pesquisa web exploratória;"P12 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+abuneama2024;Enhancing Cybersecurity with IDS and SIEM Integration Detection;2024;Scopus;"S055 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+dmz2026;Protection Against Cyber Threats by Integrating SIEM Solutions in a Demilitarized Zone: A University Network Environment as a Case Study;2025;IEEE Digital Library;"I043 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+bakraouy2025;Hybrid NIDS Architecture Leveraging Suricata, Zeek and the ELK Stack;2025;IEEE Digital Library;"I008 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+uetz2021;Reproducible and Adaptable Log Data Generation for Sound Cybersecurity Experiments;2021;ACM Digital Library;"A257 | Texto integral avaliado em 22-10-2026 | Incluído. SOCBED centraliza Suricata e logs de host no ELK e avalia deteção de uma intrusão empresarial de nove passos.Acesso: Versão integral do autor (arXiv), correspondente ao artigo ACSAC revisto por pares. https://arxiv.org/pdf/2111.07847Secções 5–7, tabela 2 e apêndice CQuarenta execuções: dez por configuração em dois computadores. Configuração Windows predefinida deteta quatro dos nove passos; configuração com Sysmon e PowerShell detalhado de";Accepted
+bryant2020;Improving SIEM alert metadata aggregation with a novel kill-chain based classification model;2020;Scopus;"S076 | Texto integral avaliado em 22-10-2026 | Incluído. Snort, firewall e endpoints integrados no LogRhythm em dois laboratórios empresariais equivalentes, comparando ontologias e regras.Acesso: PDF integral no sítio institucional do autor. https://people.eecs.ku.edu/~saiedian/Pub/Journal/2020-Saiedian-CS.pdfSecções 5–7; tabela 2, p.17, conferida visualmenteNos 26 casos, a configuração base deteta 7/26 e a modificada 25/26 (26,9% e 96,2%; diferença de 69,2 pontos percentuais). A tabela 2 mostra";Accepted
+saibersoc2022;SAIBERSOC: A Methodology and Tool for Experimenting with Security Operation Centers;2022;ACM Digital Library;"A058 | Texto integral avaliado em 22-10-2026 | Incluído. Security Onion/Elastic com Suricata e Zeek, avaliados com ataques injetados e analistas estudantes.Acesso: HTML integral ACM. https://dl.acm.org/doi/full/10.1145/3491266Secções 4–6 e 7.3; tabelas 3–6Compara regras Suricata predefinidas com remoção de 2753 regras de política, mantendo deteções dos ataques Mirai/Exim. 63 grupos, 162 relatórios; 19/73 e 29/89 relatórios identificam ataques injetados. OR reportado para Exim=3,04, p=0,03. Mede ";Accepted
+hybridalarms2019;A hybrid alarm management strategy in signature-based intrusion detection systems;2019;IEEE Digital Library;"I063 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: include Snort–Prelude correlaciona alarmes com vulnerabilidades Nessus e avalia prioridade antes/depois.A: comparação antes/depois ao nível da priorização de alarmes2985alarmes iniciais passam a1858 por filtroIP (37,8%redução); limiar de prioridade1,5 reduz volume77,9%. Reporta75%deteção e100%precisão na priorização, com25%falsos negativos de prioridade. Não são taxas convencionais de deteção de ataques nem";Accepted
+normalisation2014;Pushing the Limits in Event Normalisation to Improve Attack Detection in IDS/SIEM Systems;2013;IEEE Digital Library;"I057 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: include SAL normaliza fontes HN34 incluindo69039alertas Snort, com exemplos de deteção SSH/SMTP/HTTP.C: demonstração sem comparadorHN34:260336linhas, incluindo69039Snort e179752IPtables (tabelaII verificada visualmente). Normalização OLF/UERM permite consultas comuns sobre múltiplas fontes; exemplos SSH, SMTP e HTTP. Não mede recall/FPR nem ganho versus Snort isolado; benchmark de normalização não equivale ";Accepted
+pattinama2026;Intrusion Detection System Using Stratosphere Linux IPS (SLIPS) and Honeypot with SIEM Visualization;2026;IEEE Digital Library;"I014 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: include SLIPS, honeypot Dionaea e ELK integrados em quatro VMs; três cenários controlados.C: demonstração sem comparadorSLIPS2.0.3 gera alertas de portscan, SSH brute force e DoS; Filebeat envia-os ao ELK. Reporta latências6/18/3s, média9s, calculadas de StartTime a CreateTime no SLIPS; metodologia define alerta→indexação SIEM, logo há discrepância de operacionalização. O evento DoS é uma ligação privada In";Accepted
+ragincident2026;Retrieval-Augmented LLMs for Security Incident Analysis;2026;ACM Digital Library;"A146 | Texto integral avaliado em 22-10-2026 | Incluído. Security Onion integra Suricata/Zeek e Elasticsearch com análise RAG; inclui baseline Suricata-only para um cenário.Acesso: HTML integral ACM. https://dl.acm.org/doi/full/10.1145/3786335.3813136Secções 4–8; tabelas 1,4,6; apêndices H–K17 cenários, 94948 eventos, 129 perguntas, 218 indicadores. Recall médio de respostas: 94% Claude e 89% DeepSeek. No cenário Fake Authenticator, Suricata-only fornece 40% recall, enquanto RAG com fontes adici";Accepted
+;SAIBERSOC: Synthetic Attack Injection to Benchmark and Evaluate the Performance of Security Operation Centers;2020;ACM Digital Library;"A085 | Texto integral avaliado em 22-10-2026 | Excluído (E6). Versão de conferência do estudo SAIBERSOC incluído em A058 (revista, 2022). Texto integral confirma os mesmos 124 estudantes, 63 grupos, 162 relatórios, ataques Mirai/Exim e configurações Suricata. Preserva-se A058 como relatório principal; A085 é relatório associado, não uma segunda experiência independente.Acesso: Versão integral do autor (arXiv), correspondente à publicação ACSAC2020. https://arxiv.org/pdf/2010.08453Secções 4–5, co";Rejected
+;Fortifying industrial cybersecurity: a novel industrial internet of things architecture enhanced by honeypot integration;2025;Scopus;"S034 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Descreve Snort–Wazuh/Elastic e honeypots industriais, mas os resultados empíricos limitam-se a contagens SSH de honeypot. Não apresenta avaliação identificável da integração NIDS–SIEM; restantes resultados remetidos para publicação futura. Secções 4–6, figura 3.Acesso: PDF integral do editor. https://ijece.iaescore.com/index.php/IJECE/article/viewFile/36124/18017Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;OMMA: open architecture for Operator-guided Monitoring of Multi-step Attacks;2018;Scopus;"S072 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Avaliação do submódulo Morwilog em eventos artificiais gerados por Splunk Event Generator; arquitetura OMMA incompleta, sem integração NIDS–SIEM operacional. Secções 8–10.Acesso: HTML integral Springer, secções de método/resultados/conclusão. https://link.springer.com/article/10.1186/s13635-018-0075-xAvaliação assistida por IA; validação humana independente pendente.";Rejected
+;Intrusion Detection System with correlation engine and vulnerability assessment;2018;Scopus;"S086 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Arquitetura Snort/OSSEC/Prelude e classificação KNN descritas, mas secção de resultados não apresenta teste empírico da integração; gráfico de classificadores provém de referência externa. Secções IV–VI.Acesso: PDF integral do editor. https://thesai.org/Downloads/Volume9No9/Paper_47-Intrusion_Detection_System.pdfAvaliação assistida por IA; validação humana independente pendente.";Rejected
+;A Novel AI/ML SIEM as Application Function within Private 5G Core Network for Industrial-IoT;2024;IEEE Digital Library;"I070 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2LSTM/SVM analisam syslog de hosts Debian/IIoT enviado viaCoAP; autores excluem datasets de rede por não conterem eventos de sistema. Sem IDS de rede integrado avaliado. SecçõesIV–VIII.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Integrating OT data in SIEM platforms: an Energy Utility Perspective;2023;IEEE Digital Library;"I040 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Guia arquitetural IT/OT e exemplos de recolha; caso empírico usa sondas físicas SigaGuard, não avaliação de NIDS–SIEM. Resultados remetidos para white paper externo. Secções IV.D–F e V.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Hybrid Deep Learning Architecture for SIEM Enhancement Using Novel Threat Intelligence Data;2025;IEEE Digital Library;"I025 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Avaliação offline de classificadores híbridos no CICIDS2017; integração operacional SIEM e monitorização em tempo real são trabalho futuro. Secções III–V.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;AI-Driven Cyber Threat Detection and Log Analysis;2025;IEEE Digital Library;"I056 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Resultados centrados em classificação offline CICIDS2017 e resposta por IP; SIEM/Kafka/Elasticsearch descritos genericamente, sem configuração ou avaliação demonstrada da integração operacional NIDS–SIEM. Secções3–7.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Integrating O-RAN and SIEM for Unified Detection of IT and Mobile Network Attacks;2025;IEEE Digital Library;"I031 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Texto integral apresenta proposta arquitetural O-RAN/xApp–SIEM, sem experiência, implementação avaliada ou resultados empíricos. Secções II–III.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Automating Security Incident Response in SCADA Systems through SIEM-ML Integration;2024;IEEE Digital Library;"I046 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E3Integra classificador de transações RTU com Splunk, mas a avaliação restringe-se a injeções de resposta num gasoduto SCADA; não demonstra aplicabilidade à população empresarial nem tráfego IT. Secções IV–VI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Implementation of a Framework for Early Anomaly Detection in Naval Systems;2026;Scopus;;Rejected
+;Real Time Intrusion Detection Using Honeypots and Large Language Models;2026;Scopus;;Rejected
+;Automating Security Detection Engineering: A hands-on guide to implementing Detection as Code;2024;IEEE Digital Library;;Rejected
+;Secure Log Ingestion and Visualization Using Dockerized Graylog with Multiple Log Shippers;2025;IEEE Digital Library;;Rejected
+;Real-time indoor positioning system based on RFID Heron-bilateration location estimation and IMU angular-driven navigation reckoning;2015;IEEE Digital Library;;Rejected
+;Do we need to apply cyber seurity for distribution networks? Challenges and solutions;2020;IEEE Digital Library;;Rejected
+;Packet capture infrastructure based on Moloch;2017;IEEE Digital Library;;Rejected
+;Enhancing Your Cloud Security with a CNAPP Solution: Unlock the full potential of Microsoft Defender for Cloud to fortify your cloud security;2024;IEEE Digital Library;;Rejected
+;Power System Resilience Enhancement and Restoration Strategies;2025;IEEE Digital Library;;Rejected
+;A Security Closed Loop-based Framework for Addressing Security Challenges in 6G Networks;2026;IEEE Digital Library;;Rejected
+;A Web Scraping Driven Intelligence System for Proactive Detection of Web Application Vulnerabilities;2026;IEEE Digital Library;;Rejected
+;Distributed Real-Time Event Analysis;2015;IEEE Digital Library;;Rejected
+;Artificial Intelligence–Based Cybersecurity Framework for Uzbekistan’s Digital Infrastructure: Detecting Network Intrusions in Telecommunication and IoT Systems;2026;IEEE Digital Library;;Rejected
+;Cybersecurity in SCADA Systems with Advanced AI and ML Techniques;2024;IEEE Digital Library;;Rejected
+;Anomaly-Based Detection of Pre-Ransomware Activities Using Machine Learning on Firewall Logs;2026;IEEE Digital Library;;Rejected
+;Elevating Cybersecurity Posture by Implementing SOAR;2023;IEEE Digital Library;;Rejected
+;Leveraging Artificial Intelligence and Machine Learning for Enhanced Privacy and Security;2024;IEEE Digital Library;;Rejected
+;Cloud-based Platform-agnostic Adversarial AI Defence framework;2025;IEEE Digital Library;;Rejected
+;Comprehensive Security Measures in IT: A Unified Approach to Mitigate Internal and External Threats;2024;IEEE Digital Library;;Rejected
+;Cybersecurity for Industrial Control Systems;2024;IEEE Digital Library;;Rejected
+;On the Use of Artificial Intelligence in Cybersecurity Incident Investigations;2025;IEEE Digital Library;;Rejected
+;Integrating a Security Operations Centre with an Organization’s Existing Procedures, Policies and Information Technology Systems;2018;IEEE Digital Library;;Rejected
+;A Stream-Processing-Enabled AI Framework for Fast and Reliable Cybersecurity Threat Identification;2025;IEEE Digital Library;;Rejected
+;ShadowNet: A Deceptive Active Directory Honeypot for Detecting Targeted Intrusions using Splunk;2025;IEEE Digital Library;;Rejected
+;Navigating the Cyber Battlefield: Understanding Threats and Safeguarding Digital Frontiers;2024;IEEE Digital Library;;Rejected
+;APT Attack Detection and Defense Techniques: A Review;2025;IEEE Digital Library;;Rejected
+;Collaborative Detection of SQL Injection Attacks using SIEM, Multi-Wazuh Agents, and Diverse Web Application Firewalls;2024;IEEE Digital Library;;Rejected
+;Learning Adaptive Rules and Confidence-Based Engine for Finding Security Incidents by Pattern Correlation;2026;IEEE Digital Library;;Rejected
+;SIEM integration with SOAR;2022;IEEE Digital Library;;Rejected
+;Security Orchestration Automation and Response (SOAR);2026;IEEE Digital Library;;Rejected
+;Conventional versus Explainable Artificial Intelligence-Driven Threat Analysis in SIEM Systems: A Comparative Study;2025;IEEE Digital Library;;Rejected
+;The Role of Honeypots in Modern Cybersecurity Strategies;2025;IEEE Digital Library;;Rejected
+;An Integrated Security Framework for the Application Lifecycle Using SBOM, Wazuh, and DefectDojo;2026;IEEE Digital Library;;Rejected
+;A New Approach to Building a Multi-tier Direct Access Knowledgebase for IDS/SIEM Systems;2013;IEEE Digital Library;;Rejected
+;A Feature Reduction Intrusion Detection System using Genetic Algorithm;2019;IEEE Digital Library;;Rejected
+;Integrated Computer Network Security System: Intrusion Detection and Threat Prediction Using Machine Learning Algorithms;2024;IEEE Digital Library;;Rejected
+;Defensive Artificial Intelligence Technologies and Countermeasures;2026;IEEE Digital Library;;Rejected
+;Incident Response and Recovery in Space Cybersecurity;2026;IEEE Digital Library;;Rejected
+;A Comprehensive Review of Blockchain-Enabled Federated Learning and Hybrid Deep Learning Models for Cybersecurity Threat Detection;2025;IEEE Digital Library;;Rejected
+;Artificial immunity-based correlation system;2011;IEEE Digital Library;;Rejected
+;Cyber Threat Monitoring and Incident Response with IntelliWatch SIEM;2023;IEEE Digital Library;;Rejected
+;AI-Enhanced Cloud Security: A Dynamic Framework for Adaptive Threat Intelligence;2025;IEEE Digital Library;;Rejected
+;Addressing Security Issues of Electronic Health Record Systems through Enhanced SIEM Technology;2013;IEEE Digital Library;;Rejected
+;A Hybrid Framework for Network Intrusion Detection: Integrating Machine Learning, IDS, and Blockchain for Enhanced Security;2025;IEEE Digital Library;;Rejected
+;Integrating SIEM with Zero Trust Architecture;2025;IEEE Digital Library;;Rejected
+;Optimizing endpoint detection and monitoring in enterprise solution: A cyber threat intelligence approach;2024;IEEE Digital Library;;Rejected
+;Hybrid SIEM Architecture for Connected and Automated Vehicles;2026;IEEE Digital Library;;Rejected
+;The Rise of Artificial Intelligence: Industry Insights and Applications in Security Information and Event Management (SIEM);2024;IEEE Digital Library;;Rejected
+;The Rise of Intelligent Guardians: Leveraging AI for Robust Intrusion Detection;2024;IEEE Digital Library;;Rejected
+;Analytical Validation and Integration of CIC-Bell-DNS-EXF-2021 Dataset on Security Information and Event Management;2024;IEEE Digital Library;;Rejected
+;Profiling SIEM tools and correlation engines for security analytics;2017;IEEE Digital Library;;Rejected
+;Enhancing Threat Detection in Financial Institutions with AI-Driven Security Information and Event Management Integration;2024;IEEE Digital Library;;Rejected
+;Insider Log Poisoning Attack on Enterprise SIEM Pipeline via Compromised Aggregation Database;2026;IEEE Digital Library;;Rejected
+;Machine Learning-Based Alert Correlation for Enhanced Cybersecurity: A Multi-Classification Approach;2025;IEEE Digital Library;;Rejected
+;Development of an Automatic Notification System for Unauthorized Activities on the Local Network;2026;IEEE Digital Library;;Rejected
+;Comprehensive Survey of Security Information and Event Management (SIEM) Systems;2026;IEEE Digital Library;;Rejected
+;Multi-relational data mining: an introduction;2003;ACM Digital Library;;Rejected
+;Fault diagnosis based on effect-cause analysis: An introduction;1980;ACM Digital Library;;Rejected
+;Connectivity Reestablishment in Self-Organizing Sensor Networks with Dumb Nodes;2016;ACM Digital Library;;Rejected
+;Best practices for scientific research on neural architecture search;2020;ACM Digital Library;;Rejected
+;Steganographic methods of communications in distributed computing networks;2015;ACM Digital Library;;Rejected
+;Multi-objective neural architecture search by learning search space partitions;2024;ACM Digital Library;;Rejected
+;MIDA '24: Proceedings of the 2024 International Conference on Machine Intelligence and Digital Applications;2024;ACM Digital Library;;Rejected
+;UMAP '23: Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization;2023;ACM Digital Library;;Rejected
+;PETRA '24: Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments;2024;ACM Digital Library;;Rejected
+;EnCyCriS '22: Proceedings of the 3rd International Workshop on Engineering and Cybersecurity of Critical Systems;2022;ACM Digital Library;;Rejected
+;CISAI '25: Proceedings of the 2025 8th International Conference on Computer Information Science and Artificial Intelligence;2025;ACM Digital Library;;Rejected
+;Octree segmentation based calling gesture recognition for elderly care robot;2014;ACM Digital Library;;Rejected
+;Linkage of compound objects for supporting maintenance of large-scale web sites;2014;ACM Digital Library;;Rejected
+;SecureSMS: prevention of SMS interception on Android platform;2014;ACM Digital Library;;Rejected
+;RDB2RDF: completed transformation from relational database into RDF ontology;2014;ACM Digital Library;;Rejected
+;Development of the customer centric data visibility framework for the enhancement of the trust of SME customers in cloud services;2018;ACM Digital Library;;Rejected
+;Predicting relevant documents for enterprise communication contexts;2014;ACM Digital Library;;Rejected
+;SNS-based issue detection and related news summarization scheme;2014;ACM Digital Library;;Rejected
+;Requirements engineering approach for real-time and embedded systems: a case study of android-based smart phone devices;2014;ACM Digital Library;;Rejected
+;ICIEAI '24: Proceedings of the 2024 2nd International Conference on Information Education and Artificial Intelligence;2024;ACM Digital Library;;Rejected
+;QoS-aware adaptive data collection in wireless sensor networks;2014;ACM Digital Library;;Rejected
+;CIBDA '25: Proceedings of the 2025 6th International Conference on Computer Information and Big Data Applications;2025;ACM Digital Library;;Rejected
+;Building a hardware-in-the-loop (HiL) digital energy station infrastructure for cyber operation resiliency testing;2022;ACM Digital Library;;Rejected
+;Performance evaluation of routing protocols based on realistic traces from driving simulator;2014;ACM Digital Library;;Rejected
+;Password-based single-file encryption and secure data deletion for solid-state drive;2014;ACM Digital Library;;Rejected
+;A method for personalized ranking of items based on similarity between Twitter users;2014;ACM Digital Library;;Rejected
+;Local features and histogram based planar object recognition;2014;ACM Digital Library;;Rejected
+;A smart e-voting system using RFID authentication method for a campus electoral;2014;ACM Digital Library;;Rejected
+;ICBAR '25: Proceedings of the 2025 5th International Conference on Big Data, Artificial Intelligence and Risk Management;2025;ACM Digital Library;;Rejected
+;UX Aspects of Threat Information Sharing Platforms: An Examination & Lessons Learned Using Personas;2015;ACM Digital Library;;Rejected
+;ICSIM '25: Proceedings of the 2025 8th International Conference on Software Engineering and Information Management;2025;ACM Digital Library;;Rejected
+;DASN: demand-addressable sensor network for active information acquisition;2014;ACM Digital Library;;Rejected
+;Identity, credential, and access management at NASA, from Zachman to attributes;2009;ACM Digital Library;;Rejected
+;BloTISRT: Blockchain-based Threat Intelligence Sharing and Rating Technology;2021;ACM Digital Library;;Rejected
+;Exploit Prediction Scoring System (EPSS);2021;ACM Digital Library;;Rejected
+;On Choosing Server- or Client-Side Solutions for BFT;2016;ACM Digital Library;;Rejected
+;Interoperable context sharing in an ontology-enabled collaboration framework;2014;ACM Digital Library;;Rejected
+;ACE '25: Proceedings of the 27th Australasian Computing Education Conference;2025;ACM Digital Library;;Rejected
+;Cybersecurity Curricula 2017: Curriculum Guidelines for Post-Secondary Degree Programs in Cybersecurity;2018;ACM Digital Library;;Rejected
+;Improving patient care in transport medicine through an ontological approach;2014;ACM Digital Library;;Rejected
+;AMLB: an AutoML benchmark;2024;ACM Digital Library;;Rejected
+;The Cyber Safe Position: An STPA for Safety, Security, and Resilience Co-Engineering Approach;2024;ACM Digital Library;;Rejected
+;Research on the Teaching System of Electrical “1+X” Certificate Based on Blockchain;2025;ACM Digital Library;;Rejected
+;Federated Single Sign-On and Zero Trust Co-design for AI and HPC Digital Research Infrastructures;2025;ACM Digital Library;;Rejected
+;Racos: Improving Erasure Coding State Machine Replication using Leaderless Consensus;2024;ACM Digital Library;;Rejected
+;Understanding Indicators of Compromise against Cyber-attacks in Industrial Control Systems: A Security Perspective;2023;ACM Digital Library;;Rejected
+;Modelling Indicators of Behaviour for Cyber Threat Hunting via Sysmon;2024;ACM Digital Library;;Rejected
+;Overview of Mobile Security Detection Technologies in Internet Traffic;2024;ACM Digital Library;;Rejected
+;CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security;2025;ACM Digital Library;;Rejected
+;MUM '23: Proceedings of the 22nd International Conference on Mobile and Ubiquitous Multimedia;2023;ACM Digital Library;;Rejected
+;AICCC '24: Proceedings of the 2024 7th Artificial Intelligence and Cloud Computing Conference;2024;ACM Digital Library;;Rejected
+;ICNCC '23: Proceedings of the 2023 12th International Conference on Networks, Communication and Computing;2023;ACM Digital Library;;Rejected
+;SoCC '24: Proceedings of the 2024 ACM Symposium on Cloud Computing;2024;ACM Digital Library;;Rejected
+;MOCO '26: Proceedings of the 10th International Conference on Movement and Computing;2026;ACM Digital Library;;Rejected
+;Cloud-based security services for the smart grid;2013;ACM Digital Library;;Rejected
+;WWW '25: Companion Proceedings of the ACM on Web Conference 2025;2025;ACM Digital Library;;Rejected
+;ICBTA '22: Proceedings of the 2022 5th International Conference on Blockchain Technology and Applications;2022;ACM Digital Library;;Rejected
+;SoCC '25: Proceedings of the 2025 ACM Symposium on Cloud Computing;2025;ACM Digital Library;;Rejected
+;Research on Network Security Model Based on FAIR and OCTAVE Algorithms;2025;ACM Digital Library;;Rejected
+;Chapter 4: Content of the cybersecurity curricular framework;2020;ACM Digital Library;;Rejected
+;CSCS '24 -- Cyber Security in CarS Workshop;2024;ACM Digital Library;;Rejected
+;SIGCITE '25: Proceedings of the 26th ACM Annual Conference on Cybersecurity & Information Technology Education;2025;ACM Digital Library;;Rejected
+;CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security;2024;ACM Digital Library;;Rejected
+;Digital Twin-Enhanced Incident Response for Cyber-Physical Systems;2023;ACM Digital Library;;Rejected
+;ACMSE '24: Proceedings of the 2024 ACM Southeast Conference;2024;ACM Digital Library;;Rejected
+;Cybersecurity Standards in the Context of Operating System: Practical Aspects, Analysis, and Comparisons;2021;ACM Digital Library;;Rejected
+;SC-W '24: Proceedings of the SC '24 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis;2024;ACM Digital Library;;Rejected
+;MQTT-VET: Exploring MQTT Protocol Vulnerabilities;2024;ACM Digital Library;;Rejected
+;CODASPY '25: Proceedings of the Fifteenth ACM Conference on Data and Application Security and Privacy;2024;ACM Digital Library;;Rejected
+;On the Security of Machine Learning in Malware C&C Detection: A Survey;2016;ACM Digital Library;;Rejected
+;CSCS '25 - Cyber Security in CarS Workshop;2025;ACM Digital Library;;Rejected
+;ADEM: An Authentic Digital EMblem;2023;ACM Digital Library;;Rejected
+;LADC '24: Proceedings of the 13th Latin-American Symposium on Dependable and Secure Computing;2024;ACM Digital Library;;Rejected
+;Big Data Information Security Maintenance;2014;ACM Digital Library;;Rejected
+;Data Analysis of Cloud Security Alliance's Security, Trust & Assurance Registry;2018;ACM Digital Library;;Rejected
+;ICCTA '24: Proceedings of the 2024 10th International Conference on Computer Technology Applications;2024;ACM Digital Library;;Rejected
+;Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation;2025;ACM Digital Library;;Rejected
+;SSDBM '22: Proceedings of the 34th International Conference on Scientific and Statistical Database Management;2022;ACM Digital Library;;Rejected
+;Internetware '25: Proceedings of the 16th International Conference on Internetware;2025;ACM Digital Library;;Rejected
+;EnCyCriS/SVM '24: Proceedings of the 2024 ACM/IEEE 4th International Workshop on Engineering and Cybersecurity of Critical Systems (EnCyCriS) and 2024 IEEE/ACM Second International Workshop on Software Vulnerability;2024;ACM Digital Library;;Rejected
+;ICSE '26: Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering;2026;ACM Digital Library;;Rejected
+;UCC '25: Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing;2025;ACM Digital Library;;Rejected
+;Survey of data intensive computing technologies application to to security log data management;2016;ACM Digital Library;;Rejected
+;Discovering Patterns for Fact Checking in Knowledge Graphs;2019;ACM Digital Library;;Rejected
+;Emerging trends around big data analytics and security: panel;2012;ACM Digital Library;;Rejected
+;Multi-SpacePhish: Extending the Evasion-space of Adversarial Attacks against Phishing Website Detectors Using Machine Learning;2024;ACM Digital Library;;Rejected
+;Toward Enumeration of Common Operational Processes: The Water Sector;2026;ACM Digital Library;;Rejected
+;Categorization of cyber security deception events for measuring the severity level of advanced targeted breaches;2017;ACM Digital Library;;Rejected
+;SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning;2022;ACM Digital Library;;Rejected
+;How Should Enterprises Quantify and Analyze (Multi-Party) APT Cyber-Risk Exposure in their Industrial IoT Network?;2023;ACM Digital Library;;Rejected
+;Improving cybersecurity hygiene through JIT patching;2020;ACM Digital Library;;Rejected
+;Secure the Cloud: From the Perspective of a Service-Oriented Organization;2015;ACM Digital Library;;Rejected
+;Adversarial Thinking as a Professional Disposition for Computing Education;2025;ACM Digital Library;;Rejected
+;POSTER: Automating ICS Malware Analysis with MITRE ATT&CK;2025;ACM Digital Library;;Rejected
+;ACM Sustainability Week '26: Proceedings of the 2026 ACM Sustainability Week;2026;ACM Digital Library;;Rejected
+;WWW '25: Proceedings of the ACM on Web Conference 2025;2025;ACM Digital Library;;Rejected
+;DTW-ABAC: A Dynamic Trust Weighted Attribute-Based Access Control Hybrid Security Model for Cloud Applications;2026;ACM Digital Library;;Rejected
+;MetaSEnD: A Security Enabled Development Life Cycle Meta-Model;2022;ACM Digital Library;;Rejected
+;Industrial control systems (ICSs) vulnerabilities analysis and SCADA security enhancement using testbed encryption;2014;ACM Digital Library;;Rejected
+;ASE '26: Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering;2026;ACM Digital Library;;Rejected
+;ASIA CCS '25: Proceedings of the 20th ACM Asia Conference on Computer and Communications Security;2025;ACM Digital Library;;Rejected
+;Cloud application logging for forensics;2011;ACM Digital Library;;Rejected
+;CADscanner: Automating Malware Analysis for Compiled AutoCAD Scripts in Engineering Environments;2026;ACM Digital Library;;Rejected
+;Mobile device management (MDM) technologies, issues and challenges;2019;ACM Digital Library;;Rejected
+;SAC '24: Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing;2024;ACM Digital Library;;Rejected
+;CSCS '22: Proceedings of the 6th ACM Computer Science in Cars Symposium;2022;ACM Digital Library;;Rejected
+;ICACS '25: Proceedings of the 9th International Conference on Algorithms, Computing and Systems;2025;ACM Digital Library;;Rejected
+;Discussing the Feasibility of Acoustic Sensors for Side Channel-aided Industrial Intrusion Detection: An Essay;2019;ACM Digital Library;;Rejected
+;Delta lake: high-performance ACID table storage over cloud object stores;2020;ACM Digital Library;;Rejected
+;An Empirical Exploration of Cybersecurity Threats and Mitigation Strategies in Software Testing;2025;ACM Digital Library;;Rejected
+;A Content-Based Approach for Modeling Analytics Operators;2018;ACM Digital Library;;Rejected
+;LADC '23: Proceedings of the 12th Latin-American Symposium on Dependable and Secure Computing;2023;ACM Digital Library;;Rejected
+;Safety and Security Analysis using LDA based on Case Reports: Case Study and Trust Evaluation Method;2022;ACM Digital Library;;Rejected
+;Research of Global Strategic Cyberspace Security Risk Evaluation System Based on Knowledge Service;2020;ACM Digital Library;;Rejected
+;ZTA-IoT: A Novel Architecture for Zero-Trust in IoT Systems and an Ensuing Usage Control Model;2024;ACM Digital Library;;Rejected
+;Security Vulnerabilities and Encryption Technologies of Computer Information Technology Data under the Background of Big Data;2021;ACM Digital Library;;Rejected
+;LLMCloudHunter: Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI;2025;ACM Digital Library;;Rejected
+;Exploring the Role of Artificial Intelligence in Enhancing Security Operations: A Systematic Review;2025;ACM Digital Library;;Rejected
+;An Indicators-of-Risk Library for Industrial Network Security;2021;ACM Digital Library;;Rejected
+;Automatic incident response solutions: a review of proposed solutions’ input and output;2023;ACM Digital Library;;Rejected
+;Cybersecurity of Industrial Cyber-Physical Systems: A Review;2022;ACM Digital Library;;Rejected
+;Alert Prioritisation in Security Operations Centres: A Systematic Survey on Criteria and Methods;2024;ACM Digital Library;;Rejected
+;Identity and Access Management Metrics: A Systematic Review;2026;ACM Digital Library;;Rejected
+;Doomed to Repeat with IPv6? Characterization of NAT-centric Security in SOHO Routers;2023;ACM Digital Library;;Rejected
+;Cloud Log Forensics: Foundations, State of the Art, and Future Directions;2016;ACM Digital Library;;Rejected
+;RAID '24: Proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses;2024;ACM Digital Library;;Rejected
+;The Dos and Don'ts of Industrial Network Simulation: A Field Report;2018;ACM Digital Library;;Rejected
+;The Insider Threat: Reasons, Effects and Mitigation Techniques;2021;ACM Digital Library;;Rejected
+;A Survey on Cyber Resilience: Key Strategies, Research Challenges, and Future Directions;2024;ACM Digital Library;;Rejected
+;SECURA: Unified Reference Architecture for Advanced Security and Trust in Safety Critical Infrastructures;2024;ACM Digital Library;;Rejected
+;RT-METER: a real-time, multi-layer cyber-power testbed for resiliency analysis;2021;ACM Digital Library;;Rejected
+;A Systematic Survey on Cloud Forensics Challenges, Solutions, and Future Directions;2019;ACM Digital Library;;Rejected
+;RICSS '24: Proceedings of the 2024 Workshop on Re-design Industrial Control Systems with Security;2024;ACM Digital Library;;Rejected
+;What do we really talk about when we talk about context in pervasive computing: a review and exploratory analysis;2017;ACM Digital Library;;Rejected
+;Prompting LLM to Enforce and Validate CIS Critical Security Control;2024;ACM Digital Library;;Rejected
+;Introducing Zero Trust in a Cybersecurity Course;2022;ACM Digital Library;;Rejected
+;Bidirectional Association Discovery Leads to Precise Identification of Lung Cancer Biomarkers and Genome Taxa Class;2022;ACM Digital Library;;Rejected
+;Evaluating GPT-4’s Semantic Understanding of Obstetric-based Healthcare Text through Nurse Ruth;2026;ACM Digital Library;;Rejected
+;Research on Information System Management Security Architecture Based on Blockchain Technology;2025;ACM Digital Library;;Rejected
+;Identity and Access Management Architecture in the SILVANUS Project;2024;ACM Digital Library;;Rejected
+;Towards insider threat detection using web server logs;2009;ACM Digital Library;;Rejected
+;Using Collaborative Filtering in a new domain: traffic analysis;2016;ACM Digital Library;;Rejected
+;Operation Assessment in cyberspace: Understanding the effects of Cyber Deception;2024;ACM Digital Library;;Rejected
+;Employing Digital Twins for Security-by-Design System Testing;2022;ACM Digital Library;;Rejected
+;Test-time regression: a unifying framework for designing sequence models with associative memory;2026;ACM Digital Library;;Rejected
+;Digital Twins in Security Operations: State of the Art and Future Perspectives;2025;ACM Digital Library;;Rejected
+;Situational awareness for SCADA systems;2018;ACM Digital Library;;Rejected
+;SOAR4IoT: Securing IoT Assets with Digital Twins;2022;ACM Digital Library;;Rejected
+;On Vulnerability and Security Log analysis: A Systematic Literature Review on Recent Trends;2020;ACM Digital Library;;Rejected
+;Research on the Application of Internet of Things Technology in Digitalized Oilfield Construction;2024;ACM Digital Library;;Rejected
+;Optimal Scheduling of Cybersecurity Analysts for Minimizing Risk;2017;ACM Digital Library;;Rejected
+;Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments;2021;ACM Digital Library;;Rejected
+;An integrated computer-aided cognitive task analysis method for tracing cyber-attack analysis processes;2015;ACM Digital Library;;Rejected
+;EnCyCriS '26: Proceedings of the 2026 ACM/IEEE 7th International Workshop on Engineering and Cybersecurity of Critical Systems;2026;ACM Digital Library;;Rejected
+;AI-Enhanced Cybersecurity in Edge Computing: Threats, Solutions, and Future Directions;2026;ACM Digital Library;;Rejected
+;Proactively Identifying Emerging Hacker Threats from the Dark Web: A Diachronic Graph Embedding Framework (D-GEF);2020;ACM Digital Library;;Rejected
+;Train as you Fight: Evaluating Authentic Cybersecurity Training in Cyber Ranges;2023;ACM Digital Library;;Rejected
+;Trailblazing the Artificial Intelligence for Cybersecurity Discipline: A Multi-Disciplinary Research Roadmap;2020;ACM Digital Library;;Rejected
+;Deriving Impact-driven Security Requirements and Monitoring Measures for Industrial IoT;2019;ACM Digital Library;;Rejected
+;Anomaly detection mechanisms for in-vehicle and V2X systems;2024;ACM Digital Library;;Rejected
+;Open V2X Management Platform Cyber-Resilience and Data Privacy Mechanisms;2024;ACM Digital Library;;Rejected
+;From Zero to One Hundred: Demystifying zero trust and its implications on enterprise people, process, and technology;2022;ACM Digital Library;;Rejected
+;Towards Securing Access Control in 5G and Beyond with Zero Trust;2026;ACM Digital Library;;Rejected
+;Strategic Predictive Maintenance for Internet System Security and Risk Management: A Roadmap;2025;ACM Digital Library;;Rejected
+;Leveraging LLMs for Memory Forensics: A Comparative Analysis of Malware Detection;2025;ACM Digital Library;;Rejected
+;QP4SE 2023: Proceedings of the 2nd International Workshop on Quantum Programming for Software Engineering;2023;ACM Digital Library;;Rejected
+;A Survey on Cyber Situation-awareness Systems: Framework, Techniques, and Insights;2022;ACM Digital Library;;Rejected
+;Human Factors in AI-Driven Cybersecurity: Cognitive Biases and Trust Issues;2025;ACM Digital Library;;Rejected
+;Machine Learning Approach for Detection of nonTor Traffic;2017;ACM Digital Library;;Rejected
+;Autonomous Cybersecurity: Evolving Challenges, Emerging Opportunities, and Future Research Trajectories;2024;ACM Digital Library;;Rejected
+;An Improved Purdue Enterprise Reference Architecture to Enhance Cybersecurity;2023;ACM Digital Library;;Rejected
+;A Multi-Vocal Review of Security Orchestration;2019;ACM Digital Library;;Rejected
+;On Practical Realization of Evasion Attacks for Industrial Control Systems;2024;ACM Digital Library;;Rejected
+;A Survey of Intrusion Detection Systems Leveraging Host Data;2019;ACM Digital Library;;Rejected
+;MITRE ATT&CK: State of the Art and Way Forward;2024;ACM Digital Library;;Rejected
+;ADAPT it! Automating APT Campaign and Group Attribution by Leveraging and Linking Heterogeneous Files;2024;ACM Digital Library;;Rejected
+;WATCH '25: First Workshop on Analytics, Telemetry, and Cybersecurity for HPCC;2025;ACM Digital Library;;Rejected
+;WATCH '25: Proceedings of the First International Workshop on Analytics, Telemetry, and Cybersecurity for HPCC;2025;ACM Digital Library;;Rejected
+;A Taxonomy of Supervised Learning for IDSs in SCADA Environments;2020;ACM Digital Library;;Rejected
+;Cloud Computing and Security: An Overview of Vulnerabilities, Cyber Attacks, and AI-Driven Solutions;2025;ACM Digital Library;;Rejected
+;GOOSEIDRS: Intrusion Detection and Automated Response for IEC61850 GOOSE Masquerade Attacks;2026;ACM Digital Library;;Rejected
+;Securing Smart Cities: Unraveling Quantum as a Service;2023;ACM Digital Library;;Rejected
+;The Role of Machine Learning in Cybersecurity;2023;ACM Digital Library;;Rejected
+;Genomics Cybersecurity Concerns, Challenges, and a Modular Test Lab;2024;ACM Digital Library;;Rejected
+;SecPol: Enabling Security Policy Control in Vehicle Networks using Intrusion Detection and Hardware Trust;2024;ACM Digital Library;;Rejected
+;IPv6 Routing Protocol for Low-Power and Lossy Networks Security Vulnerabilities and Mitigation Techniques: A Survey;2025;ACM Digital Library;;Rejected
+;Artificial Intelligence in Cybersecurity: Applications, Challenges, and Future Directions;2025;ACM Digital Library;;Rejected
+;AutonomousCyber '24: Proceedings of the Workshop on Autonomous Cybersecurity;2024;ACM Digital Library;;Rejected
+;Implementing Data Exfiltration Defense in Situ: A Survey of Countermeasures and Human Involvement;2023;ACM Digital Library;;Rejected
+;Active security;2013;ACM Digital Library;;Rejected
+;A Survey on Game-Theoretic Approaches for Intrusion Detection and Response Optimization;2018;ACM Digital Library;;Rejected
+;Advanced Persistent Threat Attack Detection Systems: A Review of Approaches, Challenges, and Trends;2024;ACM Digital Library;;Rejected
+;CSCS '24: Proceedings of the 2024 Cyber Security in CarS Workshop;2024;ACM Digital Library;;Rejected
+;Big Data Analytics and Internet of Things Combined with Artificial Intelligence Techniques for Effective Emergency Management: A Comprehensive Survey;2026;ACM Digital Library;;Rejected
+;Insights and Lessons Learned from a Realistic Smart Grid Testbed for Cybersecurity Research;2025;ACM Digital Library;;Rejected
+;Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents;2024;ACM Digital Library;;Rejected
+;T1GER: An Instructional Re-Design of a Cyber Range Exercise in a Commercial Security Operations Center;2026;ACM Digital Library;;Rejected
+;POSTER— CAIRN: Causal Active Inference for Real-Time Cyber Attack Diagnosis and Response;2026;ACM Digital Library;;Rejected
+;Algorithms for network server anomaly behavior detection without traffic content inspection;2016;ACM Digital Library;;Rejected
+;Unraveling Threat Intelligence Through the Lens of Malicious URL Campaigns;2023;ACM Digital Library;;Rejected
+;Network Intrusion Response using Deep Reinforcement Learning in an Aircraft IT-OT Scenario;2024;ACM Digital Library;;Rejected
+;An Extensive Survey on Intrusion Detection- Past, Present, Future;2018;ACM Digital Library;;Rejected
+;Architecting a security strategy measurement and management system;2012;ACM Digital Library;;Rejected
+;ML4SOC: A Comprehensive Review on Machine Learning for Security Operations Centres;2026;ACM Digital Library;;Rejected
+;A Systematic Explainable AI (XAI) Rule Translational Methodology for DDOS Detection;2026;ACM Digital Library;;Rejected
+;A Review of Large Language Models for Cybersecurity Defense: Core Capabilities, Application Practices, and Challenges;2026;ACM Digital Library;;Rejected
+;Smart Grid Cyber-Physical Situational Awareness of Complex Operational Technology Attacks: A Review;2023;ACM Digital Library;;Rejected
+;A Systematic Mapping Study on Intrusion Alert Analysis in Intrusion Detection Systems;2018;ACM Digital Library;;Rejected
+;DEMO: An IDS framework for internet of things empowered by 6LoWPAN;2013;ACM Digital Library;;Rejected
+;Dynamic Taint Analysis for the Detection of Sensitive Data Leaks;2026;ACM Digital Library;;Rejected
+;A Layered Security Modeling Framework for IoT/IIoT Environments Based on Unified Threat and Mitigation Catalogs;2026;ACM Digital Library;;Rejected
+;Exploring Data Breach Prevention Strategies in Real-Time Systems Integration and Architecture in the Healthcare Industry;2024;ACM Digital Library;;Rejected
+;Host-Based Intrusion Detection System with System Calls: Review and Future Trends;2018;ACM Digital Library;;Rejected
+;A big data analytics based approach to anomaly detection;2016;ACM Digital Library;;Duplicated
+;Integration of Splunk Enterprise SIEM for DDoS Attack Detection in IoT;2021;IEEE Digital Library;;Duplicated
+;Integration of Heterogeneous IDS with SIEM for DDoS Attack Detection in Computer Networked Multi-Organizational Environments;2024;IEEE Digital Library;;Duplicated
+;Automate Cybersecurity Data Triage by Leveraging Human Analysts' Cognitive Process;2016;Scopus;;Duplicated
+;Security Analysis of Wireless Sensor Networks Using SIEM and Multi-agent Approach;2020;Scopus;;Duplicated
+;Security event correlation supported by multi-core architecture;2013;Scopus;;Duplicated
+;Packet capture infrastructure based on Moloch;2017;Scopus;;Duplicated
+;Analytical Validation and Integration of CIC-Bell-DNS-EXF-2021 Dataset on Security Information and Event Management;2024;Scopus;;Duplicated
+;Integrated Threat Intelligence and Event Correlation with Wazuh, Suricata, and MISP;2025;Scopus;;Duplicated
+;An Empirical Analysis of Security Graph Computational Reconstruction and Proactive Defense in Big Data Applications;2025;Scopus;;Duplicated
+;The Rise of Intelligent Guardians: Leveraging AI for Robust Intrusion Detection;2024;Scopus;;Duplicated
+;Integration of Heterogeneous IDS with SIEM for DDoS Attack Detection in Computer Networked Multi-Organizational Environments;2024;Scopus;;Duplicated
+;Development of an Automatic Notification System for Unauthorized Activities on the Local Network;2026;Scopus;;Duplicated
+;A Stream-Processing-Enabled AI Framework for Fast and Reliable Cybersecurity Threat Identification;2025;Scopus;;Duplicated
+;Integrated Computer Network Security System: Intrusion Detection and Threat Prediction Using Machine Learning Algorithms;2024;Scopus;;Duplicated
+;A hybrid alarm management strategy in signature-based intrusion detection systems;2019;Scopus;;Duplicated
+;Anomaly Detection in HTTP Logs: Leveraging Machine Learning for Uncovering Anomalous Traffic Patterns with SIEM Integration;2024;Scopus;;Duplicated
+;Optimizing endpoint detection and monitoring in enterprise solution: A cyber threat intelligence approach;2024;Scopus;;Duplicated
+;Predictive Intrusion Detection System: A Distributed Machine Learning Framework Integrated with Wazuh for Real-Time Network Threat Prediction;2026;Scopus;;Duplicated
+;Hybrid NIDS Architecture Leveraging Suricata, Zeek and the ELK Stack;2025;Scopus;;Duplicated
+;Integrating OT data in SIEM platforms: an Energy Utility Perspective;2023;Scopus;;Duplicated
+;Hierarchical Attention Distillation for Real-Time Cyber Threat Detection and Mitigation in Large-Scale Networks;2026;Scopus;;Duplicated
+;Exploring Data Breach Prevention Strategies in Real-Time Systems Integration and Architecture in the Healthcare Industry;2024;Scopus;;Duplicated
+;Integrating O-RAN and SIEM for Unified Detection of IT and Mobile Network Attacks;2025;Scopus;;Duplicated
+;Transfer Learning for Network Intrusion Detection Using Machine Learning, Behavioral Fingerprints and SIEM-Oriented Multi-Source Risk Scoring;2026;Scopus;;Duplicated
+;Artificial Intelligence-Based Cybersecurity Framework for Uzbekistan's Digital Infrastructure: Detecting Network Intrusions in Telecommunication and IoT Systems;2026;Scopus;;Duplicated
+;Pushing the limits in event normalisation to improve attack detection in IDS/SIEM systems;2013;Scopus;;Duplicated
+;Advancing Snort IPS to Achieve Line Rate Traffic Processing for Effective Network Security Monitoring;2024;Scopus;;Duplicated
+;A feature reduction intrusion detection system using genetic algorithm;2019;Scopus;;Duplicated
+;Implementing Dockerized Elastic Stack for Security Information and Event Management;2020;Scopus;;Duplicated
+;The Next Gen Security Operation Center;2021;Scopus;;Duplicated
+;Multi-core supported high performance security analytics;2013;Scopus;;Duplicated
+;A new approach to building a multi-tier direct access knowledgebase for IDS/SIEM systems;2013;Scopus;;Duplicated
+;Detection and Prevention System on Computer Network to Handle Distributed Denial-Of-Service (Ddos) Attack in Realtime and Multi-Agent;2024;Scopus;;Duplicated
+;Secure Log Ingestion and Visualization Using Dockerized Graylog with Multiple Log Shippers;2025;Scopus;;Duplicated
+;Integration of Splunk Enterprise SIEM for DDoS Attack Detection in IoT;2021;Scopus;;Duplicated
+;Toward an Efficient Ontology-Based Event Correlation in SIEM;2016;Scopus;;Duplicated
+;New types of alert correlation for security information and event management systems;2016;Scopus;;Duplicated
+;Revolutionizing SIEM Security: An Innovative Correlation Engine Design for Multi-Layered Attack Detection;2024;Scopus;;Duplicated
+;Comprehensive Survey of Security Information and Event Management (SIEM) Systems;2026;Scopus;;Duplicated
+;SIEM integration with SOAR;2022;Scopus;;Duplicated
+;Federated Explainability for Network Anomaly Characterization;2023;Scopus;;Duplicated
+;Machine Learning-Based Alert Correlation for Enhanced Cybersecurity: A Multi-Classification Approach;2025;Scopus;;Duplicated
+;Protection Against Cyber Threats by Integrating SIEM Solutions in a Demilitarized Zone: A University Network Environment as a Case Study;2025;Scopus;;Duplicated
+;Do we need to apply cyber seurity for distribution networks? Challenges and solutions;2020;Scopus;;Duplicated
+negi2021;An Approach for Alert Correlation Using ArcSight SIEM and Open Source NIDS;2021;Scopus;"S041 | Texto integral lido 22-10-2026. Integração operacional Snort/Suricata/Bro–ArcSight em rede empresarial e avaliação de 11 PCAPs. Tabela 1: Snort 9/11, ArcSight(Snort) 9/11, Suricata 8/11, Bro 5/11; combinação 11/11 com pelo menos um sensor. Valores 1–3 na coluna combinada são concordância de sensores, não probabilidades. Ganho de 2/11 provém da adição de sensores, não da simples ligação do mesmo Snort ao SIEM. Tráfego legítimo mencionado mas sem contagem de falsos positivos. Q1–Q6: 1; 0.5;";Accepted
+;A Machine Learning and Optimization Framework for Efficient Alert Management in a Cybersecurity Operations Center;2024;ACM Digital Library;;Rejected
+;Generating Quality Threat Intelligence Leveraging OSINT and a Cyber Threat Unified Taxonomy;2022;ACM Digital Library;;Rejected
+;Towards Human-AI Teaming to Mitigate Alert Fatigue in Security Operations Centres;2024;ACM Digital Library;;Rejected
+;Integrating Threat Intelligence to Enhance an Organization's Information Security Management;2018;ACM Digital Library;;Rejected
+;Mod2Dash: A Framework for Model-Driven Dashboards Generation;2022;ACM Digital Library;;Rejected
+;Big Data Analytics Architecture for Security Intelligence;2018;ACM Digital Library;;Rejected
+;A novel automatic discovery system of critical assets in cyberspace-oriented military missions;2020;ACM Digital Library;;Rejected
+;Virtual Knowledge Graphs for Federated Log Analysis;2021;ACM Digital Library;;Rejected
+;A SOAR platform for standardizing, automating operational processes and a monitoring service facilitating auditing procedures among IoT trustworthy environments;2024;ACM Digital Library;;Rejected
+;A Novel LLM Approach of Cybersecurity Threat Analysis and Response;2025;ACM Digital Library;;Rejected
+;Efficient Attack Graph Analysis through Approximate Inference;2017;ACM Digital Library;;Rejected
+;Alert Fatigue in Security Operations Centres: Research Challenges and Opportunities;2025;ACM Digital Library;;Rejected
+;The challenge of detecting sophisticated attacks: Insights from SOC Analysts;2018;ACM Digital Library;;Rejected
+;Integrating Security Behavior into Attack Simulations;2021;ACM Digital Library;;Rejected
+;CrossGuard: A Cross-Modal Deep Learning Framework for Semantic-Structural Threat Detection utilizing Provenance Graph;2025;ACM Digital Library;;Rejected
+;Dynamic risk management architecture based on heterogeneous data sources for enhancing the cyber situational awareness in organizations;2020;ACM Digital Library;;Rejected
+;Research on Attack Chain Reconstruction Technology Based on Graph Analysis, Machine Learning, and Threat Intelligence: Application of Graph Analysis and Machine Learning in Attack Chain Reconstruction;2026;ACM Digital Library;;Rejected
+;Citar: Cyberthreat Intelligence-driven Attack Reconstruction;2025;ACM Digital Library;;Rejected
+;Alert Alchemy: SOC Workflows and Decisions in the Management of NIDS Rules;2023;ACM Digital Library;;Rejected
+;GraphWeaver: Billion-Scale Cybersecurity Incident Correlation;2024;ACM Digital Library;;Rejected
+;Automatic event categorizer for SIEM;2021;ACM Digital Library;;Rejected
+;Goosewolf: An Embedded Intrusion Detection System for Advanced Programmable Logic Controllers;2023;ACM Digital Library;;Rejected
+;Ruling the Unruly: Designing Effective, Low-Noise Network Intrusion Detection Rules for Security Operations Centers;2025;ACM Digital Library;;Rejected
+;SoK: Reshaping Research on Network Intrusion Detection Systems;2026;ACM Digital Library;;Rejected
+;A novel approach to cyber hazard management intelligence system;2018;Scopus;;Unclassified
+;Automatic traffic control system for soho computer networks;2019;Scopus;;Unclassified
+;An Innovative Approach to Real-Time Concept Drift Detection in Network Security;2024;Scopus;;Unclassified
+;Intelligent Network Intrusion Detection and Prevention System (NIDPS): A Machine Learning and Network Security;2024;Scopus;;Duplicated
+;An Overview of Cyber Threat Intelligence Platform and Role of Artificial Intelligence and Machine Learning;2020;Scopus;;Rejected
+;AI-Driven Threat Intelligence for Social Media Security;2026;Scopus;;Rejected
+;Advances in security information management: Perceptions and outcomes;2013;Scopus;;Rejected
+;Development of a Universal High-Performance Machine Learning Framework for Finding Cybersecurity Anomalies in Big Data;2024;Scopus;;Unclassified
+;Leveraging Artificial Intelligence and Machine Learning for Enhanced Privacy and Security;2024;Scopus;;Duplicated
+;Effective Cyber Threat Hunting: Where and how does it fit?;2022;Scopus;;Rejected
+;AECID: A Self-learning Anomaly Detection Approach based on Light-weight Log Parser Models;2018;Scopus;;Rejected
+botnetcloud2022;Botnet intrusion detection: A modern architecture to defend a virtual private cloud;2022;Scopus;"S069 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+;Unsupervised Anomaly Detection for Network Intrusion Using Deep Autoencoders and Statistical Modeling;2025;Scopus;;Unclassified
+;2nd International Conference on Advances in Computing Research, ACR 2024;2024;Scopus;;Rejected
+;Aggressive and Intelligent Self-Defensive Network: Towards a New Generation of Semi-autonomous Networks;2012;Scopus;;Unclassified
+;Empowering Cyber Defenses: Shielding Against Man-in-the-Middle Attacks with Public Key Infrastructure (PKI);2024;Scopus;;Rejected
+;Adoption and Assessment of Machine Learning Algorithms in Security Operations Centre for Critical Infrastructure;2022;Scopus;;Rejected
+;Intrusion detection in software defined networking using snort and mirroring;2020;Scopus;;Rejected
+;Internet of things system technologies based on quality of experience;2020;Scopus;;Rejected
+;A Probabilistic Model with the Markov Property for Cyberattack Detection Based on the Analysis of Dynamic Traffic Variations;2025;Scopus;;Rejected
+;BEYOND THE SURFACE: UNMASKING ADVANCED MALICIOUS THREATS;2026;Scopus;;Rejected
+;Large language models for cyberattack defense: a critical survey;2026;Scopus;;Rejected
+;Drift-Aware Continual Generative Behavioral Detection for Zero-Day Cyberattacks: Reproducible Temporal Evaluation and SIEM-Ready Alerting;2026;Scopus;;Rejected
+;Alert correlation using diamond model for cyber threat intelligence;2019;Scopus;;Unclassified
+;Detecting and correlating supranational threats for critical infrastructures;2016;Scopus;;Rejected
+wazuhtelegram2026;Development of an integrated network threat detection system based on Wazuh, Suricata and Telegram Bot;2026;Scopus;"S032 | Texto integral avaliado em 22-10-2026 | Incluído. Suricata eve.json integrado no Wazuh, com notificações Telegram e testes empresariais simulados.Acesso: PDF integral do editor. https://ceur-ws.org/Vol-4180/Paper3.pdfSecções4–7; tabelas1–3Seis classes de ataque durante24h. Tabela2 fornece TP/FP/FN e recall0,83–0,97, precisão0,89–1,00. Definição mistura alertas(TP) com intervalos de ataque(FN), exigindo cautela no denominador. Tabela3 reporta0FP em três demonstrações e atrasos Telegram0,09";Accepted
+;Elasticsearch-Based Threat Hunting to Detect Privilege Escalation Using Registry Modification and Process Injection Attacks;2025;Scopus;;Rejected
+;Graph database technology and k-means clustering for digital forensics;2017;Scopus;;Unclassified
+;Using extensible metadata definitions to create a vendor-independent SIEM system;2015;Scopus;;Rejected
+;Intrusion Detection System Using Stratosphere Linux IPS (SLIPS) and Honeypot with SIEM Visualization;2026;Scopus;;Duplicated
+;Use of Machine Learning Algorithms with SIEM for Attack Prediction;2015;Scopus;;Unclassified
+;False alarm minimization techniques in signature-based intrusion detection systems: A survey;2014;Scopus;;Rejected
+;Improving SIEM capabilities through an enhanced probe for encrypted Skype traffic detection;2018;Scopus;;Rejected
+;Attack scenario reconstruction using intrusion semantics;2018;Scopus;;Unclassified
+;Open-Source Cyberthreat Intelligence Integration for SMEs;2025;Scopus;;Duplicated
+;Multi-stage analysis of intrusion detection logs for quick impact assessment;2016;Scopus;;Rejected
+;A fast alert correlation method with Bayesian feature constraints;2020;Scopus;;Rejected
+;A New Cybersecurity Approach Enhanced by xAI-Derived Rules to Improve Network Intrusion Detection and SIEM;2025;Scopus;"S009 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Regras convencionais e extraídas por xAI são avaliadas sobre CICIDS2017/WUSTL-IIOT-2021; não demonstra integração operacional de NIDS e SIEM. Secções 4–8.Acesso: PDF integral Tech Science Press. https://file.techscience.com/files/cmc/2025/online/CMC0325/TSP_CMC_62801/TSP_CMC_62801.pdfAvaliação assistida por IA; validação humana independente pendente.";Rejected
+;Dynamic SOC Visualization with Threat Intelligence Integration;2026;Scopus;;Rejected
+;Detection of DDoS attack in OpenStack cloud using Wazuh;2025;Scopus;;Unclassified
+;A big data analytics based approach to anomaly detection;2016;Scopus;;Duplicated
+;Enhancing SIEM-Driven Cybersecurity in Healthcare Systems Through Blockchain Integration;2026;Scopus;;Unclassified
+;Rethinking Dynamic Security Strategies: A Survey of Moving Target Defense and Self-Defending Systems Design;2026;Scopus;;Rejected
+;NSPW '24: Proceedings of the New Security Paradigms Workshop;2024;ACM Digital Library;;Rejected
+;Three Tier Network Architecture to Mitigate DDoS Attacks on Hybrid Cloud Environments;2016;ACM Digital Library;;Rejected
+;AIIIP '25: Proceedings of the 4th International Conference on Artificial Intelligence and Intelligent Information Processing;2025;ACM Digital Library;;Rejected
+;CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems;2024;ACM Digital Library;;Rejected
+;From Cyber Security Information Sharing to Threat Management;2015;ACM Digital Library;;Rejected
+;A Unified Method for Hybrid Network Security Situation Assessment Using HPPAL Approach;2016;ACM Digital Library;;Rejected
+;SPBPU IDE '21: Proceedings of the 3rd International Scientific Conference on Innovations in Digital Economy;2021;ACM Digital Library;;Rejected
+;Learning an accurate entity resolution model from crowdsourced labels;2014;ACM Digital Library;;Rejected
+;ICEMBDA '25: Proceedings of the 2025 International Conference on Economic Management and Big Data Application;2025;ACM Digital Library;;Rejected
+;SIGUCCS '23: Proceedings of the 2023 ACM SIGUCCS Annual Conference;2023;ACM Digital Library;;Rejected
+;Aggregation of security metrics for decision making: a reference architecture;2018;ACM Digital Library;;Rejected
+;EKI '25: Proceedings of the 2025 3rd International Conference on Educational Knowledge and Informatization;2025;ACM Digital Library;;Rejected
+;CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems;2023;ACM Digital Library;;Rejected
+;WWW '22: Companion Proceedings of the Web Conference 2022;2022;ACM Digital Library;;Rejected
+;ICETC '22: Proceedings of the 14th International Conference on Education Technology and Computers;2022;ACM Digital Library;;Rejected
+;SIGITE '22: Proceedings of the 23rd Annual Conference on Information Technology Education;2022;ACM Digital Library;;Rejected
+;PCI '22: Proceedings of the 26th Pan-Hellenic Conference on Informatics;2022;ACM Digital Library;;Rejected
+;A Survey on Representation Learning Efforts in Cybersecurity Domain;2019;ACM Digital Library;;Rejected
+;MIDA 2026: Proceedings of the 3rd International Conference on Machine Intelligence and Digital Applications;2026;ACM Digital Library;;Rejected
+;Network Forensic Analysis for Lawful Enforcement on Steroids, Distributed and Scalable;2019;ACM Digital Library;;Rejected
+;SIGITE '23: Proceedings of the 24th Annual Conference on Information Technology Education;2023;ACM Digital Library;;Rejected
+;IOT '25: Proceedings of the 15th International Conference on the Internet of Things;2025;ACM Digital Library;;Rejected
+;Evaluation of Cyber Situation Awareness - Theory, Techniques and Applications;2024;ACM Digital Library;;Rejected
+;DECS '24: Proceedings of the 2024 International Conference on Digital Economy and Computer Science;2024;ACM Digital Library;;Rejected
+;Experience: Data and Information Quality Challenges in Governance, Risk, and Compliance Management;2019;ACM Digital Library;;Rejected
+;Log2vec: A Heterogeneous Graph Embedding Based Approach for Detecting Cyber Threats within Enterprise;2019;ACM Digital Library;;Rejected
+;IAIT '26: Proceedings of the 14th International Conference on Advances in Information Technology;2026;ACM Digital Library;;Rejected
+;MODELS Companion '26: Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems;2026;ACM Digital Library;;Rejected
+;Alert or Noise? Reducing False Positives with ActiveBehavioral Analysis for Cloud Security;2026;ACM Digital Library;;Rejected
+;Intelligent closed-loop implementation method for the entire log life cycle;2026;ACM Digital Library;;Rejected
+;ICAAI '25: Proceedings of the 2025 9th International Conference on Advances in Artificial Intelligence;2025;ACM Digital Library;;Rejected
+;POSTER: Protecting Against Data Exfiltration Insider Attacks Through Application Programs;2014;ACM Digital Library;;Rejected
+;ICSCA '25: Proceedings of the 2025 14th International Conference on Software and Computer Applications;2025;ACM Digital Library;;Rejected
+;Middleware '23: Proceedings of the 24th International Middleware Conference: Demos, Posters and Doctoral Symposium;2023;ACM Digital Library;;Rejected
+;CAIS '26: Proceedings of the ACM Conference on AI and Agentic Systems;2026;ACM Digital Library;;Rejected
+;Mission-Centric Automated Cyber Red Teaming;2018;ACM Digital Library;;Rejected
+;EITCE '24: Proceedings of the 2024 8th International Conference on Electronic Information Technology and Computer Engineering;2024;ACM Digital Library;;Rejected
+;ACTRA: A Case Study for Threat Information Sharing;2015;ACM Digital Library;;Rejected
+;Sequence Learning over Behavioral Attack Patterns for Early Detection of Human-Operated Ransomware;2026;ACM Digital Library;;Rejected
+;ICSCA '23: Proceedings of the 2023 12th International Conference on Software and Computer Applications;2023;ACM Digital Library;;Rejected
+;Big data and its technical challenges;2014;ACM Digital Library;;Rejected
+;Towards intrusion-resilient security monitoring in multi-cloud infrastructures;2017;ACM Digital Library;;Rejected
+;Zero Trust Architecture for Ransomware Defense in Virtualized Environment;2025;ACM Digital Library;;Rejected
+;Computationally Intensive Functions in Designing and Operating Distributed Cyber Secure and Resilient Systems;2019;ACM Digital Library;;Rejected
+;SIGMIS-CPR '25: Proceedings of the 2025 Computers and People Research Conference;2025;ACM Digital Library;;Rejected
+;ACSAC '22: Proceedings of the 38th Annual Computer Security Applications Conference;2022;ACM Digital Library;;Rejected
+;AINTEC '23: Proceedings of the 18th Asian Internet Engineering Conference;2023;ACM Digital Library;;Rejected
+;Threat Intelligence Computing;2018;ACM Digital Library;;Unclassified
+;Research on Enterprise Security Operation Based on Large Model Technology;2025;ACM Digital Library;"A277 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Arquitetura LMT e indicadores empresariais genéricos, sem identificar/configurar par NIDS–SIEM ou apresentar avaliação verificável dessa integração. Secções 3–4.Acesso: HTML integral ACM. https://dl.acm.org/doi/full/10.1145/3773365.3773614Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;CHORS: hardening high-assurance security systems with trusted computing;2022;ACM Digital Library;;Rejected
+;On the Use and Reuse of Graphs for Network Security with Real-Time Edge Learning;2024;ACM Digital Library;;Rejected
+;ICFNDS '24: Proceedings of the 8th International Conference on Future Networks & Distributed Systems;2024;ACM Digital Library;;Rejected
+;BDCAT '25: Proceedings of the IEEE/ACM 12th International Conference on Big Data Computing, Applications and Technologies;2025;ACM Digital Library;;Rejected
+;E-Energy '25: Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems;2025;ACM Digital Library;;Rejected
+;ASIA CCS '24: Proceedings of the 19th ACM Asia Conference on Computer and Communications Security;2024;ACM Digital Library;;Rejected
+;Building Machine Learning-based Threat Hunting System from Scratch;2022;ACM Digital Library;;Rejected
+;5GMon: Enhancing Visibility and Security in 5G Network Deployments;2025;ACM Digital Library;;Rejected
+;Dynamic Scheduling of Cybersecurity Analysts for Minimizing Risk Using Reinforcement Learning;2016;ACM Digital Library;;Rejected
+;Database forensics;2010;ACM Digital Library;;Rejected
+;Towards Understanding and Improving Security-Relevant Web Application Logging;2024;ACM Digital Library;;Rejected
+;On Collaboration and Automation in the Context of Threat Detection and Response with Privacy-Preserving Features;2025;ACM Digital Library;"A245 | Texto integral avaliado em 22-10-2026 | Excluído (E2). SAPPAN avalia deteção de domínios, anomalias, partilha e resposta automatizada; não demonstra ensaio de integração NIDS–SIEM. Secções 4–8.Acesso: HTML integral ACM. https://dl.acm.org/doi/full/10.1145/3707651Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;IPMLP '24: Proceedings of the International Conference on Image Processing, Machine Learning and Pattern Recognition;2024;ACM Digital Library;;Rejected
+;Large-scale systems security evolution: control theory approach;2015;ACM Digital Library;;Rejected
+;A Framework for Threat Detection in Communication Systems;2016;ACM Digital Library;;Rejected
+;An empirical study of botnets on university networks using low-interaction honeypots;2013;ACM Digital Library;;Rejected
+;ASIA CCS '26: Proceedings of the ACM Asia Conference on Computer and Communications Security;2026;ACM Digital Library;;Rejected
+;RAIE '26: Proceedings of the 2026 International Workshop on Responsible AI Engineering;2026;ACM Digital Library;;Rejected
+;A Flexible Security Analytics Service for the Industrial IoT;2021;ACM Digital Library;;Rejected
+;Enabling Visual Analytics via Alert-driven Attack Graphs;2021;ACM Digital Library;;Unclassified
+;Fingerpointing False Positives: How to Better Integrate Continuous Improvement into Security Monitoring;2020;ACM Digital Library;;Rejected
+;APIRO: A Framework for Automated Security Tools API Recommendation;2023;ACM Digital Library;;Rejected
+;SACMAT '21: Proceedings of the 26th ACM Symposium on Access Control Models and Technologies;2021;ACM Digital Library;;Rejected
+;ARES '23: Proceedings of the 18th International Conference on Availability, Reliability and Security;2023;ACM Digital Library;;Rejected
+;RAID '23: Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses;2023;ACM Digital Library;;Rejected
+;Security Operations Center in Education: Building an Educational Environment for Attack and Defense Scenarios;2023;ACM Digital Library;;Rejected
+;Security Barriers to Trustworthy AI-Driven Cyber Threat Intelligence in Finance: Evidence from Practitioners;2026;ACM Digital Library;;Rejected
+;A Tale of Three Security Operation Centers;2014;ACM Digital Library;;Rejected
+;ICCCM '24: Proceedings of the 2024 12th International Conference on Computer and Communications Management;2024;ACM Digital Library;;Rejected
+;Rule-based security management system for data-intensive applications;2019;ACM Digital Library;;Rejected
+;Multi-Agent AI Framework for Threat Mitigation and Resilience in Machine Learning Systems;2026;ACM Digital Library;;Rejected
+;Matched and Mismatched SOCs: A Qualitative Study on Security Operations Center Issues;2019;ACM Digital Library;;Rejected
+;Dealing with Security Alert Flooding: Using Machine Learning for Domain-independent Alert Aggregation;2022;ACM Digital Library;"A201 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Avalia agregação de alertas Wazuh e AMiner, ambos explicitamente host-based, em logs de servidores AIT-LDS; fora da integração com IDS de rede. Secção 6.2.Acesso: HTML integral ACM. https://dl.acm.org/doi/full/10.1145/3510581Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;ARES '22: Proceedings of the 17th International Conference on Availability, Reliability and Security;2022;ACM Digital Library;;Rejected
+;IoTCCT '24: Proceedings of the 2024 2nd International Conference on Internet of Things and Cloud Computing Technology;2024;ACM Digital Library;;Rejected
+;‘We Do Not Have the Capacity to Monitor All Media’: A Design Case Study on Cyber Situational Awareness in Computer Emergency Response Teams;2024;ACM Digital Library;;Rejected
+;icABCD '25: Proceedings of the 2025 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems;2025;ACM Digital Library;;Rejected
+;CPSIoTSec '25: Proceedings of the 7th Joint Workshop on CPS&IoT Security and Privacy;2025;ACM Digital Library;;Rejected
+;Response Strategies to Cyber Threats in Service Industries;2024;ACM Digital Library;;Rejected
+;FLUKES: Autonomous Log Forensics, Intelligence and Visualization Tool;2017;ACM Digital Library;;Unclassified
+;ICICS '26: Proceedings of the 17th International Conference on Information and Communication Systems;2026;ACM Digital Library;;Rejected
+;Attacks and Defences for ML-enhanced Access Control;2023;ACM Digital Library;;Rejected
+;ICCSIE '24: Proceedings of the 2024 9th International Conference on Cyber Security and Information Engineering;2024;ACM Digital Library;;Rejected
+;RAPID: Real-Time Alert Investigation with Context-aware Prioritization for Efficient Threat Discovery;2022;ACM Digital Library;;Rejected
+;Corporate Security is a Big Data Problem: Big Data (Ubiquity symposium);2018;ACM Digital Library;;Rejected
+;CSAIDE '26: Proceedings of the 2026 5th International Conference on Cyber Security, Artificial Intelligence and Digital Economy;2026;ACM Digital Library;;Rejected
+;AttackLogGen: Benchmarking LLMs for Generating Attack Logs;2026;ACM Digital Library;;Rejected
+;Integrating Continuous Security Assessments in Microservices and Cloud Native Applications;2017;ACM Digital Library;;Rejected
+;Intrusion detection in enterprise systems by combining and clustering diverse monitor data;2016;ACM Digital Library;"A169 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Clustering offline de logs de host e rede do VAST2011, comparado a logs Snort; não implementa nem avalia integração com plataforma SIEM. O próprio texto distingue a abordagem do uso de SIEM. Secções 4–7.Acesso: PDF integral no repositório institucional do autor. https://www.perform.illinois.edu/Papers/USAN_papers/16BOH01.pdfAvaliação assistida por IA; validação humana independente pendente.";Rejected
+;CNSSE '25: Proceedings of the 2025 5th International Conference on Computer Network Security and Software Engineering;2025;ACM Digital Library;;Rejected
+;CSET '24: Proceedings of the 17th Cyber Security Experimentation and Test Workshop;2024;ACM Digital Library;;Rejected
+;ICCRD '26: Proceedings of the 2026 18th International Conference on Computer Research and Development;2026;ACM Digital Library;;Rejected
+;EUROSEC '23: Proceedings of the 16th European Workshop on System Security;2023;ACM Digital Library;;Rejected
+;SACMAT 2024: Proceedings of the 29th ACM Symposium on Access Control Models and Technologies;2024;ACM Digital Library;;Rejected
+;AISGA: Multi-objective parameters optimization for countermeasures selection through genetic algorithm;2021;ACM Digital Library;;Rejected
+;Complex event processing for reactive security monitoring in virtualized computer systems;2015;ACM Digital Library;;Unclassified
+;EICC '23: Proceedings of the 2023 European Interdisciplinary Cybersecurity Conference;2023;ACM Digital Library;;Rejected
+;SQL Injection Vulnerability Identification from Text;2021;ACM Digital Library;;Rejected
+;Towards AI-Driven Human-Machine Co-Teaming for Adaptive and Agile Cyber Security Operation Centers;2026;ACM Digital Library;;Rejected
+;Research on network security threat detection system based on large language model Optimized by GloVe technology;2025;ACM Digital Library;;Rejected
+;Threat-Based Simulation of Data Exfiltration Toward Mitigating Multiple Ransomware Extortions;2023;ACM Digital Library;;Rejected
+;ACSW '23: Proceedings of the 2023 Australasian Computer Science Week;2023;ACM Digital Library;;Rejected
+;Dynamic Deduction Method for Technology Security Risks Based on Event Logic Graph;2025;ACM Digital Library;;Rejected
+;From Zero to 100;2023;ACM Digital Library;;Rejected
+;Discovering attacker profiles using process mining and the MITRE ATT&CK taxonomy;2023;ACM Digital Library;;Rejected
+;Real-time stream processing tool for detecting suspicious network patterns using machine learning;2020;ACM Digital Library;;Unclassified
+;BDCTA '25: Proceedings of the 2025 International Conference on Big Data, Communication Technology and Computer Applications;2025;ACM Digital Library;;Rejected
+;Ontology-based Cyber Risk Monitoring Using Cyber Threat Intelligence;2021;ACM Digital Library;;Rejected
+;On-premises Analysis of Advanced Threat Prevention Appliances;2021;ACM Digital Library;;Unclassified
+;Automated Cyber Threat Sensing and Responding: Integrating Threat Intelligence into Security-Policy-Controlled Systems;2019;ACM Digital Library;;Rejected
+;Development of a virtualized security operations center;2021;ACM Digital Library;;Unclassified
+;Combining real-time risk visualization and anomaly detection;2018;ACM Digital Library;;Rejected
+;CSCS '25: Proceedings of the 2nd Cyber Security in CarS Workshop;2025;ACM Digital Library;;Rejected
+;ARES '24: Proceedings of the 19th International Conference on Availability, Reliability and Security;2024;ACM Digital Library;;Rejected
+;EICC '24: Proceedings of the 2024 European Interdisciplinary Cybersecurity Conference;2024;ACM Digital Library;;Rejected
+;ITCC '24: Proceeding of the 2024 6th International Conference on Information Technology and Computer Communications;2024;ACM Digital Library;;Rejected
+;Towards a Cyber-Physical Range;2019;ACM Digital Library;;Rejected
+;Framework for Security Event Management in 5G;2018;ACM Digital Library;;Rejected
+;Smoke Detector: Cross-Product Intrusion Detection With Weak Indicators;2017;ACM Digital Library;A110 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Smoke Detector avalia um algoritmo Spark/RWR sobre dados históricos anonimizados de um MSSP. Não identifica nem testa integração operacional de um IDS de rede com uma plataforma SIEM. Resultados são correlação offline e reprodução/extrapolação de incidentes, não ensaio da integração requerida. Secções 3, 6 e 7.1.Acesso: PDF integral no sítio institucional do autor. https://pages.cs.wisc.edu/~roundy/papers/acsac2017-smoke-detector.pdfA;Rejected
+;TAON: an ontology-based approach to mitigating targeted attacks;2016;ACM Digital Library;;Rejected
+;APTHunter: Detecting Advanced Persistent Threats in Early Stages;2023;ACM Digital Library;;Rejected
+;Adversarial Exploitation of Remote Desktop Protocol (RDP) for Lateral Movement;2026;ACM Digital Library;;Rejected
+;A Multi-layer Approach through Threat Modelling and Attack Simulation for Enhanced Cyber Security Assessment;2024;ACM Digital Library;;Rejected
+;Analysis of Digital Forensic Artifacts Data Enrichment Mechanism for Cyber Threat Intelligence;2023;ACM Digital Library;;Rejected
+;Bridging the Semantic Gap: A Homonym-Aware Ontology Platform for Cybersecurity Interoperability;2026;ACM Digital Library;;Rejected
+;SimGuard: Towards Resilience of Community-based Intrusion Detection;2026;ACM Digital Library;;Rejected
+;A hierarchical architectural model for network security exploring situational awareness;2019;ACM Digital Library;;Unclassified
+;Autonomic and Integrated Management for Proactive Cyber Security (AIM-PSC);2017;ACM Digital Library;;Unclassified
+;Establishing Trust and Security in Decentralized Metaverse: A Web 3.0 Approach;2024;ACM Digital Library;;Rejected
+;AI-Powered Penetration Testing using Shennina: From Simulation to Validation;2024;ACM Digital Library;;Rejected
+;Payload-Aware Intrusion Detection with CMAE and Large Language Models;2025;ACM Digital Library;;Rejected
+;Architecting a Secure BYOD Network for a Corporate Campus;2026;ACM Digital Library;"A084 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Simulação OMNeT++/NS-3 de arquitetura BYOD com assinaturas Suricata modeladas e UEBA; não implementa nem avalia plataforma SIEM integrada ao NIDS. Secções 3–4.Acesso: HTML integral ACM. https://dl.acm.org/doi/full/10.1145/3796263.3796291Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;AVDA: Autonomous Vibe Detection Authoring for Cybersecurity;2026;ACM Digital Library;;Rejected
+;Facilitating DoS Attack Detection using Unsupervised Anomaly Detection;2022;ACM Digital Library;;Unclassified
+;A Stage-Aware Tool for Modelling and Verifying CI/CD Security Evidence;2026;ACM Digital Library;;Rejected
+;Filtering Security Alerts for the Analysis of a Production SaaS Cloud;2014;ACM Digital Library;;Unclassified
+;Real-Time Anomaly Detection in Web Server Logs Using Machine Learning and Apache Kafka;2026;ACM Digital Library;;Rejected
+;AI4SOAR: A Security Intelligence Tool for Automated Incident Response;2024;ACM Digital Library;;Rejected
+;An ontology-driven approach to automating the process of integrating security software systems;2019;ACM Digital Library;;Unclassified
+;Risky Host Detection with Bias Reduced Semi-Supervised Learning;2019;ACM Digital Library;;Rejected
+;Analyzing Compliance and Complications of Integrating Internationalized X.509 Certificates;2025;ACM Digital Library;;Rejected
+;An Empirical Analysis of Security Graph Computational Reconstruction and Proactive Defense in Big Data Applications;2025;ACM Digital Library;;Rejected
+;ICBCT '25: Proceedings of the 2025 6th International Conference on Blockchain Technology;2025;ACM Digital Library;;Rejected
+;Towards Reducing Business-Risk of Data Theft Implementing Automated Simulation Procedures of Evil Data Exfiltration;2024;ACM Digital Library;;Unclassified
+;AMiner: A Modular Log Data Analysis Pipeline for Anomaly-based Intrusion Detection;2023;ACM Digital Library;;Rejected
+;SYNAPSE - An Integrated Cyber Security Risk & Resilience Management Platform, With Holistic Situational Awareness, Incident Response & Preparedness Capabilities: SYNAPSE;2024;ACM Digital Library;;Rejected
+roelofs2024;Finding Harmony in the Noise: Blending Security Alerts for Attack Detection;2024;ACM Digital Library;"A052 | Texto integral avaliado em 22-10-2026 | Incluído. Camada operacional combina alertas de deteção de anomalias de rede (NTA), SIEM, EDR e sistema interno num SOC empresarial. Elegibilidade baseada na função de deteção de rede do NTA; marcas não divulgadas, validar âmbito com os autores da revisão.Acesso: PDF integral no sítio do autor. https://zhauniarovich.com/publication/2024/roelofs2024finding/roelofs2024finding.pdfSecções 2–6; tabelas 1,2,6Empresa com mais de 50000 trabalhadores. Valida";Accepted
+;A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy;2026;ACM Digital Library;;Rejected
+;Data-Driven Threat Hunting Using Sysmon;2018;ACM Digital Library;;Rejected
+;Prompt-Driven Cybersecurity Education: Exploring LLM-Based Simulation of Security Operations Center Activities;2025;ACM Digital Library;;Rejected
+;System Attribute Measures of Network Security Analyzer;2016;ACM Digital Library;;Unclassified
+;Predictive Cyber Situational Awareness and Personalized Blacklisting: A Sequential Rule Mining Approach;2020;ACM Digital Library;;Unclassified
+;Malicious Behavior Detection using Windows Audit Logs;2015;ACM Digital Library;;Rejected
+;Requirements for Playbook-Assisted Cyber Incident Response, Reporting and Automation;2024;ACM Digital Library;;Rejected
+;Combat Security Alert Fatigue with AI-Assisted Techniques;2021;ACM Digital Library;"A036 | Texto integral avaliado em 22-10-2026 | Excluído (E2). Experiência de classificação e visualização offline sobre logs de seis NIDS anónimos; não avalia integração operacional dos NIDS com plataforma SIEM. Secções 2–3 e 5.Acesso: PDF integral do sítio oficial CSET. https://cset21.isi.edu/papers/cset21-5.pdfAvaliação assistida por IA; validação humana independente pendente.";Rejected
+;AHEAD: A New Architecture for Active Defense;2016;ACM Digital Library;;Rejected
+;Light-Weight Synthesis of Security Logs for Evaluation of Anomaly Detection and Security Related Experiments;2023;ACM Digital Library;;Rejected
+;MalRank: a measure of maliciousness in SIEM-based knowledge graphs;2019;ACM Digital Library;;Rejected
+;Incident Response Support System for Multi-Located Network by Correlation Analysis of Individual Events;2021;ACM Digital Library;;Rejected
+;Reliable SOC LLM Agent with Workflow Generation;2026;ACM Digital Library;;Rejected
+;Federated Explainability for Network Anomaly Characterization;2023;ACM Digital Library;;Rejected
+;SteinerLog: Prize Collecting the Audit Logs for Threat Hunting on Enterprise Network;2022;ACM Digital Library;;Rejected
+;StealthCup: Realistic, Multi-Stage, Evasion-Focused CTF for Benchmarking IDS;2026;ACM Digital Library;;Rejected
+;AIDA Framework: Real-Time Correlation and Prediction of Intrusion Detection Alerts;2019;ACM Digital Library;;Unclassified
+;SIEM Architecture for the Internet of Things and Smart City;2021;ACM Digital Library;;Rejected
+ctismes2025;Open-Source Cyberthreat Intelligence Integration for SMEs;2025;ACM Digital Library;"A012 | Texto integral avaliado em 22-10-2026 | Incluído. Suricata, Wazuh/Sysmon, Graylog e MISP integrados e testados em emulação empresarial.Acesso: HTML integral ACM. https://dl.acm.org/doi/full/10.1145/3759023.3759108Secções 3.2 e 4.1–4.3Emula Operation Sharpshooter com Caldera, dez técnicas em sete táticas. Suricata deteta RAT/C2; Graylog agrega alertas e contexto MISP, incluindo 14 alertas no download e nove na persistência. Demonstra contexto e funcionamento; não apresenta baseline IDS iso";Accepted
+;How to Make an Intrusion Detection SystemAware of Steganographic Transmission;2021;ACM Digital Library;;Unclassified
+;Machine Learning-Driven DDoS Defense: Feature Engineering, Algorithm Selection, and End-to-End System Validation;2026;ACM Digital Library;;Rejected
+;Detection and Prevention System on Computer Network to Handle Distributed Denial-Of-Service (Ddos) Attack in Realtime and Multi-Agent;2024;ACM Digital Library;;Unclassified
+;An approach to represent and transform application-specific constraints for an intrusion detection system;2020;ACM Digital Library;;Rejected
+;ROSCA: Robust and Scalable Security Alert Correlation and Prioritisation using the MITRE ATT&CK Framework;2025;ACM Digital Library;"A002 | Texto integral avaliado em 22-10-2026 | Excluído (E2). ROSCA compara algoritmos de priorização sobre 382 alertas EDR e 37 IDS; implementação Python autónoma, sem integração operacional NIDS–SIEM avaliada. Secções 3–4.Acesso: HTML integral ACM. https://dl.acm.org/doi/full/10.1145/3733826.3762680Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Poster: M2ASK: A Correlation-Based Multi-Step Attack Scenario Detection Framework Using MITRE ATT&CK Mapping;2024;ACM Digital Library;;Rejected
+;Proactive Cybersecurity through Real-Time Crime Triangle Framework Implementation;2025;IEEE Digital Library;"I101 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Compara um framework CCTF com categorias genéricas de SIEM e detetores; não identifica nem avalia a integração operacional de um NIDS com uma plataforma SIEM. Secções III–VI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Hierarchical Attention Distillation for Real-Time Cyber Threat Detection and Mitigation in Large-Scale Networks;2026;IEEE Digital Library;"I094 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Modelo TCN–Transformer com destilação e avaliação em conjuntos de dados; não demonstra integração operacional de NIDS com SIEM. Secções III–VII.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;A Semi-Supervised and Evasion-Aware Framework for Reducing Alert Fatigue in Security Operations Centers (SoC);2026;IEEE Digital Library;"I093 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Avaliação batch de classificadores sobre fluxosCICIDS2017 usados como proxy de alertas. Compatibilidade Wazuh descrita, mas sem ensaio operacional da integração. SecçõesIII.E,IV–VI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;The Next Gen Security Operation Center;2021;IEEE Digital Library;"I089 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Avalia ANN de URL/vulnerabilidades e automação baseada em endpoints; IDS/SIEM mencionados genericamente, sem integração NIDS–SIEM identificada e avaliada. SecçõesIV–VII.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+ossimaudit2015;Open Source Security Information Management system supporting IT security audit;2015;IEEE Digital Library;"I088 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: include Demonstração de ataque em redeWindows7/Metasploitable com Snort/Suricata/OSSEC correlacionados no OSSIM.C: demonstração sem comparadorCorrelaciona pedido web suspeito, executável e alteração de grupoAdministrators; observa reconhecimento e túnelDNS iodine. Demonstra associação entre fontesNIDS/HIDS e investigação. Alguns passos ficam invisíveis; necessidade de regras explícita. Reporta cerca200EPSco";Accepted
+;Create the AI-Powered Anomaly Detection to Stop Intrusions in SCADA and Critical Infrastructure Networks.: Industrial Internet of Things Through Cybersecurity;2025;IEEE Digital Library;"I083 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Comparação genérica de IDS por assinaturas, estatístico e IA em SCADA; sem plataformaSIEM ou ligação operacional identificada/avaliada. Secções3–5.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Securing Legacy Systems: Analyzing Historical US Cyberattacks and How WAFs Defend Against Modern Threats;2026;IEEE Digital Library;;Rejected
+;IP SafeGuard–An AI-Driven Malicious IP Detection Framework;2025;IEEE Digital Library;;Rejected
+;Proactive APT Threat Detection Using Artificial Intelligence and Threat Intelligence Feeds;2026;IEEE Digital Library;"I072 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2ExfilSense combina classificadores e feeds com dashboard próprio, mas não demonstra integração operacional NIDS–SIEM nem comparação desta integração. Resultados genéricos96,4%semconfiguraçãoSIEM. SecçõesIII–XI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Automate Cybersecurity Data Triage by Leveraging Human Analysts' Cognitive Process;2016;IEEE Digital Library;"I068 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Automatiza triagem de logs VAST a partir de ações de analistas no ARSCA; apesar de usar alertas IDS, não avalia integração operacional com plataforma SIEM. SecçõesIII–VI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Securing intelligent substations: Real-time situational awareness;2014;IEEE Digital Library;"I069 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E3Ensaios IDPS–SIEM reais, mas exclusivamente sobre DNP3 em subestações (comandosDO e polling excessivo); não avalia tráfego/ataques empresariais generalizáveis. SecçõesIV–V.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;A SIEM-Based Framework for Multi-Layer Data Collection and Anomaly Detection in OT-Networks;2025;IEEE Digital Library;"I064 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Descreve arquitetura Zeek/Elastic/autoencoder e plano CALDERA, mas não apresenta experiência com resultados empíricos; validação e métricas são trabalho futuro. SecçõesIII–V. Relacionado com a arquitetura anterior ao I036, sem avaliação adicional elegível.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Multi-core Supported High Performance Security Analytics;2013;IEEE Digital Library;"I061 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Experiências SAL apenas com dados simulados e tempos de clustering k-means em CPU/GPU; não avaliam integração NIDS–SIEM ou ataques. SecçõesV–VI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+snortlinerate2024;Advancing Snort IPS to Achieve Line Rate Traffic Processing for Effective Network Security Monitoring;2024;IEEE Digital Library;"I062 | Reformulação em 24-10-2026: excluído da síntese focalizada. R2: Ensaio centrado na captura/processamento do Snort; não avalia o contributo da cadeia SIEM. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+;Correlation of security events based on the analysis of structures of event types;2017;IEEE Digital Library;"I054 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Experiência sobre6,7milhões de eventos locais Windows8, com grafo de tipos; sem sensor NIDS e sem avaliação operacional NIDS–SIEM. SecçãoIV.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Mining Intrusion Analysis Diamonds from Security Information and Events Logs;2025;IEEE Digital Library;"I053 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Avalia extração/mapeamento manual de indicadores para Diamond Model a partir de Packetbeat/Winlogbeat/Elastic. Apesar de mencionar IDS na infraestrutura, não identifica nem avalia fluxo de alertas NIDS–SIEM; resultados são reconstruções de dois casos Windows. SecçõesIV–VI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Toward a Big Data Architecture for Security Events Analytic;2016;IEEE Digital Library;"I049 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Arquitetura APSIS conceptual com caso APT ilustrativo; conclusão declara desenvolvimento de prova de conceito e avaliação contra ameaças reais como trabalho futuro. Secções III–V.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;A Big Data Analytics Based Approach to Anomaly Detection;2016;IEEE Digital Library;"I041 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Protótipo CSA de correlação de pacotes NetL e processos PrcL, com clustering de tráfego web/Apache ab; não avalia uma integração operacional NIDS–SIEM nem eficácia perante ataques com referência de verdade. Secções3–4.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+;Generative AI Optimization of Enterprise SIEM & Confidential Logging Infrastructure;2025;IEEE Digital Library;;Rejected
+otrobustness2026;Adversarial Robustness Evaluation of a Multi-Layer OT Intrusion Detection System Via Automated C2 Red Teaming;2026;IEEE Digital Library;"I036 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: include Integra Zeek/NIDS Modbus e Elastic SIEM com ataques IT empresariais e progressão IT–OT; aplicabilidade à fronteira empresarial, limitada ao Modbus.B: comparação entre configurações SIEMDuas campanhas de 25 execuções. Antes:151/208 ações detetadas (72,6%); após quatro regras SIEM:204/220 (92,7%). Alteração simultânea da extração de credenciais e do número de ações impede atribuir toda a diferença ape";Accepted
+ahmad2024;Anomaly Detection in HTTP Logs: Leveraging Machine Learning for Uncovering Anomalous Traffic Patterns with SIEM Integration;2024;IEEE Digital Library;"I032 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+;Managing Network Security in IT Sector using the Suricata;2025;IEEE Digital Library;;Unclassified
+simu2015;SIEM approach for a higher level of IT security in enterprise networks;2015;IEEE Digital Library;"I026 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 2.5/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+;Security Analysis of Wireless Sensor Networks Using SIEM and Multi-agent Approach;2020;IEEE Digital Library;;Rejected
+predictive2026;Predictive Intrusion Detection System: A Distributed Machine Learning Framework Integrated with Wazuh for Real-Time Network Threat Prediction;2026;IEEE Digital Library;"I024 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: include NIDS próprio CICFlowMeter/RandomForest envia alertas Wazuh com descodificadores e regras; avaliação técnica.C: avaliação sem comparador51 atributos,50árvores RF,1000107amostras CICIDS; teste200022,accuracy92.34%. Infiltration precision60%, apesar de classes volumétricas com1.00. Pipeline>1000fluxos/s,<100ms por lote100; não confundir com latência atédeteção de ataque. Métricas de classificador, sem ";Accepted
+;Security Event Correlation Supported by Multi-Core Architecture;2013;IEEE Digital Library;"I022 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2SAL recebe IDS em arquitetura proposta, mas experiência avalia apenas tempo de k-means com dados simulados genéricos. Não avalia integração NIDS/SIEM em deteção de ataques. Secções IV–VI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+sdn2023;Real-Time Anomaly Detection in SDN Architecture Using Integrated SIEM and Machine Learning for Enhancing Network Security;2023;IEEE Digital Library;"I020 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+;Parallelization of Security Event Correlation Based on Accounting of Event Type Links;2018;IEEE Digital Library;"I017 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Avaliação de paralelização Spark com 7 milhões de eventos do log Windows8, não dados de NIDS integrado. Integração em SIEM indicada como trabalho futuro. Secções V–VI.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+toyin2024;Intelligent Network Intrusion Detection and Prevention System (NIDPS): A Machine Learning and Network Security;2024;IEEE Digital Library;"I009 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+chandran2026;Real-Time Port Scan Detection and Automated Response Framework Using Log-Based Analysis and SIEM Integration;2026;IEEE Digital Library;"I010 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: include Detetor de tráfego Python integrado em Splunk e resposta firewall; avaliação de portscan com matriz de confusão.C: avaliação sem comparadorRegras temporais8portas/5s,15ligações/30s,10portasconsecutivas/8s. TabelaI:TP178,FN22,FP6,TN9994 (N10200); accuracy99.73%,precision96.74%,recall89%,F1~92.71%. Accuracy elevada dominada por10000benignos/200scans. Reporta15000pps,latência<250ms e88%bloqueios<3s. Nã";Accepted
+;Transfer Learning for Network Intrusion Detection Using Machine Learning, Behavioral Fingerprints and SIEM-Oriented Multi-Source Risk Scoring;2026;IEEE Digital Library;;Rejected
+;Implementing Dockerized Elastic Stack for Security Information and Event Management;2020;IEEE Digital Library;"I007 | Leitura integral: 2026-10-22 | HTML integral IEEE via acesso institucionalDecisão: exclude E2Avalia ELK Docker versus instalação direta, com Wazuh como HIDS e logs firewall/DHCP/WLAN. Não integra nem avalia IDS de rede; Packetbeat recolhe métricas de rede. Evidência: secções II.D, III–V.Avaliação assistida por IA; validação humana independente pendente.";Rejected
+granadillo2016;New Types of Alert Correlation for Security Information and Event Management Systems;2016;IEEE Digital Library;"I005 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 1.5/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+vasilakis2025;Integrated Threat Intelligence and Event Correlation with Wazuh, Suricata, and MISP;2025;IEEE Digital Library;"I003 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 2.0/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+ml2024;{Security Information Event Management data acquisition and analysis methods with machine learning principles};2024;Pesquisa web exploratória;"P14 | Excluído na triagem. E2: modelos de aprendizagem automática sobre dados, sem avaliação operacional NIDS–SIEM. Decisão preliminar preparada com IA; validar pelo grupo.";Rejected
+nespoli2018;{e-Health Wireless IDS with SIEM integration};2018;Pesquisa web exploratória;"P13 | Excluído na triagem. E1: Student Program/poster; artigo completo com revisão por pares não confirmado. Decisão preliminar preparada com IA; validar pelo grupo.";Rejected
+fachruddin2023;{Analisis Integrasi Security Information and Event Management (SIEM) Wazuh dengan Suricata pada Azure Cloud Web Server};2023;Pesquisa web exploratória;"P11 | Excluído na triagem. E1: dissertação de licenciatura; também não cumpre idioma definido. Decisão preliminar preparada com IA; validar pelo grupo.";Rejected
+gonzalez2021;{Security Information and Event Management (SIEM): Analysis, Trends, and Usage in Critical Infrastructures};2021;Pesquisa web exploratória;"P10 | Excluído na triagem. E5: análise geral/estudo secundário sem comparação experimental elegível. Decisão preliminar preparada com IA; validar pelo grupo.";Rejected
+andreica2024;{Integration of the Suricata Intrusion Detection System and of the Wazuh Security Information and Event Management for Real-Time Denial-of-Service and Data Tampering Detection and Alerting};2024;Pesquisa web exploratória;"P04 | Excluído após texto completo. E3: telemetria GPS/IoT especializada, aplicabilidade empresarial geral não demonstrada. Contexto técnico apenas. Decisão preliminar preparada com IA; validar pelo grupo.";Rejected
+suryayusra2026;{Analysis of SIEM and NIDS Integration for Network Monitoring};2026;Pesquisa web exploratória;"P03 | Texto completo. Incluído; Suricata/Wazuh; sem controlo IDS isolado. DOI/mês divergentes entre PDF e página editorial; usar URL verificado. Decisão preliminar preparada com IA; validar pelo grupo.";Accepted
+sheeraz2024;{Revolutionizing SIEM Security: An Innovative Correlation Engine Design for Multi-Layered Attack Detection};2024;Pesquisa web exploratória;"P02 | Texto completo. Incluído; Snort e registos de sistemas; comparação de motores OC/SEC, não IDS isolado. Decisão preliminar preparada com IA; validar pelo grupo.";Accepted
+suarez2015;{Providing SIEM systems with self-adaptation};2015;Pesquisa web exploratória;"P01 | Reformulação em 24-10-2026: excluído da síntese focalizada. R1: Qualidade 3.0/6, abaixo do limiar revisto de 3,5/6. Critério posterior à avaliação inicial; pontuação original preservada.";Rejected
+kotenko2022;{Systematic Literature Review of Security Event Correlation Methods};2022;Pesquisa web exploratória;"P09 | Excluído da síntese primária na triagem. E5: revisão secundária usada no enquadramento e pesquisa. Decisão preliminar preparada com IA; validar pelo grupo.";Rejected
+manzoor2024;{Cybersecurity on a budget: Evaluating security and performance of open-source SIEM solutions for SMEs};2024;Pesquisa web exploratória;"P08 | Excluído na triagem. E2: compara plataformas SIEM e funcionalidades, não o efeito da integração de um NIDS. Decisão preliminar preparada com IA; validar pelo grupo.";Rejected
+davies2025;{A Collaborative Intrusion Detection System Using Snort IDS Nodes};2025;Pesquisa web exploratória;"P07 | Excluído na triagem. E1: preprint, revisão por pares não confirmada. Leitura suplementar apenas. Decisão preliminar preparada com IA; validar pelo grupo.";Rejected
+kenaza2016;{Toward an Efficient Ontology-Based Event Correlation in SIEM};2016;Pesquisa web exploratória;"P06 | Pendente: texto completo não recuperado; confirmar avaliação e papel do NIDS. Repositório respondeu 405. Decisão preliminar preparada com IA; validar pelo grupo.";Unclassified
+maliki2024;{Integration of Heterogeneous IDS with SIEM for DDoS Attack Detection in Computer Networked Multi-Organizational Environments};2024;Pesquisa web exploratória;"P05 | Texto integral lido 22-10-2026. Integração de três NIDS com Wazuh e ensaio SYN flood; comparação indireta, sem controlo benigno. Cinco ensaios de 100 ataques por IDS: Snort 95,4%, Zeek e Suricata 88,6%; correlação 84,0% recalculada da tabela (88,75,87,83,87). O texto refere 84,1% e o resumo/conclusão 84,6%, inconsistência não resolvida. A regra de concordância dos três sensores não demonstra melhoria causal sobre o mesmo IDS. Q1–Q6: 1; 1; 0; 0; 0.5; 1 / 3.5. Validação humana pendente.";Accepted

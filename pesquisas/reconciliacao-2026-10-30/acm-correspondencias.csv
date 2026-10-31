@@ -1,0 +1,373 @@
+url_capturada,titulo_capturado,chave_exportacao_principal
+https://dl.acm.org/doi/10.1145/3779208.3807488,SoK: Reshaping Research on Network Intrusion Detection Systems,10.1145/3779208.3807488
+https://dl.acm.org/doi/10.1145/3733826.3762680,ROSCA: Robust and Scalable Security Alert Correlation and Prioritisation using the MITRE ATT&CK Framework,10.1145/3733826.3762680
+https://dl.acm.org/doi/10.1145/3708821.3710823,"Ruling the Unruly: Designing Effective, Low-Noise Network Intrusion Detection Rules for Security Operations Centers",10.1145/3708821.3710823
+https://dl.acm.org/doi/10.1145/3788858,Identity and Access Management Metrics: A Systematic Review,10.1145/3788858
+https://dl.acm.org/doi/10.1145/3747587,Exploring the Role of Artificial Intelligence in Enhancing Security Operations: A Systematic Review,10.1145/3747587
+https://dl.acm.org/doi/10.1145/3617692,Goosewolf: An Embedded Intrusion Detection System for Advanced Programmable Logic Controllers,10.1145/3617692
+https://dl.acm.org/doi/10.1145/3400286.3418261,On Vulnerability and Security Log analysis,10.1145/3400286.3418261
+https://dl.acm.org/doi/10.1145/3658644.3691392,Poster: M2ASK: A Correlation-Based Multi-Step Attack Scenario Detection Framework Using MITRE ATT&CK Mapping,10.1145/3658644.3691392
+https://dl.acm.org/doi/10.5555/3432601.3432609,An approach to represent and transform application-specific constraints for an intrusion detection system,3432601.3432609
+https://dl.acm.org/doi/10.1145/3214304,Host-Based Intrusion Detection System with System Calls,10.1145/3214304
+https://dl.acm.org/doi/10.1145/3732776,IPv6 Routing Protocol for Low-Power and Lossy Networks Security Vulnerabilities and Mitigation Techniques: A Survey,10.1145/3732776
+https://dl.acm.org/doi/10.1145/3746279,Digital Twins in Security Operations: State of the Art and Future Perspectives,10.1145/3746279
+https://dl.acm.org/doi/10.5555/3507788.3507803,Automatic event categorizer for SIEM,3507788.3507803
+https://dl.acm.org/doi/10.1145/3627673.3680057,GraphWeaver: Billion-Scale Cybersecurity Incident Correlation,10.1145/3627673.3680057
+https://dl.acm.org/doi/10.1145/3789418.3789445,"Machine Learning-Driven DDoS Defense: Feature Engineering, Algorithm Selection, and End-to-End System Validation",10.1145/3789418.3789445
+https://dl.acm.org/doi/10.1145/3759023.3759108,Open-Source Cyberthreat Intelligence Integration for SMEs,10.1145/3759023.3759108
+https://dl.acm.org/doi/10.1145/3487405.3487421,How to Make an Intrusion Detection SystemAware of Steganographic Transmission,10.1145/3487405.3487421
+https://dl.acm.org/doi/10.1145/3576915.3616581,Alert Alchemy: SOC Workflows and Decisions in the Management of NIDS Rules,10.1145/3576915.3616581
+https://dl.acm.org/doi/10.1145/3460620.3460747,SIEM Architecture for the Internet of Things and Smart City,10.1145/3460620.3460747
+https://dl.acm.org/doi/10.1145/3688268.3688291,Exploring Data Breach Prevention Strategies in Real-Time Systems Integration and Architecture in the Healthcare Industry,10.1145/3688268.3688291
+https://dl.acm.org/doi/10.1145/3339252.3340513,AIDA Framework,10.1145/3339252.3340513
+https://dl.acm.org/doi/10.1145/3184898,A Systematic Mapping Study on Intrusion Alert Analysis in Intrusion Detection Systems,10.1145/3184898
+https://dl.acm.org/doi/10.1145/3779208.3806088,"StealthCup: Realistic, Multi-Stage, Evasion-Focused CTF for Benchmarking IDS",10.1145/3779208.3806088
+https://dl.acm.org/doi/10.1145/3714393.3726519,Citar: Cyberthreat Intelligence-driven Attack Reconstruction,10.1145/3714393.3726519
+https://dl.acm.org/doi/10.1145/3820494,ML4SOC: A Comprehensive Review on Machine Learning for Security Operations Centres,10.1145/3820494
+https://dl.acm.org/doi/10.1145/3800506.3803505,Security Barriers to Trustworthy AI-Driven Cyber Threat Intelligence in Finance: Evidence from Practitioners,10.1145/3800506.3803505
+https://dl.acm.org/doi/10.1145/3649218,"A Survey on Cyber Resilience: Key Strategies, Research Challenges, and Future Directions",10.1145/3649218
+https://dl.acm.org/doi/10.1145/3488932.3523261,SteinerLog,10.1145/3488932.3523261
+https://dl.acm.org/doi/10.1145/3774905.3795606,Bridging the Semantic Gap: A Homonym-Aware Ontology Platform for Cybersecurity Interoperability,10.1145/3774905.3795606
+https://dl.acm.org/doi/10.1145/3819836.3819844,A Layered Security Modeling Framework for IoT/IIoT Environments Based on Unified Threat and Mitigation Catalogs,10.1145/3819836.3819844
+https://dl.acm.org/doi/10.1145/3801438.3803160,"A Review of Large Language Models for Cybersecurity Defense: Core Capabilities, Application Practices, and Challenges",10.1145/3801438.3803160
+https://dl.acm.org/doi/10.1145/3806828,Big Data Analytics and Internet of Things Combined with Artificial Intelligence Techniques for Effective Emergency Management: A Comprehensive Survey,10.1145/3806828
+https://dl.acm.org/doi/10.1145/3806007.3810959,Dynamic Taint Analysis for the Detection of Sensitive Data Leaks,10.1145/3806007.3810959
+https://dl.acm.org/doi/10.1145/3607199.3607234,Federated Explainability for Network Anomaly Characterization,10.1145/3607199.3607234
+https://dl.acm.org/doi/10.1145/3305268,A Multi-Vocal Review of Security Orchestration,10.1145/3305268
+https://dl.acm.org/doi/10.1145/3786156.3788577,Reliable SOC LLM Agent with Workflow Generation,10.1145/3786156.3788577
+https://dl.acm.org/doi/10.1145/3459955.3460592,Incident Response Support System for Multi-Located Network by Correlation Analysis of Individual Events,10.1145/3459955.3460592
+https://dl.acm.org/doi/10.1145/3582077,Implementing Data Exfiltration Defense in Situ: A Survey of Countermeasures and Human Involvement,10.1145/3582077
+https://dl.acm.org/doi/10.1145/3006299.3006317,A big data analytics based approach to anomaly detection,10.1145/3006299.3006317
+https://dl.acm.org/doi/10.1145/3778335.3778346,"Research on Attack Chain Reconstruction Technology Based on Graph Analysis, Machine Learning, and Threat Intelligence",10.1145/3778335.3778346
+https://dl.acm.org/doi/10.1145/3234698.3234743,"An Extensive Survey on Intrusion Detection- Past, Present, Future",10.1145/3234698.3234743
+https://dl.acm.org/doi/10.1145/3407023.3409224,Dynamic risk management architecture based on heterogeneous data sources for enhancing the cyber situational awareness in organizations,10.1145/3407023.3409224
+https://dl.acm.org/doi/10.1145/3565570,Smart Grid Cyber-Physical Situational Awareness of Complex Operational Technology Attacks: A Review,10.1145/3565570
+https://dl.acm.org/doi/10.1145/3695462,Alert Prioritisation in Security Operations Centres: A Systematic Survey on Criteria and Methods,10.1145/3695462
+https://dl.acm.org/doi/10.1145/3359789.3359791,MalRank,10.1145/3359789.3359791
+https://dl.acm.org/doi/10.1145/3578357.3589457,Light-Weight Synthesis of Security Logs for Evaluation of Anomaly Detection and Security Related Experiments,10.1145/3578357.3589457
+https://dl.acm.org/doi/10.1145/3696014,"Advanced Persistent Threat Attack Detection Systems: A Review of Approaches, Challenges, and Trends",10.1145/3696014
+https://dl.acm.org/doi/10.1145/3530809,"A Survey on Cyber Situation-awareness Systems: Framework, Techniques, and Insights",10.1145/3530809
+https://dl.acm.org/doi/10.1145/3726122.3726190,Strategic Predictive Maintenance for Internet System Security and Risk Management: A Roadmap,10.1145/3726122.3726190
+https://dl.acm.org/doi/10.1145/3232848,A Survey on Game-Theoretic Approaches for Intrusion Detection and Response Optimization,10.1145/3232848
+https://dl.acm.org/doi/10.1145/3344382,A Survey of Intrusion Detection Systems Leveraging Host Data,10.1145/3344382
+https://dl.acm.org/doi/10.1145/3723158,Alert Fatigue in Security Operations Centres: Research Challenges and Opportunities,10.1145/3723158
+https://dl.acm.org/doi/10.1145/3361216,"A Systematic Survey on Cloud Forensics Challenges, Solutions, and Future Directions",10.1145/3361216
+https://dl.acm.org/doi/10.1145/3474718.3474723,Combat Security Alert Fatigue with AI-Assisted Techniques,10.1145/3474718.3474723
+https://dl.acm.org/doi/10.1145/2994475.2994481,AHEAD,10.1145/2994475.2994481
+https://dl.acm.org/doi/10.1145/3379499,A Taxonomy of Supervised Learning for IDSs in SCADA Environments,10.1145/3379499
+https://dl.acm.org/doi/10.1145/3230833.3233280,The challenge of detecting sophisticated attacks,10.1145/3230833.3233280
+https://dl.acm.org/doi/10.1145/3688810,"Requirements for Playbook-Assisted Cyber Incident Response, Reporting and Automation",10.1145/3688810
+https://dl.acm.org/doi/proceedings/10.1145/3778335,ICBCT '25: Proceedings of the 2025 6th International Conference on Blockchain Technology,10.1145/3778335
+https://dl.acm.org/doi/10.1145/3386250,Predictive Cyber Situational Awareness and Personalized Blacklisting,10.1145/3386250
+https://dl.acm.org/doi/10.1145/3786160.3788469,Real-Time Anomaly Detection in Web Server Logs Using Machine Learning and Apache Kafka,10.1145/3786160.3788469
+https://dl.acm.org/doi/10.1145/2909067.2909099,System Attribute Measures of Network Security Analyzer,10.1145/2909067.2909099
+https://dl.acm.org/doi/10.1145/3605098.3635981,Finding Harmony in the Noise: Blending Security Alerts for Attack Detection,10.1145/3605098.3635981
+https://dl.acm.org/doi/10.5555/3778141.3778157,Prompt-Driven Cybersecurity Education: Exploring LLM-Based Simulation of Security Operations Center Activities,3778141.3778157
+https://dl.acm.org/doi/10.1145/3796263.3796291,Architecting a Secure BYOD Network for a Corporate Campus,10.1145/3796263.3796291
+https://dl.acm.org/doi/10.1145/3199478.3199490,Data-Driven Threat Hunting Using Sysmon,10.1145/3199478.3199490
+https://dl.acm.org/doi/10.1145/3837073,A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy,10.1145/3837073
+https://dl.acm.org/doi/10.1145/3630590.3630600,Unraveling Threat Intelligence Through the Lens of Malicious URL Campaigns,10.1145/3630590.3630600
+https://dl.acm.org/doi/proceedings/10.1145/3689936,CSCS '24: Proceedings of the 2024 Cyber Security in CarS Workshop,10.1145/3689936
+https://dl.acm.org/doi/10.1145/3733801.3764201,CrossGuard: A Cross-Modal Deep Learning Framework for Semantic-Structural Threat Detection utilizing Provenance Graph,10.1145/3733801.3764201
+https://dl.acm.org/doi/10.1145/3331174,A Survey on Representation Learning Efforts in Cybersecurity Domain,10.1145/3331174
+https://dl.acm.org/doi/10.1145/3465481.3470475,Integrating Security Behavior into Attack Simulations,10.1145/3465481.3470475
+https://dl.acm.org/doi/10.1145/3491266,SAIBERSOC: A Methodology and Tool for Experimenting with Security Operation Centers,10.1145/3491266
+https://dl.acm.org/doi/10.1145/2947626.2947643,Algorithms for network server anomaly behavior detection without traffic content inspection,10.1145/2947626.2947643
+https://dl.acm.org/doi/10.1145/3664476.3669924,"SYNAPSE - An Integrated Cyber Security Risk & Resilience Management Platform, With Holistic Situational Awareness, Incident Response & Preparedness Capabilities: SYNAPSE",10.1145/3664476.3669924
+https://dl.acm.org/doi/10.1145/3567675,AMiner: A Modular Log Data Analysis Pipeline for Anomaly-based Intrusion Detection,10.1145/3567675
+https://dl.acm.org/doi/10.1145/3664476.3670450,AI4SOAR: A Security Intelligence Tool for Automated Incident Response,10.1145/3664476.3670450
+https://dl.acm.org/doi/10.1145/3772318.3791226,T1GER: An Instructional Re-Design of a Cyber Range Exercise in a Commercial Security Operations Center,10.1145/3772318.3791226
+https://dl.acm.org/doi/10.1145/3664476.3670458,A Multi-layer Approach through Threat Modelling and Attack Simulation for Enhanced Cyber Security Assessment,10.1145/3664476.3670458
+https://dl.acm.org/doi/10.1109/ICSSP.2019.00017,An ontology-driven approach to automating the process of integrating security software systems,10.1109/ICSSP.2019.00017
+https://dl.acm.org/doi/10.1145/3801741,"AI-Enhanced Cybersecurity in Edge Computing: Threats, Solutions, and Future Directions",10.1145/3801741
+https://dl.acm.org/doi/10.1145/3770177.3770275,An Empirical Analysis of Security Graph Computational Reconstruction and Proactive Defense in Big Data Applications,10.1145/3770177.3770275
+https://dl.acm.org/doi/10.1145/3687300,MITRE ATT&CK: State of the Art and Way Forward,10.1145/3687300
+https://dl.acm.org/doi/10.1145/3586007,Doomed to Repeat with IPv6? Characterization of NAT-centric Security in SOHO Routers,10.1145/3586007
+https://dl.acm.org/doi/10.1145/3730567.3764483,Analyzing Compliance and Complications of Integrating Internationalized X.509 Certificates,10.1145/3730567.3764483
+https://dl.acm.org/doi/10.1145/3679240.3734649,Insights and Lessons Learned from a Realistic Smart Grid Testbed for Cybersecurity Research,10.1145/3679240.3734649
+https://dl.acm.org/doi/10.1145/3349341.3349365,Risky Host Detection with Bias Reduced Semi-Supervised Learning,10.1145/3349341.3349365
+https://dl.acm.org/doi/10.1145/3755881.3755888,A Novel LLM Approach of Cybersecurity Threat Analysis and Response,10.1145/3755881.3755888
+https://dl.acm.org/doi/proceedings/10.1145/3704391,ITCC '24: Proceeding of the 2024 6th International Conference on Information Technology and Computer Communications,10.1145/3704391
+https://dl.acm.org/doi/10.1109/UCC.2014.32,Filtering Security Alerts for the Analysis of a Production SaaS Cloud,10.1109/UCC.2014.32
+https://dl.acm.org/doi/10.1145/3105760,Efficient Attack Graph Analysis through Approximate Inference,10.1145/3105760
+https://dl.acm.org/doi/10.1145/3748263,Leveraging LLMs for Memory Forensics: A Comparative Analysis of Malware Detection,10.1145/3748263
+https://dl.acm.org/doi/10.1145/2535771.2535794,Active security,10.1145/2535771.2535794
+https://dl.acm.org/doi/10.1145/3837062.3838889,A Stage-Aware Tool for Modelling and Verifying CI/CD Security Evidence,10.1145/3837062.3838889
+https://dl.acm.org/doi/proceedings/10.1145/3759023,"icABCD '25: Proceedings of the 2025 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems",10.1145/3759023
+https://dl.acm.org/doi/10.1145/3006299.3006336,Survey of data intensive computing technologies application to to security log data management,10.1145/3006299.3006336
+https://dl.acm.org/doi/10.1145/3696454,Establishing Trust and Security in Decentralized Metaverse: A Web 3.0 Approach,10.1145/3696454
+https://dl.acm.org/doi/proceedings/10.1145/3689933,AutonomousCyber '24: Proceedings of the Workshop on Autonomous Cybersecurity,10.1145/3689933
+https://dl.acm.org/doi/10.1145/3538712.3538736,Facilitating DoS Attack Detection using Unsupervised Anomaly Detection,10.1145/3538712.3538736
+https://dl.acm.org/doi/10.1145/3427228.3427233,SAIBERSOC: Synthetic Attack Injection to Benchmark and Evaluate the Performance of Security Operation Centers,10.1145/3427228.3427233
+https://dl.acm.org/doi/10.1145/3803437.3805261,AVDA: Autonomous Vibe Detection Authoring for Cybersecurity,10.1145/3803437.3805261
+https://dl.acm.org/doi/10.5555/3778141.3778151,"Artificial Intelligence in Cybersecurity: Applications, Challenges, and Future Directions",3778141.3778151
+https://dl.acm.org/doi/proceedings/10.1145/3816713,IAIT '26: Proceedings of the 14th International Conference on Advances in Information Technology,10.1145/3816713
+https://dl.acm.org/doi/10.1145/3769682,Payload-Aware Intrusion Detection with CMAE and Large Language Models,10.1145/3769682
+https://dl.acm.org/doi/10.1145/3719384.3719473,"Cloud Computing and Security: An Overview of Vulnerabilities, Cyber Attacks, and AI-Driven Solutions",10.1145/3719384.3719473
+https://dl.acm.org/doi/10.1145/3664476.3670939,"A SOAR platform for standardizing, automating operational processes and a monitoring service facilitating auditing procedures among IoT trustworthy environments",10.1145/3664476.3670939
+https://dl.acm.org/doi/proceedings/10.1145/3796263,ICCRD '26: Proceedings of the 2026 18th International Conference on Computer Research and Development,10.1145/3796263
+https://dl.acm.org/doi/proceedings/10.1145/3733826,"WATCH '25: Proceedings of the First International Workshop on Analytics, Telemetry, and Cybersecurity for HPCC",10.1145/3733826
+https://dl.acm.org/doi/10.1145/3442480,Cybersecurity Standards in the Context of Operating System,10.1145/3442480
+https://dl.acm.org/doi/proceedings/10.1145/3786160,EnCyCriS '26: Proceedings of the 2026 ACM/IEEE 7th International Workshop on Engineering and Cybersecurity of Critical Systems,10.1145/3786160
+https://dl.acm.org/doi/10.1145/3147234.3148137,Autonomic and Integrated Management for Proactive Cyber Security (AIM-PSC),10.1145/3147234.3148137
+https://dl.acm.org/doi/10.1145/3603287.3651215,"Genomics Cybersecurity Concerns, Challenges, and a Modular Test Lab",10.1145/3603287.3651215
+https://dl.acm.org/doi/10.1145/3297280.3297417,A hierarchical architectural model for network security exploring situational awareness,10.1145/3297280.3297417
+https://dl.acm.org/doi/10.1145/3545574,The Role of Machine Learning in Cybersecurity,10.1145/3545574
+https://dl.acm.org/doi/10.1145/3264437.3264474,Big Data Analytics Architecture for Security Intelligence,10.1145/3264437.3264474
+https://dl.acm.org/doi/10.1145/3765611.3815139,GOOSEIDRS: Intrusion Detection and Automated Response for IEC61850 GOOSE Masquerade Attacks,10.1145/3765611.3815139
+https://dl.acm.org/doi/proceedings/10.1145/3664476,"ARES '24: Proceedings of the 19th International Conference on Availability, Reliability and Security",10.1145/3664476
+https://dl.acm.org/doi/proceedings/10.1145/3727505,"BDCTA '25: Proceedings of the 2025 International Conference on Big Data, Communication Technology and Computer Applications",10.1145/3727505
+https://dl.acm.org/doi/proceedings/10.1145/3736130,CSCS '25: Proceedings of the 2nd Cyber Security in CarS Workshop,10.1145/3736130
+https://dl.acm.org/doi/10.1145/3748522.3779878,SimGuard: Towards Resilience of Community-based Intrusion Detection,10.1145/3748522.3779878
+https://dl.acm.org/doi/proceedings/10.1145/3590777,EICC '23: Proceedings of the 2023 European Interdisciplinary Cybersecurity Conference,10.1145/3590777
+https://dl.acm.org/doi/proceedings/10.1145/3769694,SIGCITE '25: Proceedings of the 26th ACM Annual Conference on Cybersecurity & Information Technology Education,10.1145/3769694
+https://dl.acm.org/doi/10.1145/3617570.3617865,Securing Smart Cities: Unraveling Quantum as a Service,10.1145/3617570.3617865
+https://dl.acm.org/doi/10.1145/3613904.3642368,‘We Do Not Have the Capacity to Monitor All Media’: A Design Case Study on Cyber Situational Awareness in Computer Emergency Response Teams,10.1145/3613904.3642368
+https://dl.acm.org/doi/10.1145/3615366.3615372,Discovering attacker profiles using process mining and the MITRE ATT&CK taxonomy,10.1145/3615366.3615372
+https://dl.acm.org/doi/10.1145/3587828.3587857,Analysis of Digital Forensic Artifacts Data Enrichment Mechanism for Cyber Threat Intelligence,10.1145/3587828.3587857
+https://dl.acm.org/doi/10.1145/3284557.3284716,The Dos and Don'ts of Industrial Network Simulation,10.1145/3284557.3284716
+https://dl.acm.org/doi/proceedings/10.1145/3819836,"CSAIDE '26: Proceedings of the 2026 5th International Conference on Cyber Security, Artificial Intelligence and Digital Economy",10.1145/3819836
+https://dl.acm.org/doi/proceedings/10.1145/3731806,ICSCA '25: Proceedings of the 2025 14th International Conference on Software and Computer Applications,10.1145/3731806
+https://dl.acm.org/doi/10.1145/3812734.3813403,Adversarial Exploitation of Remote Desktop Protocol (RDP) for Lateral Movement,10.1145/3812734.3813403
+https://dl.acm.org/doi/10.1145/3241403.3241460,Combining real-time risk visualization and anomaly detection,10.1145/3241403.3241460
+https://dl.acm.org/doi/10.1145/3011141.3011157,TAON,10.1145/3011141.3011157
+https://dl.acm.org/doi/10.1145/3544548.3581046,Train as you Fight: Evaluating Authentic Cybersecurity Training in Cyber Ranges,10.1145/3544548.3581046
+https://dl.acm.org/doi/10.1145/3559768,APTHunter: Detecting Advanced Persistent Threats in Early Stages,10.1145/3559768
+https://dl.acm.org/doi/proceedings/10.1145/3655693,EICC '24: Proceedings of the 2024 European Interdisciplinary Cybersecurity Conference,10.1145/3655693
+https://dl.acm.org/doi/10.1145/3465481.3470024,Ontology-based Cyber Risk Monitoring Using Cyber Threat Intelligence,10.1145/3465481.3470024
+https://dl.acm.org/doi/10.1145/3731806.3731851,An Empirical Exploration of Cybersecurity Threats and Mitigation Strategies in Software Testing,10.1145/3731806.3731851
+https://dl.acm.org/doi/10.1145/3689933.3690832,"Autonomous Cybersecurity: Evolving Challenges, Emerging Opportunities, and Future Research Trajectories",10.1145/3689933.3690832
+https://dl.acm.org/doi/10.1145/3327961.3329532,Towards a Cyber-Physical Range,10.1145/3327961.3329532
+https://dl.acm.org/doi/10.1145/3780095,Multi-Agent AI Framework for Threat Mitigation and Resilience in Machine Learning Systems,10.1145/3780095
+https://dl.acm.org/doi/10.1145/3230833.3233254,Framework for Security Event Management in 5G,10.1145/3230833.3233254
+https://dl.acm.org/doi/10.1145/3134600.3134645,Smoke Detector,10.1145/3134600.3134645
+https://dl.acm.org/doi/10.1145/3407023.3409225,A novel automatic discovery system of critical assets in cyberspace-oriented military missions,10.1145/3407023.3409225
+https://dl.acm.org/doi/proceedings/10.1145/3773276,"BDCAT '25: Proceedings of the IEEE/ACM 12th International Conference on Big Data Computing, Applications and Technologies",10.1145/3773276
+https://dl.acm.org/doi/10.1145/3534526,Mod2Dash: A Framework for Model-Driven Dashboards Generation,10.1145/3534526
+https://dl.acm.org/doi/proceedings/10.1145/3579375,ACSW '23: Proceedings of the 2023 Australasian Computer Science Week,10.1145/3579375
+https://dl.acm.org/doi/10.1145/3003816,On the Security of Machine Learning in Malware C&C Detection,10.1145/3003816
+https://dl.acm.org/doi/proceedings/10.1145/3688268,ICCCM '24: Proceedings of the 2024 12th International Conference on Computer and Communications Management,10.1145/3688268
+https://dl.acm.org/doi/proceedings/10.1145/3675741,CSET '24: Proceedings of the 17th Cyber Security Experimentation and Test Workshop,10.1145/3675741
+https://dl.acm.org/doi/proceedings/10.1145/3812734,ICICS '26: Proceedings of the 17th International Conference on Information and Communication Systems,10.1145/3812734
+https://dl.acm.org/doi/10.1145/3678890.3678909,ADAPT it! Automating APT Campaign and Group Attribution by Leveraging and Linking Heterogeneous Files,10.1145/3678890.3678909
+https://dl.acm.org/doi/proceedings/10.1145/3733801,CPSIoTSec '25: Proceedings of the 7th Joint Workshop on CPS&IoT Security and Privacy,10.1145/3733801
+https://dl.acm.org/doi/proceedings/10.1145/3643662,EnCyCriS/SVM '24: Proceedings of the 2024 ACM/IEEE 4th International Workshop on Engineering and Cybersecurity of Critical Systems (EnCyCriS) and 2024 IEEE/ACM Second International Workshop on Software Vulnerability,10.1145/3643662
+https://dl.acm.org/doi/10.1145/3474718.3474720,On-premises Analysis of Advanced Threat Prevention Appliances,10.1145/3474718.3474720
+https://dl.acm.org/doi/10.1145/3689930.3695213,On Practical Realization of Evasion Attacks for Industrial Control Systems,10.1145/3689930.3695213
+https://dl.acm.org/doi/10.5555/3512489.3512501,Development of a virtualized security operations center,3512489.3512501
+https://dl.acm.org/doi/10.1145/3339252.3340509,Automated Cyber Threat Sensing and Responding,10.1145/3339252.3340509
+https://dl.acm.org/doi/10.1145/3759260,Human Factors in AI-Driven Cybersecurity: Cognitive Biases and Trust Issues,10.1145/3759260
+https://dl.acm.org/doi/10.1145/3573127,From Zero to 100,10.1145/3573127
+https://dl.acm.org/doi/10.1145/3098954.3106068,Machine Learning Approach for Detection of nonTor Traffic,10.1145/3098954.3106068
+https://dl.acm.org/doi/10.1145/3786335.3813136,Retrieval-Augmented LLMs for Security Incident Analysis,10.1145/3786335.3813136
+https://dl.acm.org/doi/10.1145/3800506.3803516,Towards Securing Access Control in 5G and Beyond with Zero Trust,10.1145/3800506.3803516
+https://dl.acm.org/doi/10.1145/3765325.3765401,Dynamic Deduction Method for Technology Security Risks Based on Event Logic Graph,10.1145/3765325.3765401
+https://dl.acm.org/doi/10.1145/3735647,Evaluating GPT-4’s Semantic Understanding of Obstetric-based Healthcare Text through Nurse Ruth,10.1145/3735647
+https://dl.acm.org/doi/proceedings/10.1145/3617570,QP4SE 2023: Proceedings of the 2nd International Workshop on Quantum Programming for Software Engineering,10.1145/3617570
+https://dl.acm.org/doi/10.1145/3568993,Threat-Based Simulation of Data Exfiltration Toward Mitigating Multiple Ransomware Extortions,10.1145/3568993
+https://dl.acm.org/doi/10.1145/3732365.3732430,Research on network security threat detection system based on large language model Optimized by GloVe technology,10.1145/3732365.3732430
+https://dl.acm.org/doi/10.1145/3510410,Cybersecurity of Industrial Cyber-Physical Systems: A Review,10.1145/3510410
+https://dl.acm.org/doi/10.1145/3819819,Towards AI-Driven Human-Machine Co-Teaming for Adaptive and Agile Cyber Security Operation Centers,10.1145/3819819
+https://dl.acm.org/doi/10.1145/3664476.3671012,Anomaly detection mechanisms for in-vehicle and V2X systems,10.1145/3664476.3671012
+https://dl.acm.org/doi/proceedings/10.1145/3649158,SACMAT 2024: Proceedings of the 29th ACM Symposium on Access Control Models and Technologies,10.1145/3649158
+https://dl.acm.org/doi/proceedings/10.1145/3538969,"ARES '22: Proceedings of the 17th International Conference on Availability, Reliability and Security",10.1145/3538969
+https://dl.acm.org/doi/10.1145/3430360,Trailblazing the Artificial Intelligence for Cybersecurity Discipline,10.1145/3430360
+https://dl.acm.org/doi/10.1145/3670009,Towards Human-AI Teaming to Mitigate Alert Fatigue in Security Operations Centres,10.1145/3670009
+https://dl.acm.org/doi/10.1145/3409289,Proactively Identifying Emerging Hacker Threats from the Dark Web,10.1145/3409289
+https://dl.acm.org/doi/proceedings/10.1145/3605098,SAC '24: Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing,10.1145/3605098
+https://dl.acm.org/doi/proceedings/10.1145/3600160,"ARES '23: Proceedings of the 18th International Conference on Availability, Reliability and Security",10.1145/3600160
+https://dl.acm.org/doi/10.1145/2746194.2746203,An integrated computer-aided cognitive task analysis method for tracing cyber-attack analysis processes,10.1145/2746194.2746203
+https://dl.acm.org/doi/proceedings/10.1145/3787279,ICAAI '25: Proceedings of the 2025 9th International Conference on Advances in Artificial Intelligence,10.1145/3787279
+https://dl.acm.org/doi/proceedings/10.1145/3732365,CNSSE '25: Proceedings of the 2025 5th International Conference on Computer Network Security and Software Engineering,10.1145/3732365
+https://dl.acm.org/doi/10.1145/2675743.2771829,Complex event processing for reactive security monitoring in virtualized computer systems,10.1145/2675743.2771829
+https://dl.acm.org/doi/proceedings/10.1145/3719384,AICCC '24: Proceedings of the 2024 7th Artificial Intelligence and Cloud Computing Conference,10.1145/3719384
+https://dl.acm.org/doi/proceedings/10.1145/3786156,RAIE '26: Proceedings of the 2026 International Workshop on Responsible AI Engineering,10.1145/3786156
+https://dl.acm.org/doi/proceedings/10.1145/3578357,EUROSEC '23: Proceedings of the 16th European Workshop on System Security,10.1145/3578357
+https://dl.acm.org/doi/10.1145/3465481.3470074,AISGA: Multi-objective parameters optimization for countermeasures selection through genetic algorithm,10.1145/3465481.3470074
+https://dl.acm.org/doi/proceedings/10.1145/3689236,ICCSIE '24: Proceedings of the 2024 9th International Conference on Cyber Security and Information Engineering,10.1145/3689236
+https://dl.acm.org/doi/10.1145/3442144.3442147,Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments,10.1145/3442144.3442147
+https://dl.acm.org/doi/10.1145/2914795,Optimal Scheduling of Cybersecurity Analysts for Minimizing Risk,10.1145/2914795
+https://dl.acm.org/doi/proceedings/10.1145/3726122,ICFNDS '24: Proceedings of the 8th International Conference on Future Networks & Distributed Systems,10.1145/3726122
+https://dl.acm.org/doi/proceedings/10.1145/3765611,ACM Sustainability Week '26: Proceedings of the 2026 ACM Sustainability Week,10.1145/3765611
+https://dl.acm.org/doi/10.1145/3151759.3151760,What do we really talk about when we talk about context in pervasive computing,10.1145/3151759.3151760
+https://dl.acm.org/doi/10.1145/3702879.3702899,Research on the Application of Internet of Things Technology in Digitalized Oilfield Construction,10.1145/3702879.3702899
+https://dl.acm.org/doi/10.1145/3538969.3538975,SOAR4IoT: Securing IoT Assets with Digital Twins,10.1145/3538969.3538975
+https://dl.acm.org/doi/10.1145/3564625.3567997,RAPID: Real-Time Alert Investigation with Context-aware Prioritization for Efficient Threat Discovery,10.1145/3564625.3567997
+https://dl.acm.org/doi/10.5555/3859638.3859807,Test-time regression,3859638.3859807
+https://dl.acm.org/doi/10.1145/3147213.3147229,Integrating Continuous Security Assessments in Microservices and Cloud Native Applications,10.1145/3147213.3147229
+https://dl.acm.org/doi/proceedings/10.1145/3702879,IoTCCT '24: Proceedings of the 2024 2nd International Conference on Internet of Things and Cloud Computing Technology,10.1145/3702879
+https://dl.acm.org/doi/proceedings/10.1145/3679240,E-Energy '25: Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems,10.1145/3679240
+https://dl.acm.org/doi/10.1145/3664476.3670921,"Evaluation of Cyber Situation Awareness - Theory, Techniques and Applications",10.1145/3664476.3670921
+https://dl.acm.org/doi/10.1145/3820170,AttackLogGen: Benchmarking LLMs for Generating Attack Logs,10.1145/3820170
+https://dl.acm.org/doi/proceedings/10.1145/3626705,MUM '23: Proceedings of the 22nd International Conference on Mobile and Ubiquitous Multimedia,10.1145/3626705
+https://dl.acm.org/doi/10.1145/3626564.3629102,Attacks and Defences for ML-enhanced Access Control,10.1145/3626564.3629102
+https://dl.acm.org/doi/10.1145/1558607.1558670,Towards insider threat detection using web server logs,10.1145/1558607.1558670
+https://dl.acm.org/doi/10.1145/3664476.3672355,Operation Assessment in cyberspace: Understanding the effects of Cyber Deception,10.1145/3664476.3672355
+https://dl.acm.org/doi/proceedings/10.1145/3744916,ICSE '26: Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering,10.1145/3744916
+https://dl.acm.org/doi/10.1145/2906149,Cloud Log Forensics,10.1145/2906149
+https://dl.acm.org/doi/10.1145/2934732.2934746,Using Collaborative Filtering in a new domain,10.1145/2934732.2934746
+https://dl.acm.org/doi/proceedings/10.1145/3801438,MIDA 2026: Proceedings of the 3rd International Conference on Machine Intelligence and Digital Applications,10.1145/3801438
+https://dl.acm.org/doi/10.1145/3700906.3700939,Response Strategies to Cyber Threats in Service Industries,10.1145/3700906.3700939
+https://dl.acm.org/doi/10.1145/3510581,Dealing with Security Alert Flooding: Using Machine Learning for Domain-independent Alert Aggregation,10.1145/3510581
+https://dl.acm.org/doi/10.1145/3530977,Generating Quality Threat Intelligence Leveraging OSINT and a Cyber Threat Unified Taxonomy,10.1145/3530977
+https://dl.acm.org/doi/10.1145/3705618.3705636,Research on Information System Management Security Architecture Based on Blockchain Technology,10.1145/3705618.3705636
+https://dl.acm.org/doi/proceedings/10.1145/3678890,"RAID '24: Proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses",10.1145/3678890
+https://dl.acm.org/doi/10.1145/3600160.3605066,Automatic incident response solutions: a review of proposed solutions’ input and output,10.1145/3600160.3605066
+https://dl.acm.org/doi/proceedings/10.1145/3779208,ASIA CCS '26: Proceedings of the ACM Asia Conference on Computer and Communications Security,10.1145/3779208
+https://dl.acm.org/doi/10.1145/3319535.3354239,Matched and Mismatched SOCs,10.1145/3319535.3354239
+https://dl.acm.org/doi/10.1145/3664476.3671011,"The Cyber Safe Position: An STPA for Safety, Security, and Resilience Co-Engineering Approach",10.1145/3664476.3671011
+https://dl.acm.org/doi/proceedings/10.1145/3581971,ICBTA '22: Proceedings of the 2022 5th International Conference on Blockchain Technology and Applications,10.1145/3581971
+https://dl.acm.org/doi/proceedings/10.1145/3789418,"ICACS '25: Proceedings of the 9th International Conference on Algorithms, Computing and Systems",10.1145/3789418
+https://dl.acm.org/doi/10.1145/3649158.3657036,Prompting LLM to Enforce and Validate CIS Critical Security Control,10.1145/3649158.3657036
+https://dl.acm.org/doi/10.1145/2663887.2663904,A Tale of Three Security Operation Centers,10.1145/2663887.2663904
+https://dl.acm.org/doi/proceedings/10.1145/3652037,PETRA '24: Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments,10.1145/3652037
+https://dl.acm.org/doi/10.5555/3370272.3370299,Rule-based security management system for data-intensive applications,3370272.3370299
+https://dl.acm.org/doi/proceedings/10.1145/3607199,"RAID '23: Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses",10.1145/3607199
+https://dl.acm.org/doi/proceedings/10.1145/3689930,RICSS '24: Proceedings of the 2024 Workshop on Re-design Industrial Control Systems with Security,10.1145/3689930
+https://dl.acm.org/doi/10.1109/TCBB.2022.3215630,Bidirectional Association Discovery Leads to Precise Identification of Lung Cancer Biomarkers and Genome Taxa Class,10.1109/TCBB.2022.3215630
+https://dl.acm.org/doi/proceedings/10.1145/3711129,EITCE '24: Proceedings of the 2024 8th International Conference on Electronic Information Technology and Computer Engineering,10.1145/3711129
+https://dl.acm.org/doi/10.1145/3537674.3555779,Introducing Zero Trust in a Cybersecurity Course,10.1145/3537674.3555779
+https://dl.acm.org/doi/10.1145/3773274.3774263,DTW-ABAC: A Dynamic Trust Weighted Attribute-Based Access Control Hybrid Security Model for Cloud Applications,10.1145/3773274.3774263
+https://dl.acm.org/doi/10.1145/3309074.3309103,"Mobile device management (MDM) technologies, issues and challenges",10.1145/3309074.3309103
+https://dl.acm.org/doi/proceedings/10.1145/3568160,CSCS '22: Proceedings of the 6th ACM Computer Science in Cars Symposium,10.1145/3568160
+https://dl.acm.org/doi/proceedings/10.1145/3450569,SACMAT '21: Proceedings of the 26th ACM Symposium on Access Control Models and Technologies,10.1145/3450569
+https://dl.acm.org/doi/proceedings/10.1145/3674558,ICCTA '24: Proceedings of the 2024 10th International Conference on Computer Technology Applications,10.1145/3674558
+https://dl.acm.org/doi/10.1145/3512768,APIRO: A Framework for Automated Security Tools API Recommendation,10.1145/3512768
+https://dl.acm.org/doi/10.1145/3470481.3472708,RT-METER,10.1145/3470481.3472708
+https://dl.acm.org/doi/10.1145/3664476.3664513,SECURA: Unified Reference Architecture for Advanced Security and Trust in Safety Critical Infrastructures,10.1145/3664476.3664513
+https://dl.acm.org/doi/10.1145/3575879.3575962,Security Operations Center in Education: Building an Educational Environment for Attack and Defense Scenarios,10.1145/3575879.3575962
+https://dl.acm.org/doi/proceedings/10.1145/3716489,SIGMIS-CPR '25: Proceedings of the 2025 Computers and People Research Conference,10.1145/3716489
+https://dl.acm.org/doi/proceedings/10.1145/3802842,MOCO '26: Proceedings of the 10th International Conference on Movement and Computing,10.1145/3802842
+https://dl.acm.org/doi/proceedings/10.1145/3773274,UCC '25: Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing,10.1145/3773274
+https://dl.acm.org/doi/10.1145/3437120.3437336,"The Insider Threat: Reasons, Effects and Mitigation Techniques",10.1145/3437120.3437336
+https://dl.acm.org/doi/10.1145/3538969.3544463,MetaSEnD: A Security Enabled Development Life Cycle Meta-Model,10.1145/3538969.3544463
+https://dl.acm.org/doi/proceedings/10.1145/3700906,"IPMLP '24: Proceedings of the International Conference on Image Processing, Machine Learning and Pattern Recognition",10.1145/3700906
+https://dl.acm.org/doi/10.1145/3460120.3485361,Enabling Visual Analytics via Alert-driven Attack Graphs,10.1145/3460120.3485361
+https://dl.acm.org/doi/10.1145/3696410.3714798,LLMCloudHunter: Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI,10.1145/3696410.3714798
+https://dl.acm.org/doi/10.1145/3465481.3470023,An Indicators-of-Risk Library for Industrial Network Security,10.1145/3465481.3470023
+https://dl.acm.org/doi/proceedings/10.1145/3615366,LADC '23: Proceedings of the 12th Latin-American Symposium on Dependable and Secure Computing,10.1145/3615366
+https://dl.acm.org/doi/10.1145/3587255,Understanding Indicators of Compromise against Cyber-attacks in Industrial Control Systems: A Security Perspective,10.1145/3587255
+https://dl.acm.org/doi/proceedings/10.1145/3603287,ACMSE '24: Proceedings of the 2024 ACM Southeast Conference,10.1145/3603287
+https://dl.acm.org/doi/proceedings/10.1145/3832783,ASE '26: Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering,10.1145/3832783
+https://dl.acm.org/doi/10.1145/3707651,On Collaboration and Automation in the Context of Threat Detection and Response with Privacy-Preserving Features,10.1145/3707651
+https://dl.acm.org/doi/proceedings/10.1145/3638837,"ICNCC '23: Proceedings of the 2023 12th International Conference on Networks, Communication and Computing",10.1145/3638837
+https://dl.acm.org/doi/proceedings/10.1145/3708821,ASIA CCS '25: Proceedings of the 20th ACM Asia Conference on Computer and Communications Security,10.1145/3708821
+https://dl.acm.org/doi/10.1145/3538969.3538993,Safety and Security Analysis using LDA based on Case Reports: Case Study and Trust Evaluation Method,10.1145/3538969.3538993
+https://dl.acm.org/doi/proceedings/10.1145/3770177,ICEMBDA '25: Proceedings of the 2025 International Conference on Economic Management and Big Data Application,10.1145/3770177
+https://dl.acm.org/doi/proceedings/10.1145/3544548,CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems,10.1145/3544548
+https://dl.acm.org/doi/proceedings/10.1145/3725899,ICSIM '25: Proceedings of the 2025 8th International Conference on Software Engineering and Information Management,10.1145/3725899
+https://dl.acm.org/doi/10.1145/3671147,ZTA-IoT: A Novel Architecture for Zero-Trust in IoT Systems and an Ensuing Usage Control Model,10.1145/3671147
+https://dl.acm.org/doi/10.1145/3634737.3637647,Towards Understanding and Improving Security-Relevant Web Application Logging,10.1145/3634737.3637647
+https://dl.acm.org/doi/10.1145/3482632.3484116,Security Vulnerabilities and Encryption Technologies of Computer Information Technology Data under the Background of Big Data,10.1145/3482632.3484116
+https://dl.acm.org/doi/proceedings/10.1145/3772052,SoCC '25: Proceedings of the 2025 ACM Symposium on Cloud Computing,10.1145/3772052
+https://dl.acm.org/doi/10.1145/3003733.3003759,A Framework for Threat Detection in Communication Systems,10.1145/3003733.3003759
+https://dl.acm.org/doi/proceedings/10.1145/3837062,MODELS Companion '26: Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems,10.1145/3837062
+https://dl.acm.org/doi/10.1145/2799979.2799993,Large-scale systems security evolution,10.1145/2799979.2799993
+https://dl.acm.org/doi/10.1145/3397056.3397084,Research of Global Strategic Cyberspace Security Risk Evaluation System Based on Knowledge Service,10.1145/3397056.3397084
+https://dl.acm.org/doi/10.1145/3485832.3488020,Reproducible and Adaptable Log Data Generation for Sound Cybersecurity Experiments,10.1145/3485832.3488020
+https://dl.acm.org/doi/proceedings/10.1145/3634737,ASIA CCS '24: Proceedings of the 19th ACM Asia Conference on Computer and Communications Security,10.1145/3634737
+https://dl.acm.org/doi/proceedings/10.1145/3587828,ICSCA '23: Proceedings of the 2023 12th International Conference on Software and Computer Applications,10.1145/3587828
+https://dl.acm.org/doi/10.1145/3360664.3360667,Discussing the Feasibility of Acoustic Sensors for Side Channel-aided Industrial Intrusion Detection,10.1145/3360664.3360667
+https://dl.acm.org/doi/proceedings/10.1145/3773365,CISAI '25: Proceedings of the 2025 8th International Conference on Computer Information Science and Artificial Intelligence,10.1145/3773365
+https://dl.acm.org/doi/10.1145/1940941.1940958,Database forensics,10.1145/1940941.1940958
+https://dl.acm.org/doi/proceedings/10.1145/3575879,PCI '22: Proceedings of the 26th Pan-Hellenic Conference on Informatics,10.1145/3575879
+https://dl.acm.org/doi/proceedings/10.1145/3613904,CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems,10.1145/3613904
+https://dl.acm.org/doi/10.1145/2693841,Secure the Cloud,10.1145/2693841
+https://dl.acm.org/doi/10.1145/3832783.3834495,CADscanner: Automating Malware Analysis for Compiled AutoCAD Scripts in Engineering Environments,10.1145/3832783.3834495
+https://dl.acm.org/doi/proceedings/10.1145/3698038,SoCC '24: Proceedings of the 2024 ACM Symposium on Cloud Computing,10.1145/3698038
+https://dl.acm.org/doi/10.14778/3415478.3415560,Delta lake,10.14778/3415478.3415560
+https://dl.acm.org/doi/10.1145/2882969,Dynamic Scheduling of Cybersecurity Analysts for Minimizing Risk Using Reinforcement Learning,10.1145/2882969
+https://dl.acm.org/doi/10.1145/3491260,Building Machine Learning-based Threat Hunting System from Scratch,10.1145/3491260
+https://dl.acm.org/doi/proceedings/10.1145/3778534,AIIIP '25: Proceedings of the 4th International Conference on Artificial Intelligence and Intelligent Information Processing,10.1145/3778534
+https://dl.acm.org/doi/proceedings/10.1145/3487553,WWW '22: Companion Proceedings of the Web Conference 2022,10.1145/3487553
+https://dl.acm.org/doi/proceedings/10.1145/3714393,CODASPY '25: Proceedings of the Fifteenth ACM Conference on Data and Application Security and Privacy,10.1145/3714393
+https://dl.acm.org/doi/10.1145/1982185.1982226,Cloud application logging for forensics,10.1145/1982185.1982226
+https://dl.acm.org/doi/proceedings/10.1145/3697090,LADC '24: Proceedings of the 13th Latin-American Symposium on Dependable and Secure Computing,10.1145/3697090
+https://dl.acm.org/doi/proceedings/10.1145/3746709,CIBDA '25: Proceedings of the 2025 6th International Conference on Computer Information and Big Data Applications,10.1145/3746709
+https://dl.acm.org/doi/proceedings/10.1145/3765325,EKI '25: Proceedings of the 2025 3rd International Conference on Educational Knowledge and Informatization,10.1145/3765325
+https://dl.acm.org/doi/proceedings/10.1145/3716640,ACE '25: Proceedings of the 27th Australasian Computing Education Conference,10.1145/3716640
+https://dl.acm.org/doi/10.1145/3769694.3771130,Adversarial Thinking as a Professional Disposition for Computing Education,10.1145/3769694.3771130
+https://dl.acm.org/doi/proceedings/10.1145/3696410,WWW '25: Proceedings of the ACM on Web Conference 2025,10.1145/3696410
+https://dl.acm.org/doi/proceedings/10.1145/3705618,DECS '24: Proceedings of the 2024 International Conference on Digital Economy and Computer Science,10.1145/3705618
+https://dl.acm.org/doi/proceedings/10.1145/3564625,ACSAC '22: Proceedings of the 38th Annual Computer Security Applications Conference,10.1145/3564625
+https://dl.acm.org/doi/10.1145/2295136.2295148,Emerging trends around big data analytics and security,10.1145/2295136.2295148
+https://dl.acm.org/doi/proceedings/10.1145/3630590,AINTEC '23: Proceedings of the 18th Asian Internet Engineering Conference,10.1145/3630590
+https://dl.acm.org/doi/proceedings/10.1145/3565472,"UMAP '23: Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization",10.1145/3565472
+https://dl.acm.org/doi/10.1145/3786772,Sequence Learning over Behavioral Attack Patterns for Early Detection of Human-Operated Ransomware,10.1145/3786772
+https://dl.acm.org/doi/proceedings/10.1145/3786335,CAIS '26: Proceedings of the ACM Conference on AI and Agentic Systems,10.1145/3786335
+https://dl.acm.org/doi/10.1145/3230833.3234688,Mission-Centric Automated Cyber Red Teaming,10.1145/3230833.3234688
+https://dl.acm.org/doi/10.1145/3773365.3773614,Research on Enterprise Security Operation Based on Large Model Technology,10.1145/3773365.3773614
+https://dl.acm.org/doi/10.1145/3477314.3506961,CHORS,10.1145/3477314.3506961
+https://dl.acm.org/doi/10.5555/2555523.2555584,Cloud-based security services for the smart grid,2555523.2555584
+https://dl.acm.org/doi/10.1145/3368089.3417056,Improving cybersecurity hygiene through JIT patching,10.1145/3368089.3417056
+https://dl.acm.org/doi/10.1145/3605949,How Should Enterprises Quantify and Analyze (Multi-Party) APT Cyber-Risk Exposure in their Industrial IoT Network?,10.1145/3605949
+https://dl.acm.org/doi/10.1145/3708821.3735345,POSTER: Automating ICS Malware Analysis with MITRE ATT&CK,10.1145/3708821.3735345
+https://dl.acm.org/doi/10.1145/2808128.2808135,ACTRA,10.1145/2808128.2808135
+https://dl.acm.org/doi/10.1145/3345252.3345255,Computationally Intensive Functions in Designing and Operating Distributed Cyber Secure and Resilient Systems,10.1145/3345252.3345255
+https://dl.acm.org/doi/proceedings/10.1145/3585059,SIGITE '23: Proceedings of the 24th Annual Conference on Information Technology Education,10.1145/3585059
+https://dl.acm.org/doi/proceedings/10.1145/3755881,Internetware '25: Proceedings of the 16th International Conference on Internetware,10.1145/3755881
+https://dl.acm.org/doi/10.1145/3243734.3243829,Threat Intelligence Computing,10.1145/3243734.3243829
+https://dl.acm.org/doi/10.1145/2611567,Big data and its technical challenges,10.1145/2611567
+https://dl.acm.org/doi/proceedings/10.1145/3572549,ICETC '22: Proceedings of the 14th International Conference on Education Technology and Computers,10.1145/3572549
+https://dl.acm.org/doi/proceedings/10.1145/3701716,WWW '25: Companion Proceedings of the ACM on Web Conference 2025,10.1145/3701716
+https://dl.acm.org/doi/10.1145/3564625.3567980,SpacePhish: The Evasion-space of Adversarial Attacks against Phishing Website Detectors using Machine Learning,10.1145/3564625.3567980
+https://dl.acm.org/doi/10.1145/3773276.3774876,Zero Trust Architecture for Ransomware Defense in Virtualized Environment,10.1145/3773276.3774876
+https://dl.acm.org/doi/10.1145/3748522.3779731,Toward Enumeration of Common Operational Processes: The Water Sector,10.1145/3748522.3779731
+https://dl.acm.org/doi/10.1145/3638253,Multi-SpacePhish: Extending the Evasion-space of Adversarial Attacks against Phishing Website Detectors Using Machine Learning,10.1145/3638253
+https://dl.acm.org/doi/10.1145/3286488,Discovering Patterns for Fact Checking in Knowledge Graphs,10.1145/3286488
+https://dl.acm.org/doi/10.1145/3154273.3154343,"Data Analysis of Cloud Security Alliance's Security, Trust & Assurance Registry",10.1145/3154273.3154343
+https://dl.acm.org/doi/proceedings/10.1145/3770501,IOT '25: Proceedings of the 15th International Conference on the Internet of Things,10.1145/3770501
+https://dl.acm.org/doi/proceedings/10.1145/3724504,ICIEAI '24: Proceedings of the 2024 2nd International Conference on Information Education and Artificial Intelligence,10.1145/3724504
+https://dl.acm.org/doi/proceedings/10.1145/3626564,"Middleware '23: Proceedings of the 24th International Middleware Conference: Demos, Posters and Doctoral Symposium",10.1145/3626564
+https://dl.acm.org/doi/proceedings/10.1145/3658644,CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security,10.1145/3658644
+https://dl.acm.org/doi/proceedings/10.1145/3538712,SSDBM '22: Proceedings of the 34th International Conference on Scientific and Statistical Database Management,10.1145/3538712
+https://dl.acm.org/doi/proceedings/10.5555/3715674,"SC-W '24: Proceedings of the SC '24 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis",3715674
+https://dl.acm.org/doi/proceedings/10.1145/3527049,SPBPU IDE '21: Proceedings of the 3rd International Scientific Conference on Innovations in Digital Economy,10.1145/3527049
+https://dl.acm.org/doi/10.1145/3696410.3714860,Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation,10.1145/3696410.3714860
+https://dl.acm.org/doi/10.1145/3576915.3616578,ADEM: An Authentic Digital EMblem,10.1145/3576915.3616578
+https://dl.acm.org/doi/10.1145/2659651.2659655,Big Data Information Security Maintenance,10.1145/2659651.2659655
+https://dl.acm.org/doi/10.1145/2886780,On Choosing Server- or Client-Side Solutions for BFT,10.1145/2886780
+https://dl.acm.org/doi/10.1145/3727505.3727521,Research on Network Security Model Based on FAIR and OCTAVE Algorithms,10.1145/3727505.3727521
+https://dl.acm.org/doi/proceedings/10.1145/3537674,SIGITE '22: Proceedings of the 23rd Annual Conference on Information Technology Education,10.1145/3537674
+https://dl.acm.org/doi/proceedings/10.1145/3800227,"ICBAR '25: Proceedings of the 2025 5th International Conference on Big Data, Artificial Intelligence and Risk Management",10.1145/3800227
+https://dl.acm.org/doi/proceedings/10.1145/3524489,EnCyCriS '22: Proceedings of the 3rd International Workshop on Engineering and Cybersecurity of Critical Systems,10.1145/3524489
+https://dl.acm.org/doi/proceedings/10.1145/3719027,CCS '25: Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security,10.1145/3719027
+https://dl.acm.org/doi/10.1145/3697090.3699800,MQTT-VET: Exploring MQTT Protocol Vulnerabilities,10.1145/3697090.3699800
+https://dl.acm.org/doi/10.1145/3797823.3797850,Alert or Noise? Reducing False Positives with ActiveBehavioral Analysis for Cloud Security,10.1145/3797823.3797850
+https://dl.acm.org/doi/10.1145/3778534.3778608,Intelligent closed-loop implementation method for the entire log life cycle,10.1145/3778534.3778608
+https://dl.acm.org/doi/10.5555/3184594.C5570244,Chapter 4: Content of the cybersecurity curricular framework,3184594.C5570244
+https://dl.acm.org/doi/10.1145/3319535.3363224,Log2vec,10.1145/3319535.3363224
+https://dl.acm.org/doi/10.1145/3297721,Experience,10.1145/3297721
+https://dl.acm.org/doi/10.5555/3722577.3722678,AMLB,3722577.3722678
+https://dl.acm.org/doi/10.1145/3689236.3691493,Overview of Mobile Security Detection Technologies in Internet Traffic,10.1145/3689236.3691493
+https://dl.acm.org/doi/10.1145/3655693.3655722,Modelling Indicators of Behaviour for Cyber Threat Hunting via Sysmon,10.1145/3655693.3655722
+https://dl.acm.org/doi/book/10.1145/3184594,Cybersecurity Curricula 2017,10.1145/3184594
+https://dl.acm.org/doi/10.1145/3724504.3724609,Research on the Teaching System of Electrical “1+X” Certificate Based on Blockchain,10.1145/3724504.3724609
+https://dl.acm.org/doi/10.1145/3444370.3444623,BloTISRT,10.1145/3444370.3444623
+https://dl.acm.org/doi/10.1145/3352700.3352720,"Network Forensic Analysis for Lawful Enforcement on Steroids, Distributed and Scalable",10.1145/3352700.3352720
+https://dl.acm.org/doi/proceedings/10.1145/3539811,SIGUCCS '23: Proceedings of the 2023 ACM SIGUCCS Annual Conference,10.1145/3539811
+https://dl.acm.org/doi/10.1145/2557977.2558006,Improving patient care in transport medicine through an ontological approach,10.1145/2557977.2558006
+https://dl.acm.org/doi/10.1145/3241403.3241458,Aggregation of security metrics for decision making,10.1145/3241403.3241458
+https://dl.acm.org/doi/10.1145/3436242,Exploit Prediction Scoring System (EPSS),10.1145/3436242
+https://dl.acm.org/doi/10.1145/2808128.2808136,UX Aspects of Threat Information Sharing Platforms,10.1145/2808128.2808136
+https://dl.acm.org/doi/10.1145/2557977.2557985,A smart e-voting system using RFID authentication method for a campus electoral,10.1145/2557977.2557985
+https://dl.acm.org/doi/10.1145/2557977.2558089,SNS-based issue detection and related news summarization scheme,10.1145/2557977.2558089
+https://dl.acm.org/doi/10.1145/2557977.2558031,A method for personalized ranking of items based on similarity between Twitter users,10.1145/2557977.2558031
+https://dl.acm.org/doi/10.1145/2557977.2558012,Requirements engineering approach for real-time and embedded systems,10.1145/2557977.2558012
+https://dl.acm.org/doi/10.1145/2557977.2558072,Password-based single-file encryption and secure data deletion for solid-state drive,10.1145/2557977.2558072
+https://dl.acm.org/doi/10.1145/2557977.2558033,Performance evaluation of routing protocols based on realistic traces from driving simulator,10.1145/2557977.2558033
+https://dl.acm.org/doi/10.1145/3524489.3527299,Building a hardware-in-the-loop (HiL) digital energy station infrastructure for cyber operation resiliency testing,10.1145/3524489.3527299
+https://dl.acm.org/doi/10.1145/2557977.2558066,QoS-aware adaptive data collection in wireless sensor networks,10.1145/2557977.2558066
+https://dl.acm.org/doi/10.1145/2557977.2558071,Linkage of compound objects for supporting maintenance of large-scale web sites,10.1145/2557977.2558071
+https://dl.acm.org/doi/proceedings/10.1145/3662739,MIDA '24: Proceedings of the 2024 International Conference on Machine Intelligence and Digital Applications,10.1145/3662739
+https://dl.acm.org/doi/10.1145/2557977.2558069,Predicting relevant documents for enterprise communication contexts,10.1145/2557977.2558069
+https://dl.acm.org/doi/10.1145/3178158.3178201,Development of the customer centric data visibility framework for the enhancement of the trust of SME customers in cloud services,10.1145/3178158.3178201
+https://dl.acm.org/doi/10.1145/2557977.2557979,SecureSMS,10.1145/2557977.2557979
+https://dl.acm.org/doi/10.1145/2909067.2909102,A Unified Method for Hybrid Network Security Situation Assessment Using HPPAL Approach,10.1145/2909067.2909102
+https://dl.acm.org/doi/10.5555/3722577.3722754,Multi-objective neural architecture search by learning search space partitions,3722577.3722754
+https://dl.acm.org/doi/10.1145/2905055.2905169,Three Tier Network Architecture to Mitigate DDoS Attacks on Hybrid Cloud Environments,10.1145/2905055.2905169
+https://dl.acm.org/doi/10.1145/2808128.2808133,From Cyber Security Information Sharing to Threat Management,10.1145/2808128.2808133
+https://dl.acm.org/doi/10.5555/3455716.3455959,Best practices for scientific research on neural architecture search,3455716.3455959
+https://dl.acm.org/doi/proceedings/10.1145/3703465,NSPW '24: Proceedings of the New Security Paradigms Workshop,10.1145/3703465
+https://dl.acm.org/doi/10.1145/2816820,Connectivity Reestablishment in Self-Organizing Sensor Networks with Dumb Nodes,10.1145/2816820
+https://dl.acm.org/doi/10.1145/959242.959245,Multi-relational data mining,10.1145/959242.959245
